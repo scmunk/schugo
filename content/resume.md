@@ -1,0 +1,20 @@
++++
+categories = ["about"]
+date = "2015-04-16T14:40:24-04:00"
+description = "The resume of Ronald Parker."
+keywords = ["resume", "architect", "security", "simplicity"]
+title = "Ronald Parker - Resume"
+
++++
+
+> The important thing is that you always want to be smart and get things done while being nice to everyone around you.
+
+## Summary 
+I am fortunate to be working with both information security and architecture. Both of these areas are horizontal enablers. When an awareness of architecture is combined with information security you have an opportunity to increase your overall level of security assurance. For the last several years I have delivered the mechanisms to support these ideas.
+
+
+## Documents
+* [Resume - DOCX](/docs/RonaldParker_Resume_b.docx)
+* [Resume - PDF](/docs/RonaldParker_Resume_b.pdf)
+* [Resume - TXT](/docs/RonaldParker_Resume_t.txt)
+

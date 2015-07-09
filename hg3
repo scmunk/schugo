@@ -1,0 +1,3 @@
+# meant to be copied to remote site
+#built to local public
+hugo  --theme=hyde-x --config=config.toml

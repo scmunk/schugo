@@ -1,0 +1,3 @@
+#menat to be ran locally from www
+#not to be copied out
+hugo  --theme=hyde-x --buildDrafts  -d /srv/www --config=configL.toml
