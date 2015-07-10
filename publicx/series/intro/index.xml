@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro on Secret Chipmunk Postings</title>
+    <link>http://www.secretchipmunk.com/series/intro/</link>
+    <description>Recent content in Intro on Secret Chipmunk Postings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Feb 2015 14:45:42 -0500</lastBuildDate>
+    <atom:link href="http://www.secretchipmunk.com/series/intro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Second</title>
+      <link>http://www.secretchipmunk.com/post/second/</link>
+      <pubDate>Fri, 27 Feb 2015 14:45:42 -0500</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/second/</guid>
+      <description>
+
+&lt;h2 id=&#34;second:9f7936f9b5c071ae81db818b80a44a0d&#34;&gt;Second&lt;/h2&gt;
+
+&lt;p&gt;blah d lbalhdd&lt;/p&gt;
+
+&lt;p&gt;more blah &lt;del&gt;strickthrough&lt;/del&gt; goes here&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/apl.png&#34; alt=&#34;text&#34; /&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;list item&lt;/li&gt;
+&lt;li&gt;listem item&lt;/li&gt;
+&lt;li&gt;more items&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code&gt;    $ code stuff
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

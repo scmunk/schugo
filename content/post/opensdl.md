@@ -4,7 +4,6 @@ date = "2015-03-20T15:00:45-04:00"
 description = "Open Security Development Lifecycle"
 keywords = []
 title = "Open Security Development Lifecycle"
-
 +++
 We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.
 

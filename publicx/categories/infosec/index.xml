@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infosec on Secret Chipmunk Postings</title>
+    <link>http://www.secretchipmunk.com/categories/infosec/</link>
+    <description>Recent content in Infosec on Secret Chipmunk Postings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 25 Apr 2015 15:00:45 -0400</lastBuildDate>
+    <atom:link href="http://www.secretchipmunk.com/categories/infosec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OpenSDL Presentation</title>
+      <link>http://www.secretchipmunk.com/post/opensdlpresentation/</link>
+      <pubDate>Sat, 25 Apr 2015 15:00:45 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/opensdlpresentation/</guid>
+      <description>
+
+&lt;p&gt;Here is the condensed version of how to mix security into agile development.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/AgileAndSecurityOilAndWaterHO.pdf&#34;&gt;Agile and Security. (PDF)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;concept-platform:670ec0a62dda65178501a40f9a82b6d2&#34;&gt;Concept Platform&lt;/h2&gt;
+
+&lt;p&gt;A basic framework for the concept has been built around a &lt;a href=&#34;http://www.pmwiki.com&#34;&gt;Wiki&lt;/a&gt; and the &lt;a href=&#34;http://www.opensamm.org&#34;&gt;OpenSAMM&lt;/a&gt;. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.opensdl.com&#34;&gt;Http://www.OpenSDL.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>B-Sides Nashville 2015</title>
+      <link>http://www.secretchipmunk.com/post/BSidesNash2015/</link>
+      <pubDate>Tue, 14 Apr 2015 11:24:54 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/BSidesNash2015/</guid>
+      <description>&lt;p&gt;I got the opportunity to be at B-Sides in Nashville over the weekend. It was a great opportunity to mingle and meet people who had an interest in information security. One of the best parts was a great mix of old professionals and quite a few new people who were interesting in seeing what security is all about. It was a good time and I appreciate all the effort it took to make it happen.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.irongeek.com&#34;&gt;Iron Geek&lt;/a&gt; made his services available so we have great recordings of all the talks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.irongeek.com/i.php?page=videos/bsidesnashville2015/mainlist&#34;&gt;B-Sides Nashvile Videos&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Making sure that security is woven throughout agile development can be a tricky task. This talk will walk through a solution to raising the overall level of security assurance in an agile development environment. The key goals for an environment are pretty straightforward.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Enable the developers with knowledge and processes&lt;/li&gt;
+&lt;li&gt;Scale security with enabled people&lt;/li&gt;
+&lt;li&gt;Assure a better level of security with enablement and scale&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here is a link to the lively video.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.irongeek.com/i.php?page=videos/bsidesnashville2015/b04-agile-and-security-oil-and-water-ron-parker&#34;&gt;Agile and Security. Oil and Water?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An example of the metohd  and the general approach is at &lt;a href=&#34;http://www.opensdl.com&#34;&gt;Open Security Development Lifecycle&lt;/a&gt;. Please take a look at this site and send in your comments and suggestions on how to make it easier for the general community to have a secure agile development environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Security Development Lifecycle</title>
+      <link>http://www.secretchipmunk.com/post/opensdl/</link>
+      <pubDate>Fri, 20 Mar 2015 15:00:45 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/opensdl/</guid>
+      <description>
+
+&lt;p&gt;We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.&lt;/p&gt;
+
+&lt;p&gt;Maybe more importantly development and delivery methodologies have changed drastically over the last couple of years. This is even becoming true of the large scale enterprise shops. The pace of everything is increasing and the limited number of security practitioners can no longer scale to fit the need.&lt;/p&gt;
+
+&lt;p&gt;We need a security development life-cycle that truly effects security assurance.&lt;/p&gt;
+
+&lt;h3 id=&#34;opensdl-objectives:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;OpenSDL Objectives&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Make security an enabler for development teams&lt;/li&gt;
+&lt;li&gt;Scale security to where it needs to be&lt;/li&gt;
+&lt;li&gt;Fit any development methodology&lt;/li&gt;
+&lt;li&gt;Cover the major aspects of security&lt;/li&gt;
+&lt;li&gt;Increase the overall level of security assurance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;opensdl-deliverables:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;OpenSDL Deliverables&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The essential security checklist&lt;/li&gt;
+&lt;li&gt;An SDL knowledgebase driven by the community&lt;/li&gt;
+&lt;li&gt;A platform that enables continuous improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;concept-platform:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;Concept Platform&lt;/h2&gt;
+
+&lt;p&gt;A basic framework for the concept has been built around a &lt;a href=&#34;http://www.pmwiki.com&#34;&gt;Wiki&lt;/a&gt; and the &lt;a href=&#34;http://www.opensamm.org&#34;&gt;OpenSAMM&lt;/a&gt;. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.opensdl.com&#34;&gt;Http://www.OpenSDL.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you would like to be involved drop me a note at&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.twitter.com/scmunk&#34;&gt;@scmunk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;or&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:scmunk@secretchipmunk.com&#34;&gt;scmunk@secretchipmunk.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Control by Control</title>
+      <link>http://www.secretchipmunk.com/post/towercontrolbycontrol/</link>
+      <pubDate>Thu, 12 Mar 2015 12:47:21 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/towercontrolbycontrol/</guid>
+      <description>
+
+&lt;p&gt;You don.t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?&lt;/p&gt;
+
+&lt;p&gt;Be truthful.&lt;/p&gt;
+
+&lt;p&gt;Well maybe you don.t but sometimes you really should.&lt;/p&gt;
+
+&lt;h2 id=&#34;building-the-tower:d8e9488b145763e3df449f872c88aa21&#34;&gt;Building the Tower&lt;/h2&gt;
+
+&lt;p&gt;Information Security controls have been a hot topic lately. Actually the discussion has been more around the lack of controls or how poorly the controls were implemented. In the InfoSec industry there are lots of definitions for these controls. Many major governing, financial and auditing bodies have their own set of them or their own framework to explain them. In doing so they just about build their own security language.&lt;/p&gt;
+
+&lt;p&gt;This proliferation is also how we got to the infamous number of cross-references for controls we have in the security world. You have three pages of controls and then ten pages of cross-references where they explain why their controls are almost just the same but somehow they add extra value. The many sets of controls have become &lt;a href=&#34;http://bit.ly/1enYeyv&#34;&gt;The Tower of Babel&lt;/a&gt; for security professionals.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-need-for-esperanto:d8e9488b145763e3df449f872c88aa21&#34;&gt;The Need for Esperanto&lt;/h2&gt;
+
+&lt;p&gt;Maybe we don&amp;rsquo;t need &lt;a href=&#34;http://bit.ly/1fGwwAY&#34;&gt;Esperanto&lt;/a&gt; but we do need to look for more ways to use what we have and build upon it to make it better. We could be putting more energy into refactoring and improving than building new.&lt;/p&gt;
+
+&lt;p&gt;No matter how much you like or dislike them the most stable set of control definitions is from NIST. To be more specific it is the &lt;a href=&#34;http://1.usa.gov/1hg5DEy&#34;&gt;NIST Special Publication 800-53 Rev 4&lt;/a&gt;. These controls are the most widely referenced controls for security today.&lt;/p&gt;
+
+&lt;p&gt;One of the most interesting points about the 800-53 document is that all the good stuff is at the end.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/11/80053Appd.png&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/11/80053Appd.png&#34; alt=&#34;800-53 r4 Appendicies&#34; width=&#34;590&#34; height=&#34;213&#34; class=&#34;alignnone size-full wp-image-221&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;F-1 is a full list or catalog of all the main security controls. These controls covered the main security goals of Confidentiality, Integrity and Availability (CIA). This was good for government agencies but it was missing an aspect for the commercial sector. The commercial sector is also worried about regulations and privacy issues. These are alluded to in the basic CIA triad but the triad does not provide the full coverage needed.&lt;/p&gt;
+
+&lt;p&gt;Revision 4 of the NIST 800-53 included a control catalog just for privacy issues. For many industries this is an important change. It now makes the 800-53 a lot more cross-industry capable and should eventually remove some of the need for so many different control frameworks.&lt;/p&gt;
+
+&lt;p&gt;Here is the first half of what is included:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/11/80053AppdJ.png&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/11/80053AppdJ.png&#34; alt=&#34;80053AppdJ&#34; width=&#34;596&#34; height=&#34;360&#34; class=&#34;alignnone size-full wp-image-222&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With the addition of the privacy controls industries can now use this as a much broader reference than before. This is especially true if you are a regulated company.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-end:d8e9488b145763e3df449f872c88aa21&#34;&gt;The End&lt;/h2&gt;
+
+&lt;p&gt;Revisit the NIST offerings. It continues to be updated and be made more useful.&lt;/p&gt;
+
+&lt;p&gt;Now we need to take a look at how this fits into the &lt;a href=&#34;http://1.usa.gov/18ERiNh&#34;&gt;CyberSecurity Framework update&lt;/a&gt; that was just released a couple of weeks ago. Maybe we can look at that next time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Security Capabilities</title>
+      <link>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</link>
+      <pubDate>Thu, 12 Mar 2015 12:45:30 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</guid>
+      <description>
+
+&lt;h2 id=&#34;being-capable:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Being Capable&lt;/h2&gt;
+
+&lt;p&gt;We talk a lot in security world. Most of the time we seem to talk about all the possibilities when we need to talk more about what we can actually do.&lt;/p&gt;
+
+&lt;p&gt;What are we capable of doing? We do we need to be capable of doing?&lt;/p&gt;
+
+&lt;h2 id=&#34;being-capable-with-capabilities:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Being Capable with Capabilities&lt;/h2&gt;
+
+&lt;p&gt;When we want to talk with our partners, whether those partners are business-related, very technical or just your managers, you need some consistent way to describe what security does. So many times we use a dozen terms that are all intermingled and ill-defined.&lt;/p&gt;
+
+&lt;p&gt;One way to bring some consistency to your communications, to your planning and even to your budgeting process is to use a capabilities map. By defining what you do and using those definitions across the board you can eliminate one source of confusion.&lt;/p&gt;
+
+&lt;p&gt;So what is a capability?&lt;/p&gt;
+
+&lt;p&gt;TOGAF says that a &lt;a href=&#34;http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap03.html&#34;&gt;capability&lt;/a&gt; is&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;An ability that an organization, person, or system possesses. Capabilities are typically expressed in general and high-level terms and typically require a combination of organization, people, processes, and technology to achieve. For example, marketing, customer contact, or outbound telemarketing.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Most of the time capabilities are strictly business related but they can also be put in a different contexts. We can use them to describe what a security organization does or even what a functional area does within a larger organization. At its most basic level a capability is what you do but not how you do it.&lt;/p&gt;
+
+&lt;h2 id=&#34;an-example:ac8ec186265b080c620f79c4a8c89888&#34;&gt;An Example&lt;/h2&gt;
+
+&lt;p&gt;A security organization may put together a capabilities map in order to determine where it needs to invest in order to meet the challenges of the day or to help deliver secure business requirements. The same map can be used across all areas of the business. The leaders and stakeholders can all discuss security and risk using a consistent view.&lt;/p&gt;
+
+&lt;p&gt;That is all a capabilities map really is. It is a view of the business or domain. If I bring up the &amp;lsquo;A&amp;rsquo; word, Architecture, for a moment I would say that capabilities are a first step in determining a conceptual view of your area.&lt;/p&gt;
+
+&lt;p&gt;Start with a list of WHAT you provide:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Creating IDs&lt;/li&gt;
+&lt;li&gt;Resetting passwords&lt;/li&gt;
+&lt;li&gt;Managing access control&lt;/li&gt;
+&lt;li&gt;Configuration management&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After you make a first pass try to group similar capabilities. Once you have a several items try to group them.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identity and Access Management
+
+&lt;ul&gt;
+&lt;li&gt;Creating IDs&lt;/li&gt;
+&lt;li&gt;Resetting passwords&lt;/li&gt;
+&lt;li&gt;Access control&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Network Security
+
+&lt;ul&gt;
+&lt;li&gt;IDS/IPS&lt;/li&gt;
+&lt;li&gt;NAC&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Configuration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Spend some time determining the minimum number of groups. Concentrate on building out the first two layers of your capabilities. We will call the top layer Level 1 Capabilities and the next layer down Level 2 Capabilities.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identity and Access Management&lt;br /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Manage Access Control&lt;/li&gt;
+&lt;li&gt;Manage Identity Lifecycle&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Provide Infrastructure Security
+
+&lt;ul&gt;
+&lt;li&gt;Provide Boundary Protection&lt;/li&gt;
+&lt;li&gt;Manage Configuration&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We can make our list more presentable too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/Capability.png&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/Capability.png&#34; alt=&#34;Capability&#34; width=&#34;375&#34; height=&#34;284&#34; class=&#34;alignnone size-full wp-image-188&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;recap:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Recap&lt;/h2&gt;
+
+&lt;p&gt;So what is a capability?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;They are WHAT you do&lt;/li&gt;
+&lt;li&gt;A capability may include people, processes and technologies&lt;/li&gt;
+&lt;li&gt;They are part of a terminology and &lt;a href=&#34;http://en.wikipedia.org/wiki/Taxonomy&#34;&gt;taxonomy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;They can be represented with a picture&lt;/li&gt;
+&lt;li&gt;They can be represented with a list&lt;/li&gt;
+&lt;li&gt;Multiple levels of capabilities can be used to represent varying levels of complexity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Much more importantly what can we do once we have built a capabilities map.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A map provides a common picture to be used in communicating&lt;/li&gt;
+&lt;li&gt;The common terminology and views can help guide objectives and strategy&lt;/li&gt;
+&lt;li&gt;They can be a common thread through your maturity models, gap analysis, and roadmaps&lt;/li&gt;
+&lt;li&gt;You can easily see and communicate where you are investing your resources&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;next-time:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Next Time&lt;/h2&gt;
+
+&lt;p&gt;In Part II we will look to continue building out our example set of capabilities for a security organization. It would also be a good time to investigate why you can&amp;rsquo;t just reference all the other frameworks out there like ISO 27001, (ISC)2, or even SABSA.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecstatic Over Static Passwords</title>
+      <link>http://www.secretchipmunk.com/post/ecstaticpasswords/</link>
+      <pubDate>Thu, 12 Mar 2015 12:43:10 -0400</pubDate>
+      
+      <guid>http://www.secretchipmunk.com/post/ecstaticpasswords/</guid>
+      <description>
+
+&lt;p&gt;Well maybe not ecstatic but it is pretty exciting that I have been carrying around a way to house a strong static password and didn&amp;rsquo;t even realize it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/black_single.jpg&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/black_single.jpg&#34; alt=&#34;YubiKey&#34; width=&#34;453&#34; height=&#34;400&#34; class=&#34;alignnone size-full wp-image-182&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have had a &lt;a href=&#34;http://www.yubico.com/&#34;&gt;Yubikey&lt;/a&gt; for over a year now and have used it successfully with &lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt;. A YubiKey is a handy USB or Near Field Communications (NFC) device that can generate a variety of authentication responses. The default is a One Time Password (OTP) that can be verified via a server running the Yubico software. It is an inexpensive way to provide a two-factor authentication method.&lt;/p&gt;
+
+&lt;p&gt;Little did I know, mainly because I don&amp;rsquo;t always read the instructions, that most YubiCo devices have the ability to hold multiple slots or multiple generators. A slot can be configured to generate the Yubico OTP, a Challenge-response, an industry standard OATH response or it can return a static password generated by you. You press the sensor quickly to activate slot 1 or you press it for more than two seconds to activate slot 2.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-revelation:83feb0b7499959288b287011c714d110&#34;&gt;The Revelation&lt;/h2&gt;
+
+&lt;p&gt;Totally missed the part about a static password.&lt;/p&gt;
+
+&lt;p&gt;Short static passwords are usually a bad thing but strong static passwords have their place. The best way to use this is to store a strong password suffix on the YubiKey and then you supply the prefix. What you end up with is a strong variable password that most people could not or would not take the time to memorize.&lt;/p&gt;
+
+&lt;p&gt;Since the YubiKey allows you to store from 16-64 characters in the static section depending on the model the resulting password could be quite long. The key is configured using the &lt;a href=&#34;http://www.yubico.com/products/services-software/personalization-tools/&#34;&gt;YubiCo Personalization Tool&lt;/a&gt; by selecting the &lt;em&gt;Static Password Option&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you use an 8 character prefix and a 32 character suffix that produces a 40 character password with ease. For example the prefix for your Twitter account may be &amp;lsquo;Blurb2Derp&amp;rsquo; and your static key may be &amp;lsquo;ljI10lakhjH_!@#947 *&amp;amp;ghdN1il1li1&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;To use your new strong password type in your prefix then press the sensor for more than two seconds. A password wonder:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Blurb2DerpljI10lakhjH_!@#947 *&amp;amp;ghdN1il1li1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It still will be up to you to generate a total password that has the proper number of security bits and level of entropy. The good point is that you can store the static portion of a password that was generated randomly.&lt;/p&gt;
+
+&lt;p&gt;Using this method you could memorize a prefix for each site and use the YubiKey to enter the majority of the password. This would be great for those long &lt;a href=&#34;http://www.truecrypt.org/&#34; title=&#34;TruCrypt&#34;&gt;TruCrypt&lt;/a&gt; passwords that you never can seem to remember. This method may be an issue if you have some sites that disallow special characters or limit your password to 8 characters.&lt;/p&gt;
+
+&lt;h2 id=&#34;ecstatic-static:83feb0b7499959288b287011c714d110&#34;&gt;Ecstatic Static&lt;/h2&gt;
+
+&lt;p&gt;There are several different models of YubiKeys. YubiCo also provides several other authentication methods along with integrations with several major vendors.&lt;/p&gt;
+
+&lt;p&gt;Time to go change my passwords.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
