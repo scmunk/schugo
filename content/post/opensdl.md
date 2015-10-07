@@ -7,7 +7,7 @@ title = "Open Security Development Lifecycle"
 +++
 We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.
 
-Maybe more importantly development and delivery methodologies have changed drastically over the last couple of years. This is even becoming true of the large scale enterprise shops. The pace of everything is increasing and the limited number of security practitioners can no longer scale to fit the need.       
+Maybe more importantly development and delivery methodologies have changed drastically over the last couple of years. This is even becoming true of the large scale enterprise shops. The pace of everything is increasing and the limited number of security practitioners can no longer scale to fit the need.
 
 We need a security development life-cycle that truly effects security assurance.
 

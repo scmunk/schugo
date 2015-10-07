@@ -33,14 +33,14 @@ Engage your audience by building a story that conveys what matters to them. Give
 *   Build a story around the root cause of these issues
 *   Introduce a solution
 *   Quickly mention next steps
-*   Use images over any verbiage 
+*   Use images over any verbiage
 
 If you have lots of supporting information, charts and graphs push them to the end of the presentation. Only pull them out if someone asks a direct question regarding those facts. Use the story to get agreement. Use the facts later on once you start really working through next steps.
 
 There are lots of story resources out there on the web and I encourage you to utilize those.
 
-*   [LifeHacker][2] 
-*   [TED][3] 
+*   [LifeHacker][2]
+*   [TED][3]
 *   [Enterprise Architecture][4]
 
 ## Conclusion

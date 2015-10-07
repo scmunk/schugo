@@ -1,0 +1,2 @@
+#copy public to www.secretchipmunk.com
+rsync -av public/ u35806521@brayingridge.com:sd/sc

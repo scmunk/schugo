@@ -43,11 +43,11 @@ Start with a list of WHAT you provide:
 
 After you make a first pass try to group similar capabilities. Once you have a several items try to group them.
 
-*   Identity and Access Management 
+*   Identity and Access Management
     *   Creating IDs
     *   Resetting passwords
     *   Access control
-*   Network Security 
+*   Network Security
     *   IDS/IPS
     *   NAC
 *   Configuration
@@ -57,7 +57,7 @@ Spend some time determining the minimum number of groups. Concentrate on buildin
 *   Identity and Access Management  
     *   Manage Access Control
     *   Manage Identity Lifecycle
-*   Provide Infrastructure Security 
+*   Provide Infrastructure Security
     *   Provide Boundary Protection
     *   Manage Configuration
 
@@ -71,7 +71,7 @@ So what is a capability?
 
 *   They are WHAT you do
 *   A capability may include people, processes and technologies
-*   They are part of a terminology and [taxonomy][3] 
+*   They are part of a terminology and [taxonomy][3]
 *   They can be represented with a picture
 *   They can be represented with a list
 *   Multiple levels of capabilities can be used to represent varying levels of complexity

@@ -16,8 +16,7 @@
       <guid>http://www.secretchipmunk.com/post/secretofthegrail/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; What is the secret of the Grail? Who does it serve?&lt;/p&gt;
@@ -634,8 +633,7 @@ Resource-&amp;gt;Browser: Return Resource
 
 &lt;p&gt;Which produces this diagram:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So if you need a quick Sequence Diagram try &lt;a href=&#34;http://www.websequencediagrams.com/&#34;&gt;Web Sequence Diagrams&lt;/a&gt;. You can copy the above example and paste it into the diagram editor to see how easy it is to use.&lt;/p&gt;
 </description>

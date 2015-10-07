@@ -1,5 +1,6 @@
 # C1 Check slash on end
-baseurl = "http://104.131.26.157/"
+#baseurl = "http://104.131.26.157/"
+baseurl = "http://127.0.0.1/"
 
 title = "Secret Chipmunk Postings"
 theme = "hyde-x"
@@ -18,7 +19,7 @@ DisqusShortname = "secretchipmunk"
     # Optional. Use if you want tags and lists.
     category = "categories"
     series = "series"
-	
+
 #
 # All parameters below here are optional and can be mixed and matched.
 #
@@ -71,4 +72,3 @@ DisqusShortname = "secretchipmunk"
     identifier = "about"
     url = "/about/"
     weight = 200
-

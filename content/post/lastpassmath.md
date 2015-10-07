@@ -18,12 +18,11 @@ LastPass uses a Master Password to protect all of your content. If you pick a po
 
 ##The facts
 
-LastPass uses PBKDF2-SHA256 with 100,000+ iterations after adding a salt. This particular algorithm when being ran with that many iterations is not a speedy process. That is actually the point. Calculating the hash to be stored is a slow process. 
+LastPass uses PBKDF2-SHA256 with 100,000+ iterations after adding a salt. This particular algorithm when being ran with that many iterations is not a speedy process. That is actually the point. Calculating the hash to be stored is a slow process.
 
-If we assume you use lowercase, uppercase, numbers, and some special characters you should have 70+ available for your password. 
+If we assume you use lowercase, uppercase, numbers, and some special characters you should have 70+ available for your password.
 
 70^10 ~= 2X10e18 ~= 2^61 8.9M
 70^15 ~= 4X10e27 ~= 2^92 1Xe16
 70^20 ~= 7X10e36 ~= 2^122 2X10e25
 70^25 ~= 1X10e46 ~= 2^153 4X10e34
- 
