@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Secret Chipmunk Postings</title>
-    <link>http://www.secretchipmunk.com/categories/architecture/</link>
+    <link>http://127.0.0.1/categories/architecture/</link>
     <description>Recent content in Architecture on Secret Chipmunk Postings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 12 May 2015 10:09:38 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1/categories/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is the secret of the Grail?</title>
-      <link>http://www.secretchipmunk.com/post/secretofthegrail/</link>
+      <link>http://127.0.0.1/post/secretofthegrail/</link>
       <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/secretofthegrail/</guid>
+      <guid>http://127.0.0.1/post/secretofthegrail/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://127.0.0.1/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; What is the secret of the Grail? Who does it serve?&lt;/p&gt;
@@ -100,10 +100,10 @@
     
     <item>
       <title>Architect from Hole in the Ground</title>
-      <link>http://www.secretchipmunk.com/post/architectfromhole/</link>
+      <link>http://127.0.0.1/post/architectfromhole/</link>
       <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/architectfromhole/</guid>
+      <guid>http://127.0.0.1/post/architectfromhole/</guid>
       <description>
 
 &lt;p&gt;Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title &lt;em&gt;Security Architect&lt;/em&gt; has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?&lt;/p&gt;

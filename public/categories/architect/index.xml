@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architect on Secret Chipmunk Postings</title>
-    <link>http://www.secretchipmunk.com/categories/architect/</link>
+    <link>http://127.0.0.1/categories/architect/</link>
     <description>Recent content in Architect on Secret Chipmunk Postings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 12 Mar 2015 12:21:36 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/categories/architect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1/categories/architect/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Order of Things</title>
-      <link>http://www.secretchipmunk.com/post/orderofthings/</link>
+      <link>http://127.0.0.1/post/orderofthings/</link>
       <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/orderofthings/</guid>
+      <guid>http://127.0.0.1/post/orderofthings/</guid>
       <description>
 
 &lt;h2 id=&#34;sequence-diagrams:c0cb276dc2df1786ccc4a48d54acf821&#34;&gt;Sequence Diagrams&lt;/h2&gt;
@@ -38,7 +38,7 @@ Resource-&amp;gt;Browser: Return Resource
 
 &lt;p&gt;Which produces this diagram:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://127.0.0.1/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So if you need a quick Sequence Diagram try &lt;a href=&#34;http://www.websequencediagrams.com/&#34;&gt;Web Sequence Diagrams&lt;/a&gt;. You can copy the above example and paste it into the diagram editor to see how easy it is to use.&lt;/p&gt;
 </description>

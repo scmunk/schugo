@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Open Security Development Lifecycle  &middot; Secret Chipmunk</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta name="description" content="If you need a repeatable process that helps raise your over all level of security assurance you may need a development life-cycle." />
+
+<meta name="keywords" content="sdl, sdlc, software, development, life-cycle, process, security, infosec, FLOSS, ">
+
+
+<meta property="og:title" content="Open Security Development Lifecycle  &middot; Secret Chipmunk ">
+<meta property="og:site_name" content="Secret Chipmunk"/>
+<meta property="og:url" content="http://www.secretchipmunk.com/blog/2015/03/20/open-security-development-lifecycle/" />
+<meta property="og:locale" content="en-EN">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:description" content="If you need a repeatable process that helps raise your over all level of security assurance you may need a development life-cycle."/>
+<meta property="og:article:published_time" content="2015-03-20T15:00:45-04:00" />
+<meta property="og:article:modified_time" content="2015-03-20T15:00:45-04:00" />
+
+  
+    
+<meta property="og:article:tag" content="sdl">
+    
+<meta property="og:article:tag" content="sdlc">
+    
+<meta property="og:article:tag" content="software">
+    
+<meta property="og:article:tag" content="development">
+    
+<meta property="og:article:tag" content="life-cycle">
+    
+<meta property="og:article:tag" content="process">
+    
+<meta property="og:article:tag" content="security">
+    
+<meta property="og:article:tag" content="infosec">
+    
+<meta property="og:article:tag" content="FLOSS">
+    
+  
+
+  
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@scmunk" />
+<meta name="twitter:creator" content="@scmunk" />
+<meta name="twitter:title" content="Open Security Development Lifecycle" />
+<meta name="twitter:description" content="If you need a repeatable process that helps raise your over all level of security assurance you may need a development life-cycle." />
+<meta name="twitter:url" content="http://www.secretchipmunk.com/blog/2015/03/20/open-security-development-lifecycle/" />
+<meta name="twitter:domain" content="http://www.secretchipmunk.com">
+  
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Open Security Development Lifecycle",
+    "author": {
+      "@type": "Person",
+      "name": "http://profiles.google.com/+?rel=author"
+    },
+    "datePublished": "2015-03-20",
+    "description": "If you need a repeatable process that helps raise your over all level of security assurance you may need a development life-cycle.",
+    "wordCount":  227 
+  }
+</script>
+
+
+
+<link rel="canonical" href="http://www.secretchipmunk.com/blog/2015/03/20/open-security-development-lifecycle/" />
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.secretchipmunk.com/touch-icon-144-precomposed.png">
+<link href="http://www.secretchipmunk.com/favicon.png" rel="icon">
+
+<meta name="generator" content="Hugo 0.14" />
+
+  <!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link href='https://fonts.googleapis.com/css?family=Merriweather:300%7CRaleway%7COpen+Sans' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://www.secretchipmunk.com/css/font-awesome.min.css">
+<link rel="stylesheet" href="http://www.secretchipmunk.com/css/style.css">
+<link rel="stylesheet" href="http://www.secretchipmunk.com/css/highlight/default.css">
+
+  
+</head>
+<body>
+  <main id="main-wrapper" class="container main_wrapper has-sidebar">
+    <header id="main-header" class="container main_header">
+  <div class="container brand">
+  <div class="container title h1-like">
+  <a class="baselink" href="http://www.secretchipmunk.com">
+  Secret Chipmunk
+
+</a>
+
+</div>
+
+  
+<div class="container topline">
+  
+  Enterprise Architecture and Security
+
+
+</div>
+
+
+</div>
+
+  <nav class="container nav primary no-print">
+  
+
+<a class="homelink" href="http://www.secretchipmunk.com">Home</a>
+
+
+  
+<a href="http://www.secretchipmunk.com/about">About</a>
+
+<a href="http://www.secretchipmunk.com/post" title="Posts">Posts</a>
+
+<a href="http://www.secretchipmunk.com/resume/" title="Resume">Resume</a>
+
+<a href="http://www.secretchipmunk.com/topics" title="Topics">Topics</a>
+
+
+</nav>
+
+<div class="container nav secondary no-print">
+  
+<a id="contact-link-email" class="contact_link" href="mailto:scmunk@secretchipmunk.com">
+  <span class="fa fa-envelope-square"></span><span>email</span></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a id="contact-link-twitter" class="contact_link" href="https://twitter.com/scmunk">
+  <span class="fa fa-twitter-square"></span><span>twitter</span></a>
+
+
+
+
+
+
+
+</div>
+
+
+  
+
+</header>
+
+
+<article id="main-content" class="container main_content single">
+  <header class="container hat">
+  <h1>Open Security Development Lifecycle
+</h1>
+
+  <div class="metas">
+<time datetime="2015-03-20">20 Mar, 2015</time>
+
+
+  
+  &middot; Read in about 2 min
+  &middot; (227 Words)
+  <br>
+  
+
+
+</div>
+
+</header>
+
+  <div class="container content">
+  
+
+<p>We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.</p>
+
+<p>Maybe more importantly development and delivery methodologies have changed drastically over the last couple of years. This is even becoming true of the large scale enterprise shops. The pace of everything is increasing and the limited number of security practitioners can no longer scale to fit the need.</p>
+
+<p>We need a security development life-cycle that truly effects security assurance.</p>
+
+<h3 id="opensdl-objectives">OpenSDL Objectives</h3>
+
+<ul>
+<li>Make security an enabler for development teams</li>
+<li>Scale security to where it needs to be</li>
+<li>Fit any development methodology</li>
+<li>Cover the major aspects of security</li>
+<li>Increase the overall level of security assurance</li>
+</ul>
+
+<h3 id="opensdl-deliverables">OpenSDL Deliverables</h3>
+
+<ul>
+<li>The essential security checklist</li>
+<li>An SDL knowledgebase driven by the community</li>
+<li>A platform that enables continuous improvement</li>
+</ul>
+
+<h2 id="concept-platform">Concept Platform</h2>
+
+<p>A basic framework for the concept has been built around a <a href="http://www.pmwiki.com">Wiki</a> and the <a href="http://www.opensamm.org">OpenSAMM</a>. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:</p>
+
+<p><a href="http://www.opensdl.com">Http://www.OpenSDL.com</a></p>
+
+<p>If you would like to be involved drop me a note at</p>
+
+<p><a href="https://www.twitter.com/scmunk">@scmunk</a></p>
+
+<p>or</p>
+
+<p><a href="mailto:scmunk@secretchipmunk.com">scmunk@secretchipmunk.com</a></p>
+
+</div>
+
+
+  <footer class="container">
+  <div class="container navigation no-print">
+  <h2>Navigation</h2>
+  
+  
+
+    
+    <a class="prev" href="http://www.secretchipmunk.com/blog/2015/03/19/why-go-hugo/" title="Why Go Hugo?">
+      Previous
+    </a>
+    
+
+    
+    <a class="next" href="http://www.secretchipmunk.com/blog/2015/04/14/b-sides-nashville-2015/" title="B-Sides Nashville 2015">
+      Next
+    </a>
+    
+
+  
+
+
+</div>
+
+  <div class="container comments">
+  <h2>Comments</h2>
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  (function() {
+    
+    
+    if (window.location.hostname == "localhost")
+      return;
+
+    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
+    dsq.src = '//secretchipmunk.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+</div>
+
+</footer>
+
+</article>
+      <footer id="main-footer" class="container main_footer">
+  
+
+  <div class="container nav foot no-print">
+  
+
+  <a class="toplink" href="#">back to top</a>
+
+</div>
+
+  <div class="container credits">
+  
+
+  
+<div class="container copyright">
+  
+  &copy; 2015 Ron Parker
+
+
+</div>
+
+
+</div>
+
+</footer>
+
+    </main>
+    
+<script type="text/javascript">
+  (function() {
+    
+    
+    if (window.location.hostname == "localhost")
+      return;
+
+    var dsq = document.createElement('script'); dsq.async = true; dsq.type = 'text/javascript';
+    dsq.src = '//secretchipmunk.disqus.com/count.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+
+
+
+<script src="http://www.secretchipmunk.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'Your Google Analytics tracking code', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+    
+  </body>
+</html>
+

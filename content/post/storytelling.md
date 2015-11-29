@@ -1,8 +1,8 @@
 +++
-categories = ["Communication"]
+topics = ["Communication"]
 date = "2015-03-12T12:38:25-04:00"
-description = "Storytelling"
-keywords = []
+description = "One of the most tried and true methods for engaging people and conveying information is through storytelling."
+keywords = ["storytelling", "architecture", "engagement", "information"]
 title = "Storytelling"
 
 +++

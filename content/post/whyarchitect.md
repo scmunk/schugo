@@ -1,8 +1,8 @@
 +++
-categories = []
+topics = ["Architecture"]
 date = "2015-03-16T15:09:38-04:00"
 description = "Why should we architect and why do we need an architect?"
-keywords = []
+keywords = ["architecture","architect", "purposeful", "engineering", "design"]
 title = "Why Architect"
 +++
 
@@ -20,8 +20,8 @@ You architect because you have a particular result in mind that can't easily be 
 
 Architecting is an every day problem and there are lots of situations that require more than a simple design.
 
-*   Building in [accessibility][2] without it seeming to be an add-on 
-*   Bringing about digital transformation and not just implementing a BYOD project 
+*   Building in [accessibility][2] without it seeming to be an add-on
+*   Bringing about digital transformation and not just implementing a BYOD project
 *   Taking advantage of cloud-computing holistically and not just using it as an outsourcing opportunity
 
 These situations need more than simple design. They need a design that is both deep and wide. This is also the key difference between architecting and engineering. An engineer might be the master of a single domain or even the master of a couple domains. They are the people to go to if you need specific answers around implementation or operations. Architects or the people with the role of an architect have to have a much wider exposure.

@@ -1,17 +1,17 @@
 +++
-categories = ["Infosec"]
+topics = ["Infosec"]
 date = "2015-03-12T12:47:21-04:00"
-description = "Control by Control"
-keywords = []
+description = "How do we describe the actions we really need to take in security? How do we build a common dialog so we can all understand the work we are doing?"
+keywords = ["security", "controls", "framework", "NIST", "ISO"]
 title = "Control by Control"
 
 +++
 
-You don.t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?
+You don't read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?
 
 Be truthful.
 
-Well maybe you don.t but sometimes you really should.
+Well maybe you don't but sometimes you really should.
 
 ## Building the Tower
 

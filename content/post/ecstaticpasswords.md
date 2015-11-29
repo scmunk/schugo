@@ -1,8 +1,8 @@
 +++
-categories = ["Infosec"]
+topics = ["Infosec"]
 date = "2015-03-12T12:43:10-04:00"
-description = "Ecstatic Over Static Passwords"
-keywords = []
+description = "No matter what you hear on the streets a strong password is still a valuable thing. This is a look at a strong password scheme using your Yubikey."
+keywords = ["yubiky", "yubico", "passwords", "strong", "multi-factor", "credential"]
 title = "Ecstatic Over Static Passwords"
 
 +++

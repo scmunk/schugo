@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Secret Chipmunk Postings</title>
-    <link>http://www.secretchipmunk.com/categories/about/</link>
+    <link>http://127.0.0.1/categories/about/</link>
     <description>Recent content in About on Secret Chipmunk Postings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 16 Apr 2015 14:40:24 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Ronald Parker - Resume</title>
-      <link>http://www.secretchipmunk.com/resume/</link>
+      <link>http://127.0.0.1/resume/</link>
       <pubDate>Thu, 16 Apr 2015 14:40:24 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/resume/</guid>
+      <guid>http://127.0.0.1/resume/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -27,9 +27,9 @@
 &lt;h2 id=&#34;documents:c59a67a3c7bc5faa453847420267045e&#34;&gt;Documents&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/RonaldParker_Resume_b.docx&#34;&gt;Resume - DOCX&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/RonaldParker_Resume_b.pdf&#34;&gt;Resume - PDF&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/RonaldParker_Resume_t.txt&#34;&gt;Resume - TXT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://127.0.0.1/docs/RonaldParker_Resume_b.docx&#34;&gt;Resume - DOCX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://127.0.0.1/docs/RonaldParker_Resume_b.pdf&#34;&gt;Resume - PDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://127.0.0.1/docs/RonaldParker_Resume_t.txt&#34;&gt;Resume - TXT&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

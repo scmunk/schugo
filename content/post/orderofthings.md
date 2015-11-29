@@ -1,8 +1,8 @@
 +++
-categories = ["Architect"]
+topics = ["Architect"]
 date = "2015-03-12T12:21:36-04:00"
-description = "Order of Things"
-keywords = []
+description = "Sometimes it is nice to see the order of things. The idea isn't new but there are some nice tools out there for producing sequence diagrams."
+keywords = ["sequence", "diagram", "architecture", "design", "engineering", "software", "development"]
 title = "Order of Things"
 
 +++
@@ -16,16 +16,16 @@ There are plenty of tools that let you build some very sophisticated Sequence Di
 Web Sequence Diagrams allows you to enter some simple text and it produces a variety of diagram styles. It diagrams as you type plus it has a menu of examples that you can easily insert into your text. Here is a small example of how SAML should work.
 
     title Simple SAML
-    
+
     Browser->Resource: Resource Request
     Resource->Browser: Redirect
-    Browser->STS: 
+    Browser->STS:
     STS->STS: Cook up assertions
     STS->Browser: Assertions
     Browser->Resource: Assertions
     Resource->Resource: Authorize with Assertions
     Resource->Browser: Return Resource
-    
+
 
 Which produces this diagram:
 

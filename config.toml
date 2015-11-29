@@ -1,70 +1,85 @@
-baseurl = "http://www.secretchipmunk.com/"
+#Hugo Config file
+#Internet version
+#2015-11-29
 
-title = "Secret Chipmunk Postings"
-theme = "hyde-x"
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "http://www.secretchipmunk.com"
+
+# Site title
+title = "Secret Chipmunk"
+
+# Copyright
+copyright = "(c) 2015 Ron Parker"
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hyde-y"
+
+# Pagination
 paginate = 10
-DisqusShortname = "secretchipmunk"
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "secretchipmunk"
+
+[permalinks]
+    #post = "/:year/:month/:day/:slug/"
+    post = "/blog/:year/:month/:day/:title/"
+    code = "/:slug/"
+
+[taxonomies]
+    topic = "topics"
 
 [author]
     name = "Ron Parker"
-
-[permalinks]
-    # Optional. Change the permalink format for the 'post' content type.
-    # The format shown here is the same one Jekyll/Octopress uses by default.
-    # post = "/blog/:year/:month/:day/:title/"
-
-[indexes]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
-    series = "series"
+    email = "scmunk@secretchipmunk.com"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
-    # Used when a given page doesn't set its own.
-    defaultDescription = "Secret Chipmunk Post"
-    defaultKeywords = "architecture,security,simplicity,infosec,entarch"
+    # You can use markdown here.
+    brand = "Secret Chipmunk"
+    topline = "Enterprise Architecture and Security"
+    footline = ""
 
-    # Changes sidebar background and link/accent colours.
-    # See below for more colour options.
-    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
-    theme = "theme-base-08"
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
 
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
-    highlight = "sunburst"
+    highlight = "default"
 
-    # Displays under the author name in the sidebar, keep it short.
-    tagline = "Architecture Security Simplicity"
 
-    # Metadata used to drive integrations.
-    googleAuthorship = "Your Google+ profile ID"
+    # Google Analytics.
     googleAnalytics = "Your Google Analytics tracking code"
-    gravatarHash = "fa3c588601b5b46b031bf8747b8e63df"
 
-    # Sidebar social links, avoid enabling too many of these if possible.
-    # These should be full URLs.
-    github = ""
-    linkedin = ""
-    googleplus = ""
-    facebook = ""
-    twitter = "https://twitter.com/scmunk"
+    # Sidebar social links.
+    github = "" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "" # Your Google+ profile ID
+    facebook = "" # Your Facebook profile ID
+    twitter = "scmunk" # Your Twitter profile ID
+    youtube = ""  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
 
-[[menu.main]]
-    name = "Topics"
-    identifier = "topic"
-    url = "/topic/"
-    weight = 100
-
-[[menu.main]]
-    name = "Resume"
-    identifier = "resume"
-    url = "/resume/"
-    weight = 190
-
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    url = "/about/"
-    weight = 200
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []

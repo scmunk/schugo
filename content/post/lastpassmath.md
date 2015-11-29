@@ -1,5 +1,5 @@
 +++
-categories = ["infosec"]
+topics = ["infosec"]
 date = "2015-06-16T13:13:38-00:00"
 description = "Why the math behind LastPass password cryptography matters to you."
 keywords = ["infosec", "lastpass","cryptography","salt","hash","breach","password","SHA256","HMAC"]

@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Secret Chipmunk Postings</title>
+    <title>Topics on Secret Chipmunk</title>
     <link>http://www.secretchipmunk.com/topic/</link>
-    <description>Recent content in Topics on Secret Chipmunk Postings</description>
+    <description>Recent content in Topics on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
+    <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
+    <copyright>(c) 2015 Ron Parker</copyright>
     <lastBuildDate>Fri, 20 Mar 2015 15:18:55 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/topic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>agile</title>
+      <title>Agile</title>
       <link>http://www.secretchipmunk.com/topic/agile/</link>
       <pubDate>Fri, 20 Mar 2015 15:18:55 -0400</pubDate>
-      
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/topic/agile/</guid>
       <description></description>
     </item>
@@ -21,7 +25,7 @@
       <title>Architecture</title>
       <link>http://www.secretchipmunk.com/topic/architecture/</link>
       <pubDate>Wed, 11 Mar 2015 14:00:22 -0400</pubDate>
-      
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/topic/architecture/</guid>
       <description>&lt;p&gt;Architecture is here.&lt;/p&gt;
 </description>

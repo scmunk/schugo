@@ -2,23 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infosec on Secret Chipmunk Postings</title>
-    <link>http://www.secretchipmunk.com/categories/infosec/</link>
+    <link>http://127.0.0.1/categories/infosec/</link>
     <description>Recent content in Infosec on Secret Chipmunk Postings</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 25 Apr 2015 15:00:45 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/categories/infosec/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jun 2015 13:13:38 +0000</lastBuildDate>
+    <atom:link href="http://127.0.0.1/categories/infosec/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why LastPass Math Matters</title>
+      <link>http://127.0.0.1/post/lastpassmath/</link>
+      <pubDate>Tue, 16 Jun 2015 13:13:38 +0000</pubDate>
+      
+      <guid>http://127.0.0.1/post/lastpassmath/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://127.0.0.1/images/i-love-lastpass.png&#34; alt=&#34;ILoveLastPass&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Jumping straight to the point LastPass had an issue. They had some type of compromise that endangered the confidentiality of stored passwords and other stored secrets. They quickly notified everyone of the event and I am sure they are continuing to work through the situation to put additional controls or changes in place so this is less likely to happen again.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-reminder:1b62e3535febd78b5ea34d16067710cb&#34;&gt;A Reminder&lt;/h2&gt;
+
+&lt;p&gt;LastPass uses a Master Password to protect all of your content. If you pick a poor Master Password your level of protection will be very low. So if for some reason you have picked a five character Master Password that also matches the name of your favorite cat you can&amp;rsquo;t expect much help from LastPass when it comes to long term protection.&lt;/p&gt;
+
+&lt;p&gt;##The facts&lt;/p&gt;
+
+&lt;p&gt;LastPass uses PBKDF2-SHA256 with 100,000+ iterations after adding a salt. This particular algorithm when being ran with that many iterations is not a speedy process. That is actually the point. Calculating the hash to be stored is a slow process.&lt;/p&gt;
+
+&lt;p&gt;If we assume you use lowercase, uppercase, numbers, and some special characters you should have 70+ available for your password.&lt;/p&gt;
+
+&lt;p&gt;70^10 ~= 2X10e18 ~= 2^61 8.9M
+70^15 ~= 4X10e27 ~= 2^92 1Xe16
+70^20 ~= 7X10e36 ~= 2^122 2X10e25
+70^25 ~= 1X10e46 ~= 2^153 4X10e34&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>OpenSDL Presentation</title>
-      <link>http://www.secretchipmunk.com/post/opensdlpresentation/</link>
+      <link>http://127.0.0.1/post/opensdlpresentation/</link>
       <pubDate>Sat, 25 Apr 2015 15:00:45 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/opensdlpresentation/</guid>
+      <guid>http://127.0.0.1/post/opensdlpresentation/</guid>
       <description>
 
 &lt;p&gt;Here is the condensed version of how to mix security into agile development.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/AgileAndSecurityOilAndWaterHO.pdf&#34;&gt;Agile and Security. (PDF)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://127.0.0.1/docs/AgileAndSecurityOilAndWaterHO.pdf&#34;&gt;Agile and Security. (PDF)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;concept-platform:670ec0a62dda65178501a40f9a82b6d2&#34;&gt;Concept Platform&lt;/h2&gt;
 
@@ -30,10 +59,10 @@
     
     <item>
       <title>B-Sides Nashville 2015</title>
-      <link>http://www.secretchipmunk.com/post/BSidesNash2015/</link>
+      <link>http://127.0.0.1/post/BSidesNash2015/</link>
       <pubDate>Tue, 14 Apr 2015 11:24:54 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/BSidesNash2015/</guid>
+      <guid>http://127.0.0.1/post/BSidesNash2015/</guid>
       <description>&lt;p&gt;I got the opportunity to be at B-Sides in Nashville over the weekend. It was a great opportunity to mingle and meet people who had an interest in information security. One of the best parts was a great mix of old professionals and quite a few new people who were interesting in seeing what security is all about. It was a good time and I appreciate all the effort it took to make it happen.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.irongeek.com&#34;&gt;Iron Geek&lt;/a&gt; made his services available so we have great recordings of all the talks.&lt;/p&gt;
@@ -58,10 +87,10 @@
     
     <item>
       <title>Open Security Development Lifecycle</title>
-      <link>http://www.secretchipmunk.com/post/opensdl/</link>
+      <link>http://127.0.0.1/post/opensdl/</link>
       <pubDate>Fri, 20 Mar 2015 15:00:45 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/opensdl/</guid>
+      <guid>http://127.0.0.1/post/opensdl/</guid>
       <description>
 
 &lt;p&gt;We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.&lt;/p&gt;
@@ -106,10 +135,10 @@
     
     <item>
       <title>Control by Control</title>
-      <link>http://www.secretchipmunk.com/post/towercontrolbycontrol/</link>
+      <link>http://127.0.0.1/post/towercontrolbycontrol/</link>
       <pubDate>Thu, 12 Mar 2015 12:47:21 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/towercontrolbycontrol/</guid>
+      <guid>http://127.0.0.1/post/towercontrolbycontrol/</guid>
       <description>
 
 &lt;p&gt;You don.t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?&lt;/p&gt;
@@ -154,10 +183,10 @@
     
     <item>
       <title>Security Capabilities</title>
-      <link>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</link>
+      <link>http://127.0.0.1/post/securitycapabilitiesintro/</link>
       <pubDate>Thu, 12 Mar 2015 12:45:30 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</guid>
+      <guid>http://127.0.0.1/post/securitycapabilitiesintro/</guid>
       <description>
 
 &lt;h2 id=&#34;being-capable:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Being Capable&lt;/h2&gt;
@@ -268,10 +297,10 @@
     
     <item>
       <title>Ecstatic Over Static Passwords</title>
-      <link>http://www.secretchipmunk.com/post/ecstaticpasswords/</link>
+      <link>http://127.0.0.1/post/ecstaticpasswords/</link>
       <pubDate>Thu, 12 Mar 2015 12:43:10 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/ecstaticpasswords/</guid>
+      <guid>http://127.0.0.1/post/ecstaticpasswords/</guid>
       <description>
 
 &lt;p&gt;Well maybe not ecstatic but it is pretty exciting that I have been carrying around a way to house a strong static password and didn&amp;rsquo;t even realize it.&lt;/p&gt;

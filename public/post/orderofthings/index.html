@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Order of Things &middot; Ron Parker</title>
+
+  
+  <link rel="stylesheet" href="http://127.0.0.1/css/poole.css">
+  <link rel="stylesheet" href="http://127.0.0.1/css/hyde.css">
+  <link rel="stylesheet" href="http://127.0.0.1/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://127.0.0.1/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://127.0.0.1/css/hyde-x.css">
+  <link rel="stylesheet" href="http://127.0.0.1/css/highlight/sunburst.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://127.0.0.1/apple-touch-icon-144-precomposed.png">
+  <link href="http://127.0.0.1/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Order of Things">
+  <meta name="keywords" content="architecture,security,simplicity,infosec,entarch">
+  <link rel="author" href="http://plus.google.com/Your%20Google&#43;%20profile%20ID">
+</head>
+<body class="theme-base-0b">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+
+    <div class="sidebar-about">
+      <img src="http://127.0.0.1//images/chipsq.png" alt="chipmunk">
+      <h2>Ron Parker</h2>
+      <p class="lead">Architecture Security Simplicity</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="http://127.0.0.1/">Blog</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://127.0.0.1/topic/">Topics</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://127.0.0.1/resume/">Resume</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://127.0.0.1/about/">About</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      
+      
+      
+      
+      
+      <a href="https://twitter.com/scmunk"><i class="fa fa-twitter-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    <p>Copyright &copy; 2015 <a href="http://127.0.0.1/license/">License</a><br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Order of Things</h1>
+    <span class="post-date">Mar 12, 2015 &middot; 1 minute read &middot; <a href="http://127.0.0.1/post/orderofthings/#disqus_thread">Comments</a>
+    
+    <br/>
+    <a class="label" href="http://127.0.0.1/categories/architect">Architect</a>
+    </span>
+    
+
+<h2 id="sequence-diagrams:c0cb276dc2df1786ccc4a48d54acf821">Sequence Diagrams</h2>
+
+<p>I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.</p>
+
+<p>There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram. Luckily there is a good alternative that is almost as good as the back of a napkin.</p>
+
+<p>Web Sequence Diagrams allows you to enter some simple text and it produces a variety of diagram styles. It diagrams as you type plus it has a menu of examples that you can easily insert into your text. Here is a small example of how SAML should work.</p>
+
+<pre><code>title Simple SAML
+
+Browser-&gt;Resource: Resource Request
+Resource-&gt;Browser: Redirect
+Browser-&gt;STS: 
+STS-&gt;STS: Cook up assertions
+STS-&gt;Browser: Assertions
+Browser-&gt;Resource: Assertions
+Resource-&gt;Resource: Authorize with Assertions
+Resource-&gt;Browser: Return Resource
+</code></pre>
+
+<p>Which produces this diagram:</p>
+
+<p><img src="/images/simplesaml.png" alt="Simple SAML" /></p>
+
+<p>So if you need a quick Sequence Diagram try <a href="http://www.websequencediagrams.com/">Web Sequence Diagrams</a>. You can copy the above example and paste it into the diagram editor to see how easy it is to use.</p>
+
+  </div>
+  <div id="disqus_thread"></div>
+</div>
+
+
+<script type="text/javascript">
+var disqus_shortname = "secretchipmunk";
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
+
+<script type="text/javascript">
+    var disqus_shortname = "secretchipmunk";
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+<script src="http://127.0.0.1/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+<script>
+  var _gaq=[['_setAccount','Your Google Analytics tracking code'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
+
+</body>
+</html>
+

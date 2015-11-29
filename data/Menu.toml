@@ -1,0 +1,19 @@
+
+[posts]
+    Name = "Posts"
+    Title = "Posts"
+    URL = "/post"
+
+[topics]
+    Name = "Topics"
+    Title = "Topics"
+    URL = "/topics"
+
+[about]
+    Name = "About"
+    URL = "/about"
+
+[resume]
+    Name = "Resume"
+    Title = "Resume"
+    URL = "/resume/"

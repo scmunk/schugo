@@ -1,5 +1,5 @@
 +++
-categories = ["architecture"]
+topics = ["Architecture"]
 date = "2015-05-12T10:09:38-04:00"
 description = "What is the secret of architecture? What is its purpose?"
 keywords = ["architecture","intentional", "emergent", "Holy Grail", "architecture value", "optimize","whole"]

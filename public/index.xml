@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Secret Chipmunk Postings</title>
+    <title>Secret Chipmunk</title>
     <link>http://www.secretchipmunk.com/</link>
-    <description>Recent content on Secret Chipmunk Postings</description>
+    <description>Recent content on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
+    <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
+    <copyright>(c) 2015 Ron Parker</copyright>
     <lastBuildDate>Tue, 12 May 2015 10:09:38 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>What is the secret of the Grail?</title>
-      <link>http://www.secretchipmunk.com/post/secretofthegrail/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</link>
       <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/secretofthegrail/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
@@ -40,7 +44,7 @@
 
 &lt;p&gt;&lt;em&gt;Where is Perceval!&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;arthur:9b0652749ecb3aa7897d775c718b6839&#34;&gt;Arthur&lt;/h2&gt;
+&lt;h2 id=&#34;arthur&#34;&gt;Arthur&lt;/h2&gt;
 
 &lt;p&gt;I will not reiterate the whole saga of Arthur, his knights, the land, and the elusive Grail. There were many stories of Arthur but a powerful theme was that Arthur and the land were one. Arthur forgot that this was true. Being separated in spirit from the land around him he fell ill and the land fell into disarray. They could not be separated and the health of one depended on the other.&lt;/p&gt;
 
@@ -48,7 +52,7 @@
 
 &lt;p&gt;&lt;em&gt;cue the music, blooming trees, and galloping horses&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;what-is-the-secret:9b0652749ecb3aa7897d775c718b6839&#34;&gt;What is the secret?&lt;/h2&gt;
+&lt;h2 id=&#34;what-is-the-secret&#34;&gt;What is the secret?&lt;/h2&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;The Secret of Architecture is that the Business and IT are one.&lt;/p&gt;
@@ -62,17 +66,17 @@
 &lt;li&gt;You must architect the whole&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;optimization:9b0652749ecb3aa7897d775c718b6839&#34;&gt;Optimization&lt;/h1&gt;
+&lt;h1 id=&#34;optimization&#34;&gt;Optimization&lt;/h1&gt;
 
 &lt;p&gt;We recognize architecture because we believe that we can optimize the situation.  It takes skill, experience and cross area knowledge to understand how to realize these optimizations. That is the goal of architecting.&lt;/p&gt;
 
-&lt;h1 id=&#34;intentional:9b0652749ecb3aa7897d775c718b6839&#34;&gt;Intentional&lt;/h1&gt;
+&lt;h1 id=&#34;intentional&#34;&gt;Intentional&lt;/h1&gt;
 
 &lt;p&gt;Everything has an architecture. The question is was it intentional?&lt;/p&gt;
 
 &lt;p&gt;Without it being intentional you can&amp;rsquo;t expect much from architecting. You can&amp;rsquo;t expect a particular result. With Intentional Architecture you try to guide the overall outcome to align with what is most valued.&lt;/p&gt;
 
-&lt;h1 id=&#34;whole:9b0652749ecb3aa7897d775c718b6839&#34;&gt;Whole&lt;/h1&gt;
+&lt;h1 id=&#34;whole&#34;&gt;Whole&lt;/h1&gt;
 
 &lt;p&gt;No matter what you call yourself or what your area is there can be active architecture. You will have a scope and everything within that scope must be considered but not necessarily acted upon. This is the horizontal nature of architecting and is a primary difference between architecting and engineering.&lt;/p&gt;
 
@@ -80,7 +84,7 @@
 
 &lt;p&gt;Trouble comes into play when we ignore items that fall within our scope. Setting a smaller scope is ok but do not make the scope large then leave areas to chance.&lt;/p&gt;
 
-&lt;h1 id=&#34;so-go-forth:9b0652749ecb3aa7897d775c718b6839&#34;&gt;So go forth!&lt;/h1&gt;
+&lt;h1 id=&#34;so-go-forth&#34;&gt;So go forth!&lt;/h1&gt;
 
 &lt;p&gt;How do we expect that system optimization will happen when we only consider some of the parts?&lt;/p&gt;
 
@@ -92,7 +96,7 @@
 
 &lt;p&gt;For next time, let&amp;rsquo;s go figure out how to build agile and reactive architectures for everyone.&lt;/p&gt;
 
-&lt;h1 id=&#34;excalibur:9b0652749ecb3aa7897d775c718b6839&#34;&gt;Excalibur&lt;/h1&gt;
+&lt;h1 id=&#34;excalibur&#34;&gt;Excalibur&lt;/h1&gt;
 
 &lt;p&gt;As a side note if you have not seen &lt;a href=&#34;http://www.imdb.com/title/tt0082348/&#34;&gt;Excalibur&lt;/a&gt; please run out and find a copy to view right away. Inspiration is everywhere. You just need to look around.&lt;/p&gt;
 </description>
@@ -100,17 +104,17 @@
     
     <item>
       <title>OpenSDL Presentation</title>
-      <link>http://www.secretchipmunk.com/post/opensdlpresentation/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/04/25/opensdl-presentation/</link>
       <pubDate>Sat, 25 Apr 2015 15:00:45 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/opensdlpresentation/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/04/25/opensdl-presentation/</guid>
       <description>
 
 &lt;p&gt;Here is the condensed version of how to mix security into agile development.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/AgileAndSecurityOilAndWaterHO.pdf&#34;&gt;Agile and Security. (PDF)&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;concept-platform:670ec0a62dda65178501a40f9a82b6d2&#34;&gt;Concept Platform&lt;/h2&gt;
+&lt;h2 id=&#34;concept-platform&#34;&gt;Concept Platform&lt;/h2&gt;
 
 &lt;p&gt;A basic framework for the concept has been built around a &lt;a href=&#34;http://www.pmwiki.com&#34;&gt;Wiki&lt;/a&gt; and the &lt;a href=&#34;http://www.opensamm.org&#34;&gt;OpenSAMM&lt;/a&gt;. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:&lt;/p&gt;
 
@@ -122,7 +126,7 @@
       <title>Ronald Parker - Resume</title>
       <link>http://www.secretchipmunk.com/resume/</link>
       <pubDate>Thu, 16 Apr 2015 14:40:24 -0400</pubDate>
-      
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/resume/</guid>
       <description>
 
@@ -130,11 +134,11 @@
 &lt;p&gt;The important thing is that you always want to be smart and get things done while being nice to everyone around you.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;summary:c59a67a3c7bc5faa453847420267045e&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;I am fortunate to be working with both information security and architecture. Both of these areas are horizontal enablers. When an awareness of architecture is combined with information security you have an opportunity to increase your overall level of security assurance. For the last several years I have delivered the mechanisms to support these ideas.&lt;/p&gt;
 
-&lt;h2 id=&#34;documents:c59a67a3c7bc5faa453847420267045e&#34;&gt;Documents&lt;/h2&gt;
+&lt;h2 id=&#34;documents&#34;&gt;Documents&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/RonaldParker_Resume_b.docx&#34;&gt;Resume - DOCX&lt;/a&gt;&lt;/li&gt;
@@ -146,10 +150,10 @@
     
     <item>
       <title>B-Sides Nashville 2015</title>
-      <link>http://www.secretchipmunk.com/post/BSidesNash2015/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/04/14/b-sides-nashville-2015/</link>
       <pubDate>Tue, 14 Apr 2015 11:24:54 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/BSidesNash2015/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/04/14/b-sides-nashville-2015/</guid>
       <description>&lt;p&gt;I got the opportunity to be at B-Sides in Nashville over the weekend. It was a great opportunity to mingle and meet people who had an interest in information security. One of the best parts was a great mix of old professionals and quite a few new people who were interesting in seeing what security is all about. It was a good time and I appreciate all the effort it took to make it happen.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.irongeek.com&#34;&gt;Iron Geek&lt;/a&gt; made his services available so we have great recordings of all the talks.&lt;/p&gt;
@@ -173,20 +177,20 @@
     </item>
     
     <item>
-      <title>agile</title>
+      <title>Agile</title>
       <link>http://www.secretchipmunk.com/topic/agile/</link>
       <pubDate>Fri, 20 Mar 2015 15:18:55 -0400</pubDate>
-      
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/topic/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Security Development Lifecycle</title>
-      <link>http://www.secretchipmunk.com/post/opensdl/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/20/open-security-development-lifecycle/</link>
       <pubDate>Fri, 20 Mar 2015 15:00:45 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/opensdl/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/20/open-security-development-lifecycle/</guid>
       <description>
 
 &lt;p&gt;We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and  available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.&lt;/p&gt;
@@ -195,7 +199,7 @@
 
 &lt;p&gt;We need a security development life-cycle that truly effects security assurance.&lt;/p&gt;
 
-&lt;h3 id=&#34;opensdl-objectives:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;OpenSDL Objectives&lt;/h3&gt;
+&lt;h3 id=&#34;opensdl-objectives&#34;&gt;OpenSDL Objectives&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Make security an enabler for development teams&lt;/li&gt;
@@ -205,7 +209,7 @@
 &lt;li&gt;Increase the overall level of security assurance&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;opensdl-deliverables:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;OpenSDL Deliverables&lt;/h3&gt;
+&lt;h3 id=&#34;opensdl-deliverables&#34;&gt;OpenSDL Deliverables&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;The essential security checklist&lt;/li&gt;
@@ -213,7 +217,7 @@
 &lt;li&gt;A platform that enables continuous improvement&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;concept-platform:6083725bddd4d0a914bec8a7bc730b76&#34;&gt;Concept Platform&lt;/h2&gt;
+&lt;h2 id=&#34;concept-platform&#34;&gt;Concept Platform&lt;/h2&gt;
 
 &lt;p&gt;A basic framework for the concept has been built around a &lt;a href=&#34;http://www.pmwiki.com&#34;&gt;Wiki&lt;/a&gt; and the &lt;a href=&#34;http://www.opensamm.org&#34;&gt;OpenSAMM&lt;/a&gt;. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:&lt;/p&gt;
 
@@ -231,10 +235,10 @@
     
     <item>
       <title>Why Go Hugo?</title>
-      <link>http://www.secretchipmunk.com/post/whyhugo/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/19/why-go-hugo/</link>
       <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/whyhugo/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/19/why-go-hugo/</guid>
       <description>&lt;p&gt;For years I have worked with WordPress along with its themes, plugins, and vulnerabilities. I even purchased a couple of themes. Yes, WP can make a pretty site but at the end of the day I spent a lot of time working on WP and not working on content. It was time to move on to a different way of publishing.&lt;/p&gt;
 
 &lt;p&gt;There were a several reasons that I moved from a dynamic site to a static site.&lt;/p&gt;
@@ -257,10 +261,10 @@
     
     <item>
       <title>Why Architect</title>
-      <link>http://www.secretchipmunk.com/post/whyarchitect/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</link>
       <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/whyarchitect/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</guid>
       <description>
 
 &lt;blockquote&gt;
@@ -273,7 +277,7 @@
 
 &lt;p&gt;You architect because you have a particular result in mind that can&amp;rsquo;t easily be achieved without coordination and thought across disciplines. You need a result that requires some systematic arrangement of ideas.&lt;/p&gt;
 
-&lt;h2 id=&#34;more-than-siloed-design:ebc611326388beea1ed63442849222e5&#34;&gt;More than siloed design&lt;/h2&gt;
+&lt;h2 id=&#34;more-than-siloed-design&#34;&gt;More than siloed design&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2014/11/architectramp.jpg&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2014/11/architectramp.jpg&#34; alt=&#34;architectramp&#34; width=&#34;650&#34; height=&#34;432&#34; class=&#34;alignleft size-full wp-image-358&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -297,25 +301,25 @@
     
     <item>
       <title>Control by Control</title>
-      <link>http://www.secretchipmunk.com/post/towercontrolbycontrol/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/control-by-control/</link>
       <pubDate>Thu, 12 Mar 2015 12:47:21 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/towercontrolbycontrol/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/control-by-control/</guid>
       <description>
 
-&lt;p&gt;You don.t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?&lt;/p&gt;
+&lt;p&gt;You don&amp;rsquo;t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?&lt;/p&gt;
 
 &lt;p&gt;Be truthful.&lt;/p&gt;
 
-&lt;p&gt;Well maybe you don.t but sometimes you really should.&lt;/p&gt;
+&lt;p&gt;Well maybe you don&amp;rsquo;t but sometimes you really should.&lt;/p&gt;
 
-&lt;h2 id=&#34;building-the-tower:d8e9488b145763e3df449f872c88aa21&#34;&gt;Building the Tower&lt;/h2&gt;
+&lt;h2 id=&#34;building-the-tower&#34;&gt;Building the Tower&lt;/h2&gt;
 
 &lt;p&gt;Information Security controls have been a hot topic lately. Actually the discussion has been more around the lack of controls or how poorly the controls were implemented. In the InfoSec industry there are lots of definitions for these controls. Many major governing, financial and auditing bodies have their own set of them or their own framework to explain them. In doing so they just about build their own security language.&lt;/p&gt;
 
 &lt;p&gt;This proliferation is also how we got to the infamous number of cross-references for controls we have in the security world. You have three pages of controls and then ten pages of cross-references where they explain why their controls are almost just the same but somehow they add extra value. The many sets of controls have become &lt;a href=&#34;http://bit.ly/1enYeyv&#34;&gt;The Tower of Babel&lt;/a&gt; for security professionals.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-need-for-esperanto:d8e9488b145763e3df449f872c88aa21&#34;&gt;The Need for Esperanto&lt;/h2&gt;
+&lt;h2 id=&#34;the-need-for-esperanto&#34;&gt;The Need for Esperanto&lt;/h2&gt;
 
 &lt;p&gt;Maybe we don&amp;rsquo;t need &lt;a href=&#34;http://bit.ly/1fGwwAY&#34;&gt;Esperanto&lt;/a&gt; but we do need to look for more ways to use what we have and build upon it to make it better. We could be putting more energy into refactoring and improving than building new.&lt;/p&gt;
 
@@ -335,7 +339,7 @@
 
 &lt;p&gt;With the addition of the privacy controls industries can now use this as a much broader reference than before. This is especially true if you are a regulated company.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-end:d8e9488b145763e3df449f872c88aa21&#34;&gt;The End&lt;/h2&gt;
+&lt;h2 id=&#34;the-end&#34;&gt;The End&lt;/h2&gt;
 
 &lt;p&gt;Revisit the NIST offerings. It continues to be updated and be made more useful.&lt;/p&gt;
 
@@ -345,19 +349,19 @@
     
     <item>
       <title>Security Capabilities</title>
-      <link>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/security-capabilities/</link>
       <pubDate>Thu, 12 Mar 2015 12:45:30 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/securitycapabilitiesintro/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/security-capabilities/</guid>
       <description>
 
-&lt;h2 id=&#34;being-capable:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Being Capable&lt;/h2&gt;
+&lt;h2 id=&#34;being-capable&#34;&gt;Being Capable&lt;/h2&gt;
 
 &lt;p&gt;We talk a lot in security world. Most of the time we seem to talk about all the possibilities when we need to talk more about what we can actually do.&lt;/p&gt;
 
 &lt;p&gt;What are we capable of doing? We do we need to be capable of doing?&lt;/p&gt;
 
-&lt;h2 id=&#34;being-capable-with-capabilities:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Being Capable with Capabilities&lt;/h2&gt;
+&lt;h2 id=&#34;being-capable-with-capabilities&#34;&gt;Being Capable with Capabilities&lt;/h2&gt;
 
 &lt;p&gt;When we want to talk with our partners, whether those partners are business-related, very technical or just your managers, you need some consistent way to describe what security does. So many times we use a dozen terms that are all intermingled and ill-defined.&lt;/p&gt;
 
@@ -373,7 +377,7 @@
 
 &lt;p&gt;Most of the time capabilities are strictly business related but they can also be put in a different contexts. We can use them to describe what a security organization does or even what a functional area does within a larger organization. At its most basic level a capability is what you do but not how you do it.&lt;/p&gt;
 
-&lt;h2 id=&#34;an-example:ac8ec186265b080c620f79c4a8c89888&#34;&gt;An Example&lt;/h2&gt;
+&lt;h2 id=&#34;an-example&#34;&gt;An Example&lt;/h2&gt;
 
 &lt;p&gt;A security organization may put together a capabilities map in order to determine where it needs to invest in order to meet the challenges of the day or to help deliver secure business requirements. The same map can be used across all areas of the business. The leaders and stakeholders can all discuss security and risk using a consistent view.&lt;/p&gt;
 
@@ -429,7 +433,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/Capability.png&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/Capability.png&#34; alt=&#34;Capability&#34; width=&#34;375&#34; height=&#34;284&#34; class=&#34;alignnone size-full wp-image-188&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;recap:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Recap&lt;/h2&gt;
+&lt;h2 id=&#34;recap&#34;&gt;Recap&lt;/h2&gt;
 
 &lt;p&gt;So what is a capability?&lt;/p&gt;
 
@@ -451,7 +455,7 @@
 &lt;li&gt;You can easily see and communicate where you are investing your resources&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;next-time:ac8ec186265b080c620f79c4a8c89888&#34;&gt;Next Time&lt;/h2&gt;
+&lt;h2 id=&#34;next-time&#34;&gt;Next Time&lt;/h2&gt;
 
 &lt;p&gt;In Part II we will look to continue building out our example set of capabilities for a security organization. It would also be a good time to investigate why you can&amp;rsquo;t just reference all the other frameworks out there like ISO 27001, (ISC)2, or even SABSA.&lt;/p&gt;
 </description>
@@ -459,10 +463,10 @@
     
     <item>
       <title>Ecstatic Over Static Passwords</title>
-      <link>http://www.secretchipmunk.com/post/ecstaticpasswords/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/ecstatic-over-static-passwords/</link>
       <pubDate>Thu, 12 Mar 2015 12:43:10 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/ecstaticpasswords/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/ecstatic-over-static-passwords/</guid>
       <description>
 
 &lt;p&gt;Well maybe not ecstatic but it is pretty exciting that I have been carrying around a way to house a strong static password and didn&amp;rsquo;t even realize it.&lt;/p&gt;
@@ -473,7 +477,7 @@
 
 &lt;p&gt;Little did I know, mainly because I don&amp;rsquo;t always read the instructions, that most YubiCo devices have the ability to hold multiple slots or multiple generators. A slot can be configured to generate the Yubico OTP, a Challenge-response, an industry standard OATH response or it can return a static password generated by you. You press the sensor quickly to activate slot 1 or you press it for more than two seconds to activate slot 2.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-revelation:83feb0b7499959288b287011c714d110&#34;&gt;The Revelation&lt;/h2&gt;
+&lt;h2 id=&#34;the-revelation&#34;&gt;The Revelation&lt;/h2&gt;
 
 &lt;p&gt;Totally missed the part about a static password.&lt;/p&gt;
 
@@ -491,7 +495,7 @@
 
 &lt;p&gt;Using this method you could memorize a prefix for each site and use the YubiKey to enter the majority of the password. This would be great for those long &lt;a href=&#34;http://www.truecrypt.org/&#34; title=&#34;TruCrypt&#34;&gt;TruCrypt&lt;/a&gt; passwords that you never can seem to remember. This method may be an issue if you have some sites that disallow special characters or limit your password to 8 characters.&lt;/p&gt;
 
-&lt;h2 id=&#34;ecstatic-static:83feb0b7499959288b287011c714d110&#34;&gt;Ecstatic Static&lt;/h2&gt;
+&lt;h2 id=&#34;ecstatic-static&#34;&gt;Ecstatic Static&lt;/h2&gt;
 
 &lt;p&gt;There are several different models of YubiKeys. YubiCo also provides several other authentication methods along with integrations with several major vendors.&lt;/p&gt;
 
@@ -501,37 +505,37 @@
     
     <item>
       <title>Architect from Hole in the Ground</title>
-      <link>http://www.secretchipmunk.com/post/architectfromhole/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</link>
       <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/architectfromhole/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
       <description>
 
 &lt;p&gt;Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title &lt;em&gt;Security Architect&lt;/em&gt; has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?&lt;/p&gt;
 
-&lt;h2 id=&#34;the-roles:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;The Roles&lt;/h2&gt;
+&lt;h2 id=&#34;the-roles&#34;&gt;The Roles&lt;/h2&gt;
 
 &lt;p&gt;It might make more sense to work through the main types of roles you might see on a daily basis. This list is by no means comprehensive but it does try to cover the ones that seem to deliver the most amount of confusion.&lt;/p&gt;
 
-&lt;h3 id=&#34;engineer:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;Engineer&lt;/h3&gt;
+&lt;h3 id=&#34;engineer&#34;&gt;Engineer&lt;/h3&gt;
 
 &lt;p&gt;In the security world these are the guys (girls, people) who traditionally have had their hands on the knobs and the switches. They are the ones who set the configurations, they write the rules, and they keep the machinery running. In recent times we have seen the security engineers expand their domain by including more than just firewall or IDS/IPS technologies. Their responsibilities are now including other areas such as the equivalent of information security data mining and data loss management.&lt;/p&gt;
 
-&lt;h3 id=&#34;architect:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;Architect&lt;/h3&gt;
+&lt;h3 id=&#34;architect&#34;&gt;Architect&lt;/h3&gt;
 
-&lt;p&gt;This is where the confusion really sets in. An Architect is someone who looks for ways to deliver certain &lt;a href=&#34;http://bit.ly/175q0K9&#34;&gt;Quality Attributes&lt;/a&gt; for an environment. These attributes include things like performance, stability, security, flexibility, integrability, and many other &amp;ldquo;-ilities.&amp;rdquo; There are also different types of Architects so you may have more technical-oriented architects or more business-oriented architects.&lt;/p&gt;
+&lt;p&gt;This is where the confusion really sets in. An Architect is someone who looks for ways to deliver certain &lt;a href=&#34;http://bit.ly/175q0K9&#34;&gt;Quality Attributes&lt;/a&gt; for an environment. These attributes include things like performance, stability, security, flexibility, integrability, and many other &amp;laquo;-ilities.&amp;raquo; There are also different types of Architects so you may have more technical-oriented architects or more business-oriented architects.&lt;/p&gt;
 
 &lt;p&gt;Security Architects are responsible for ensuring that the design of systems and environments meet security and compliance mandates. Depending on the specific flavor they may be working with the overall security strategy, establishing policies and standards, or they may be more specific and only deliver application security architecture.&lt;/p&gt;
 
-&lt;h3 id=&#34;solution-architect:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;Solution Architect&lt;/h3&gt;
+&lt;h3 id=&#34;solution-architect&#34;&gt;Solution Architect&lt;/h3&gt;
 
 &lt;p&gt;Most of the time you do not have specific Solution Architects in the security world. Solution Architects are usually more general in nature. They help to deliver the optimal answer by selecting the best standards, technologies, and systems that are available in the current environment. The key is that they don&amp;rsquo;t pick any new technologies or standards but they use what has already been selected for normal use in the enterprise.&lt;/p&gt;
 
-&lt;h3 id=&#34;enterprise-architect:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;Enterprise Architect&lt;/h3&gt;
+&lt;h3 id=&#34;enterprise-architect&#34;&gt;Enterprise Architect&lt;/h3&gt;
 
-&lt;p&gt;Enterprise Architects are all about optimizing the whole or the business with their primary partners being on the business side. They speak of delivering business value in the most effective way possible so when they present options they gauge them by Risk, Cost and Benefit. Their job is to help set business strategy and then give the best options for making those strategies become reality. In the end the are the trusted partners giving advice on how to move the business forward in the most efficient way possible. They are not the guys you will call in to &amp;ldquo;fix your computer.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Enterprise Architects are all about optimizing the whole or the business with their primary partners being on the business side. They speak of delivering business value in the most effective way possible so when they present options they gauge them by Risk, Cost and Benefit. Their job is to help set business strategy and then give the best options for making those strategies become reality. In the end the are the trusted partners giving advice on how to move the business forward in the most efficient way possible. They are not the guys you will call in to &amp;laquo;fix your computer.&amp;raquo;&lt;/p&gt;
 
-&lt;h2 id=&#34;the-point:b09c0a7d2de447e6b6bb3aacf838a00b&#34;&gt;The Point&lt;/h2&gt;
+&lt;h2 id=&#34;the-point&#34;&gt;The Point&lt;/h2&gt;
 
 &lt;p&gt;The point to all of this division is that there are many different types of deliverables needed execute an optimized business.&lt;/p&gt;
 
@@ -547,10 +551,10 @@
     
     <item>
       <title>Storytelling</title>
-      <link>http://www.secretchipmunk.com/post/storytelling/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/storytelling/</link>
       <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/storytelling/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/storytelling/</guid>
       <description>
 
 &lt;p&gt;Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.&lt;/p&gt;
@@ -559,7 +563,7 @@
 
 &lt;p&gt;What is a security professional to do when the facts, data and logic don&amp;rsquo;t sway the masses to action?&lt;/p&gt;
 
-&lt;h2 id=&#34;storytelling:e4e93fe896522e04f5d5ddab88543da6&#34;&gt;Storytelling&lt;/h2&gt;
+&lt;h2 id=&#34;storytelling&#34;&gt;Storytelling&lt;/h2&gt;
 
 &lt;p&gt;The answer is simple. You need to engage your decision makers with a story that conveys the issues, reveals the villains and describes best solution for the business.&lt;/p&gt;
 
@@ -573,7 +577,7 @@
 
 &lt;p&gt;Engage your audience by building a story that conveys what matters to them. Give them a reason to care about your facts. Realize that that in order to activate the facts you have to attach some emotion to them otherwise they are just cold, hard facts.&lt;/p&gt;
 
-&lt;h2 id=&#34;next-steps:e4e93fe896522e04f5d5ddab88543da6&#34;&gt;Next Steps&lt;/h2&gt;
+&lt;h2 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Pick a small number of facts&lt;/li&gt;
@@ -595,7 +599,7 @@
 &lt;li&gt;&lt;a href=&#34;http://weblog.tetradian.com/2011/08/07/ea-is-all-about-story/&#34; title=&#34;Architecture Storytelling&#34;&gt;Enterprise Architecture&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;conclusion:e4e93fe896522e04f5d5ddab88543da6&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 
 &lt;p&gt;You may not be able to employee this tactic for each engagement but it might be worth putting the extra storytelling effort in on the important solutions you are trying to sell.&lt;/p&gt;
 
@@ -605,13 +609,13 @@
     
     <item>
       <title>Order of Things</title>
-      <link>http://www.secretchipmunk.com/post/orderofthings/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</link>
       <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
-      
-      <guid>http://www.secretchipmunk.com/post/orderofthings/</guid>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</guid>
       <description>
 
-&lt;h2 id=&#34;sequence-diagrams:c0cb276dc2df1786ccc4a48d54acf821&#34;&gt;Sequence Diagrams&lt;/h2&gt;
+&lt;h2 id=&#34;sequence-diagrams&#34;&gt;Sequence Diagrams&lt;/h2&gt;
 
 &lt;p&gt;I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.&lt;/p&gt;
 
@@ -623,7 +627,7 @@
 
 Browser-&amp;gt;Resource: Resource Request
 Resource-&amp;gt;Browser: Redirect
-Browser-&amp;gt;STS: 
+Browser-&amp;gt;STS:
 STS-&amp;gt;STS: Cook up assertions
 STS-&amp;gt;Browser: Assertions
 Browser-&amp;gt;Resource: Assertions
@@ -643,7 +647,7 @@ Resource-&amp;gt;Browser: Return Resource
       <title>Architecture</title>
       <link>http://www.secretchipmunk.com/topic/architecture/</link>
       <pubDate>Wed, 11 Mar 2015 14:00:22 -0400</pubDate>
-      
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/topic/architecture/</guid>
       <description>&lt;p&gt;Architecture is here.&lt;/p&gt;
 </description>

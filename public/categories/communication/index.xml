@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communication on Secret Chipmunk Postings</title>
-    <link>http://www.secretchipmunk.com/categories/communication/</link>
+    <link>http://127.0.0.1/categories/communication/</link>
     <description>Recent content in Communication on Secret Chipmunk Postings</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 12 Mar 2015 12:38:25 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/categories/communication/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://127.0.0.1/categories/communication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Storytelling</title>
-      <link>http://www.secretchipmunk.com/post/storytelling/</link>
+      <link>http://127.0.0.1/post/storytelling/</link>
       <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
       
-      <guid>http://www.secretchipmunk.com/post/storytelling/</guid>
+      <guid>http://127.0.0.1/post/storytelling/</guid>
       <description>
 
 &lt;p&gt;Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.&lt;/p&gt;
