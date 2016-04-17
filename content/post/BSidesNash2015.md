@@ -22,4 +22,4 @@ Here is a link to the lively video.
 
 [Agile and Security. Oil and Water?](http://www.irongeek.com/i.php?page=videos/bsidesnashville2015/b04-agile-and-security-oil-and-water-ron-parker)
 
-An example of the metohd  and the general approach is at [Open Security Development Lifecycle](http://www.opensdl.com). Please take a look at this site and send in your comments and suggestions on how to make it easier for the general community to have a secure agile development environment.
+An example of the method  and the general approach is at [Open Security Development Lifecycle](http://www.opensdl.com). Please take a look at this site and send in your comments and suggestions on how to make it easier for the general community to have a secure agile development environment.

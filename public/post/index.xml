@@ -9,8 +9,60 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2015 Ron Parker</copyright>
-    <lastBuildDate>Tue, 12 May 2015 10:09:38 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2016 11:24:54 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>B-Sides Nashville 2016 Presentation</title>
+      <link>http://www.secretchipmunk.com/blog/2016/04/17/b-sides-nashville-2016-presentation/</link>
+      <pubDate>Sun, 17 Apr 2016 11:24:54 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2016/04/17/b-sides-nashville-2016-presentation/</guid>
+      <description>&lt;p&gt;&lt;em&gt;IAM Complicated: Why you need to know about Identity and Access Management&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.bsidesnash.org/&#34;&gt;B-Sides Nashville 2016&lt;/a&gt; was a great event. Here are the links for the presentation.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;The &lt;a href=&#34;http://ig2.me/d9&#34;&gt;IAM Complicated Recording&lt;/a&gt; thanks to &lt;a href=&#34;https://twitter.com/irongeek_adc&#34;&gt;Iron Geek&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/IAMComplicated.pptx&#34;&gt;IAM Complicated Presentation(PPTX)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/IAMComplicated.pdf&#34;&gt;IAM Complicated Presentation(PDF)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>B-Sides Nashville 2016</title>
+      <link>http://www.secretchipmunk.com/blog/2016/02/24/b-sides-nashville-2016/</link>
+      <pubDate>Wed, 24 Feb 2016 11:24:54 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2016/02/24/b-sides-nashville-2016/</guid>
+      <description>
+
+&lt;p&gt;I have been given the opportunity to speak at &lt;a href=&#34;http://www.bsidesnash.org/&#34;&gt;B-Sides Nashville 2016&lt;/a&gt;. This year&amp;rsquo;s topic will be all about identity access and management.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;IAM Complicated: Why you need to know about Identity and Access Management&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Do you know where identities are born? How can you tell what an identify can and can&amp;rsquo;t do? What do you do when you realize your refrigerator has an identity of its own? If your IPS blocks your refrigerator you may lose access to your pizza.&lt;/p&gt;
+
+&lt;p&gt;Identity and Access Management is what connects the identities, accounts, entitlements, roles, permissions, and resources to provide correct access control. All areas of security are dependent on IAM and need to understand how to take advantage of it. This talk will explore the IAM lifecycle showing how to protect it and wreck it along the way.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;the-full-lifecycle&#34;&gt;The Full Lifecycle&lt;/h3&gt;
+
+&lt;p&gt;Most people don&amp;rsquo;t look past the use of ids and passwords. It helps to understand the full breadth of this space especially now that IAM borders have expanded to include more third-parties (CSPs), ubiquitous mobile, and most importantly a much more dynamic environment. Look at how Docker has changed the security provisioning landscape. &lt;/p&gt;
+
+&lt;p&gt;There is also a growing need to incorporate identity and access management into Threat and Vulnerability/Network Security. The information gathered and the intelligence built needs to incorporate all the pieces in order to have a holistic view of security.&lt;/p&gt;
+
+&lt;p&gt;By looking at the full IAM lifecycle, including entitlement management, you can see where you can take advantage of the situation no matter which team you are supporting.&lt;/p&gt;
+
+&lt;h3 id=&#34;b-sides-2016&#34;&gt;B-Sides 2016&lt;/h3&gt;
+
+&lt;p&gt;So be sure to make plans and get your tickets for &lt;a href=&#34;http://www.bsidesnash.org/&#34;&gt;B-Sides Nashville 2016&lt;/a&gt;. There are a lot of great speakers and you can&amp;rsquo;t beat the price.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>What is the secret of the Grail?</title>
@@ -20,7 +72,8 @@
       <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;
+&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; What is the secret of the Grail? Who does it serve?&lt;/p&gt;
@@ -146,7 +199,7 @@
 
 &lt;p&gt;&lt;a href=&#34;http://www.irongeek.com/i.php?page=videos/bsidesnashville2015/b04-agile-and-security-oil-and-water-ron-parker&#34;&gt;Agile and Security. Oil and Water?&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;An example of the metohd  and the general approach is at &lt;a href=&#34;http://www.opensdl.com&#34;&gt;Open Security Development Lifecycle&lt;/a&gt;. Please take a look at this site and send in your comments and suggestions on how to make it easier for the general community to have a secure agile development environment.&lt;/p&gt;
+&lt;p&gt;An example of the method  and the general approach is at &lt;a href=&#34;http://www.opensdl.com&#34;&gt;Open Security Development Lifecycle&lt;/a&gt;. Please take a look at this site and send in your comments and suggestions on how to make it easier for the general community to have a secure agile development environment.&lt;/p&gt;
 </description>
     </item>
     
@@ -602,7 +655,8 @@ Resource-&amp;gt;Browser: Return Resource
 
 &lt;p&gt;Which produces this diagram:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;
+&lt;/p&gt;
 
 &lt;p&gt;So if you need a quick Sequence Diagram try &lt;a href=&#34;http://www.websequencediagrams.com/&#34;&gt;Web Sequence Diagrams&lt;/a&gt;. You can copy the above example and paste it into the diagram editor to see how easy it is to use.&lt;/p&gt;
 </description>

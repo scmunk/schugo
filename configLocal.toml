@@ -9,7 +9,7 @@ baseurl = "http://127.0.0.1/"
 title = "Secret Chipmunk"
 
 # Copyright
-copyright = "(c) 2015 Ron Parker"
+copyright = "(c) 2016 Ron Parker"
 
 # Language
 languageCode = "en-EN"
