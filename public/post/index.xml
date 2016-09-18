@@ -9,8 +9,25 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2015 Ron Parker</copyright>
-    <lastBuildDate>Sun, 17 Apr 2016 11:24:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 18 Sep 2016 12:21:29 -0500</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Entitlements in a Multi-tenant World</title>
+      <link>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</link>
+      <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
+      <description>&lt;p&gt;We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.&lt;/p&gt;
+
+&lt;p&gt;These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/EntitlementsInMTWorld.pdf&#34;&gt;Entitlements in a Multi-tenant World(PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/EntitlementsInMTWorld.pptx&#34;&gt;Entitlements in a Multi-tenant World(PPTx)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>B-Sides Nashville 2016 Presentation</title>
@@ -72,8 +89,7 @@
       <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; What is the secret of the Grail? Who does it serve?&lt;/p&gt;
@@ -655,8 +671,7 @@ Resource-&amp;gt;Browser: Return Resource
 
 &lt;p&gt;Which produces this diagram:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;
-&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So if you need a quick Sequence Diagram try &lt;a href=&#34;http://www.websequencediagrams.com/&#34;&gt;Web Sequence Diagrams&lt;/a&gt;. You can copy the above example and paste it into the diagram editor to see how easy it is to use.&lt;/p&gt;
 </description>
