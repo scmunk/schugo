@@ -9,8 +9,142 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2015 Ron Parker</copyright>
-    <lastBuildDate>Sun, 18 Sep 2016 12:21:29 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Oct 2016 14:24:35 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Certified Cloud Security Professional Test</title>
+      <link>http://www.secretchipmunk.com/blog/2016/10/28/the-certified-cloud-security-professional-test/</link>
+      <pubDate>Fri, 28 Oct 2016 14:24:35 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2016/10/28/the-certified-cloud-security-professional-test/</guid>
+      <description>
+
+&lt;h2 id=&#34;first-things-first&#34;&gt;First things first&lt;/h2&gt;
+
+&lt;p&gt;The most important point, for me anyway, is that I passed the test.&lt;/p&gt;
+
+&lt;p&gt;It was helpful for me to hear how other people passed their tests and how they obtained their certifications. I can&amp;rsquo;t guarantee that you will pass the test if you read this but hopefully you will pick up a couple of tips that may help you along the way.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/CCSP.png&#34; alt=&#34;CCSP&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-the-ccsp&#34;&gt;What is the CCSP&lt;/h2&gt;
+
+&lt;p&gt;The (ISC)2 CCSP is a joint effort between the (ISC)2 and the Cloud Security Alliance. They have combined informational forces to offer a certification for cloud security professionals.&lt;/p&gt;
+
+&lt;p&gt;The CCSP covers six domains.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Architectural Concepts &amp;amp; Design Requirements&lt;/li&gt;
+&lt;li&gt;Cloud Data Security&lt;/li&gt;
+&lt;li&gt;Cloud Platform &amp;amp; Infrastructure Security&lt;/li&gt;
+&lt;li&gt;Cloud Application Security&lt;/li&gt;
+&lt;li&gt;Operations&lt;/li&gt;
+&lt;li&gt;Legal &amp;amp; Compliance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These domains may seem similar to those covered under the CISSP and in a way they are. The major difference is that they all concentrate on those aspects that are important for securing a cloud environment. You can download the (ISC)2 pamphlet on the certification &lt;a href=&#34;http://cert.isc2.org/ccsp-exam-outline-b/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since the CCSP is a relatively new certification there isn&amp;rsquo;t a lot of information available for the test. As of this writing there are less than 1,000 professionals who have been certified.&lt;/p&gt;
+
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;The first question you always hear is &amp;lsquo;Why is the cloud any different and isn&amp;rsquo;t it just someone else&amp;rsquo;s computer?&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;There is huge amount of overlap between regular third parties, managed services providers, and cloud service providers. This is what most people are referring to when they say that it is all the same. Even though there are a lot of similarities the differences are significant.&lt;/p&gt;
+
+&lt;p&gt;Here are a couple of differences just to name a few:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multi-tenancy is the norm&lt;/li&gt;
+&lt;li&gt;Virtual segmentation and micro-segmentation is a must&lt;/li&gt;
+&lt;li&gt;Development utilizes different tools and processes&lt;/li&gt;
+&lt;li&gt;Customer behavior has been changed with this environment&lt;/li&gt;
+&lt;li&gt;Businesses are &amp;lsquo;all in&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Your security controls have to be able to handle widely distributed situations&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The huge rush to the cloud along with the change in behavior are driving reasons we need more security professionals to be familiar with this environment. If we think back we had other such migrations or explosions. We moved from the mainframe to small computers. We moved from monolithic applications to distributed systems. The Internet grew up and now we are moving to it.&lt;/p&gt;
+
+&lt;p&gt;The overall behavior of people and businesses are changing. We have to take that into account as security professionals in order to provide the best security advice and the most fitting security controls. It isn&amp;rsquo;t just a change in technology that we have to adjust to moving forward.&lt;/p&gt;
+
+&lt;h2 id=&#34;passing-the-test&#34;&gt;Passing the test&lt;/h2&gt;
+
+&lt;p&gt;My development background, architecture background, and work over the years as a CISSP did help with the certification. Experience is almost always a good thing.&lt;/p&gt;
+
+&lt;p&gt;The materials came from many different sources. Here were the main ones I used for the test:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Official CCSP CBK Participant Guide (PDF from online class, see below)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Official-ISC-Guide-CCSP-CBK/dp/1119276721&#34;&gt;The Official (ISC)2 CCSP CBK 2nd edition, Sybex&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.isc2.org/ccsp-training/default.aspx&#34;&gt;(ISC)2 CCSP online class&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/csaguide.v3.0.pdf&#34;&gt;Security Guidance for Critical Areas of Focus in Cloud Computing v3.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://research.cloudsecurityalliance.org/tci/&#34;&gt;CSA Enterprise Architecture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ISO 17788, 17789 Cloud Computing Definitions and Reference Architecture&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.enisa.europa.eu/publications/cloud-security-guide-for-smes&#34;&gt;ENISA Cloud Security Guide for SMEs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf&#34;&gt;NIST SP 800-30 Risk Management&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Various materials on BCDR including those from the CISSP&lt;/li&gt;
+&lt;li&gt;Indirectly NIST 800-53r4, ISO 27001:2103, ISO 27002:2013&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://collaboration.opengroup.org/jericho/cloud_cube_model_v1.0.pdf&#34;&gt;The Cloud Cube Model&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;studying&#34;&gt;Studying&lt;/h3&gt;
+
+&lt;p&gt;The CBK should be the main source of any test so I spent a considerable amount of time reading the Sybex CBK book plus I took the online class. The class consisted of 28 hours of video, an older CBK PDF, some flashcards, and study questions. The most positive aspect of the online class was that it was worth 40 CPEs for a CISSP.&lt;/p&gt;
+
+&lt;p&gt;The Sybex CBK and the class also had study questions but the ones in the book were identical to those online. I didn&amp;rsquo;t use the older CBK Participant Guide. It had several group study questions but other than that it didn&amp;rsquo;t offer very much.&lt;/p&gt;
+
+&lt;p&gt;Near the end of my three month study time I began to really look at the Cloud Security Alliance materials. To my surprise they were much more detailed, were practically in the same order, and shared the same graphics. I felt like I should have put a lot more emphasis on the CSA materials.&lt;/p&gt;
+
+&lt;p&gt;If I had to approach this again I would use an outline similar to this:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read the Sybex CBK to get an idea of the domains&lt;/li&gt;
+&lt;li&gt;Lightly read the CSA materials&lt;/li&gt;
+&lt;li&gt;Read the miscellaneous materials
+
+&lt;ul&gt;
+&lt;li&gt;Definitions&lt;/li&gt;
+&lt;li&gt;Risk Management&lt;/li&gt;
+&lt;li&gt;Business Continuity&lt;/li&gt;
+&lt;li&gt;Basic cloud infrastructure&lt;/li&gt;
+&lt;li&gt;Basic cloud security controls (TLS, CASB, IPSec, PKI, encryption)&lt;/li&gt;
+&lt;li&gt;Cloud Certifications and Sec/Privacy regs (SOC 1/2/3, EU, PCI DSS)&lt;/li&gt;
+&lt;li&gt;Development life cycles&lt;/li&gt;
+&lt;li&gt;Testing methods for applications, system, networks, clouds&lt;/li&gt;
+&lt;li&gt;Understand accountability and responsibility when it comes to data, privacy, controls, and the law&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Browse the Sybex CBK again&lt;/li&gt;
+&lt;li&gt;Study the CSA materials&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hold all of that in your head and run to take the test.&lt;/p&gt;
+
+&lt;p&gt;This is a very broad test. It boils down to how we should do security architecture in the cloud. It you don&amp;rsquo;t have any experience with cloud deployment, cloud contracts, cloud integration, or cloud security controls this test may be very hard for you.&lt;/p&gt;
+
+&lt;h2 id=&#34;opinion&#34;&gt;Opinion&lt;/h2&gt;
+
+&lt;h3 id=&#34;official-materials&#34;&gt;Official Materials&lt;/h3&gt;
+
+&lt;p&gt;There are some issues with the test as advertised and the materials provided. The online class should be more than someone reading what is available in a book. The questions in the CBK and the questions for the class should not match word-for-word. I would expect the class to offer more insight and a greater depth or breadth of information.&lt;/p&gt;
+
+&lt;p&gt;A Sybex study guide is due out in April of 2017. It will be interesting to see if it is more applicable than the previous versions of the CBKs. Either way you will need to greatly supplement the official Sybex CBK in order to get a good understanding of cloud security.&lt;/p&gt;
+
+&lt;h3 id=&#34;cloud-approach&#34;&gt;Cloud Approach&lt;/h3&gt;
+
+&lt;p&gt;The cloud approach we use today is not as black-and-white as it is described in many of the books. It isn&amp;rsquo;t just IaaS, or just PaaS, or just SaaS. These lines are blurring and changing quickly. Most large cloud service providers do provide all these services and some that aren&amp;rsquo;t easily classified.&lt;/p&gt;
+
+&lt;p&gt;The test makes the mistake of being too rigid and uses context that are not clear. We need to be more concerned with the process being executed and the correct security control that needs to be applied than we do trying to make the situation fit into one of the service model boxes.&lt;/p&gt;
+
+&lt;p&gt;It is convenient to use the service labels but reality isn&amp;rsquo;t quite playing out that way.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I do think this certification is useful in today&amp;rsquo;s environment. You might have a lot of exposure to a specific cloud aspect but the certification ensures that you will be aware of all the aspects of cloud computing which is needed in order to properly apply risk management and security.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or comments leave them here or drop me a note. You can always reach me at &lt;a href=&#34;http://twitter.com/scmunk&#34;&gt;@scmunk&lt;/a&gt; or &lt;a href=&#34;mailtto:scmunk@secretchipmunk.com&#34;&gt;scmunk@secretchipmunk.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Entitlements in a Multi-tenant World</title>
@@ -638,42 +772,6 @@
 &lt;p&gt;You may not be able to employee this tactic for each engagement but it might be worth putting the extra storytelling effort in on the important solutions you are trying to sell.&lt;/p&gt;
 
 &lt;p&gt;As a side note this is why so many PowerPoint presentations that were based solely on facts have caused widespread head trauma over the years.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Order of Things</title>
-      <link>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</link>
-      <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</guid>
-      <description>
-
-&lt;h2 id=&#34;sequence-diagrams&#34;&gt;Sequence Diagrams&lt;/h2&gt;
-
-&lt;p&gt;I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.&lt;/p&gt;
-
-&lt;p&gt;There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram. Luckily there is a good alternative that is almost as good as the back of a napkin.&lt;/p&gt;
-
-&lt;p&gt;Web Sequence Diagrams allows you to enter some simple text and it produces a variety of diagram styles. It diagrams as you type plus it has a menu of examples that you can easily insert into your text. Here is a small example of how SAML should work.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;title Simple SAML
-
-Browser-&amp;gt;Resource: Resource Request
-Resource-&amp;gt;Browser: Redirect
-Browser-&amp;gt;STS:
-STS-&amp;gt;STS: Cook up assertions
-STS-&amp;gt;Browser: Assertions
-Browser-&amp;gt;Resource: Assertions
-Resource-&amp;gt;Resource: Authorize with Assertions
-Resource-&amp;gt;Browser: Return Resource
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Which produces this diagram:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/simplesaml.png&#34; alt=&#34;Simple SAML&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So if you need a quick Sequence Diagram try &lt;a href=&#34;http://www.websequencediagrams.com/&#34;&gt;Web Sequence Diagrams&lt;/a&gt;. You can copy the above example and paste it into the diagram editor to see how easy it is to use.&lt;/p&gt;
 </description>
     </item>
     
