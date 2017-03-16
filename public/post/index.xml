@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/post/</link>
+    <link>http://www.secretchipmunk.com/post/index.xml</link>
     <description>Recent content in Posts on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
-    <copyright>(c) 2015 Ron Parker</copyright>
+    <copyright>(c) 2017 Ron Parker</copyright>
     <lastBuildDate>Fri, 28 Oct 2016 14:24:35 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -433,15 +433,13 @@
       <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</guid>
-      <description>
-
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.&lt;/p&gt;
+&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.
 
-&lt;p&gt;If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;
+If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;
 
 &lt;p&gt;You architect because you have a particular result in mind that can&amp;rsquo;t easily be achieved without coordination and thought across disciplines. You need a result that requires some systematic arrangement of ideas.&lt;/p&gt;
 
@@ -463,8 +461,7 @@
 
 &lt;p&gt;The important situations we face are deep and wide when it comes to design. You may have a very complete understanding at a high level but the diagram you have drawn may not be implementable. It may be implementable but it may not exhibit the qualities that are required to be successful. The classic mistake is to look across a problem making lots conceptual decisions without real regard to the ramifications.&lt;/p&gt;
 
-&lt;p&gt;Being able to see the relationships and the ramifications in both the deep context and the wide context is good architecture. It is the reason to architect. It is the reason you need an architect.&lt;/p&gt;
-</description>
+&lt;p&gt;Being able to see the relationships and the ramifications in both the deep context and the wide context is good architecture. It is the reason to architect. It is the reason you need an architect.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -691,7 +688,7 @@
 
 &lt;h3 id=&#34;architect&#34;&gt;Architect&lt;/h3&gt;
 
-&lt;p&gt;This is where the confusion really sets in. An Architect is someone who looks for ways to deliver certain &lt;a href=&#34;http://bit.ly/175q0K9&#34;&gt;Quality Attributes&lt;/a&gt; for an environment. These attributes include things like performance, stability, security, flexibility, integrability, and many other &amp;laquo;-ilities.&amp;raquo; There are also different types of Architects so you may have more technical-oriented architects or more business-oriented architects.&lt;/p&gt;
+&lt;p&gt;This is where the confusion really sets in. An Architect is someone who looks for ways to deliver certain &lt;a href=&#34;http://bit.ly/175q0K9&#34;&gt;Quality Attributes&lt;/a&gt; for an environment. These attributes include things like performance, stability, security, flexibility, integrability, and many other &amp;ldquo;-ilities.&amp;rdquo; There are also different types of Architects so you may have more technical-oriented architects or more business-oriented architects.&lt;/p&gt;
 
 &lt;p&gt;Security Architects are responsible for ensuring that the design of systems and environments meet security and compliance mandates. Depending on the specific flavor they may be working with the overall security strategy, establishing policies and standards, or they may be more specific and only deliver application security architecture.&lt;/p&gt;
 
@@ -701,7 +698,7 @@
 
 &lt;h3 id=&#34;enterprise-architect&#34;&gt;Enterprise Architect&lt;/h3&gt;
 
-&lt;p&gt;Enterprise Architects are all about optimizing the whole or the business with their primary partners being on the business side. They speak of delivering business value in the most effective way possible so when they present options they gauge them by Risk, Cost and Benefit. Their job is to help set business strategy and then give the best options for making those strategies become reality. In the end the are the trusted partners giving advice on how to move the business forward in the most efficient way possible. They are not the guys you will call in to &amp;laquo;fix your computer.&amp;raquo;&lt;/p&gt;
+&lt;p&gt;Enterprise Architects are all about optimizing the whole or the business with their primary partners being on the business side. They speak of delivering business value in the most effective way possible so when they present options they gauge them by Risk, Cost and Benefit. Their job is to help set business strategy and then give the best options for making those strategies become reality. In the end the are the trusted partners giving advice on how to move the business forward in the most efficient way possible. They are not the guys you will call in to &amp;ldquo;fix your computer.&amp;rdquo;&lt;/p&gt;
 
 &lt;h2 id=&#34;the-point&#34;&gt;The Point&lt;/h2&gt;
 

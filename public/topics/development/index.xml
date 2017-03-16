@@ -2,14 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/topics/development/</link>
+    <link>http://www.secretchipmunk.com/topics/development/index.xml</link>
     <description>Recent content in Development on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
-    <copyright>(c) 2015 Ron Parker</copyright>
-    <lastBuildDate>Thu, 19 Mar 2015 14:00:56 -0400</lastBuildDate>
+    <copyright>(c) 2017 Ron Parker</copyright>
     <atom:link href="http://www.secretchipmunk.com/topics/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

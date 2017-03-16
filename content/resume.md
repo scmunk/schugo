@@ -2,11 +2,13 @@
 date = "2015-04-16T14:40:24-04:00"
 description = "The resume of Ronald Parker."
 keywords = ["resume", "architect", "security", "simplicity", "secret chipmunk", "scmunk","Ron parker"]
-title = "Ronald Parker - Resume"
-
+title = "Resume"
+menu = "main"
 +++
 
-> The important thing is that you always want to be smart and get things done while being nice to everyone around you.
+## Ronald Parker
+
+> The important thing is that you always want to be smart and get things done. It also helps if you are nice to people too.
 
 ## Summary
 I am fortunate to be working with both information security and architecture. Both of these areas are horizontal enablers. When an awareness of architecture is combined with information security you have an opportunity to increase your overall level of security assurance. For the last several years I have delivered the mechanisms to support these ideas.

@@ -1,15 +1,16 @@
 #Hugo Config file
-#Local version
+#Internet version
 #2015-11-29
 
+
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://127.0.0.1/"
+Baseurl = "http://127.0.0.1/"
 
 # Site title
 title = "Secret Chipmunk"
 
 # Copyright
-copyright = "(c) 2016 Ron Parker"
+copyright = "(c) 2017 Ron Parker"
 
 # Language
 languageCode = "en-EN"
@@ -19,7 +20,7 @@ languageCode = "en-EN"
 metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hyde-y"
+theme = "mainroad"
 
 # Pagination
 paginate = 10
@@ -39,15 +40,29 @@ disqusShortname = "secretchipmunk"
 [author]
     name = "Ron Parker"
     email = "scmunk@secretchipmunk.com"
+    bio = "????"
+    avatar = "img/avatar.png"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
-[params]
+[Params]
+    Title = "Secret Chipmunk"
+    Subtitle = "Architecture and Security" # Subtitle of your site
+    description = "Secret Chipmunk thoughts on architecture, security, diagramming, and development"
+    opengraph = true
+    leftsidebar = true # Move sidebar to the left side if true
+    authorbox = false
+    post_navigation = true
+    
+    # hyde theme
+    #brand = "Secret Chipmunk"
+    #topline = "Enterprise Architecture and Security"
+    #footline = ""
+
     # You can use markdown here.
     brand = "Secret Chipmunk"
-    topline = "Enterprise Architecture and Security"
-    footline = ""
+    
 
     # Sidebar position
     # false, true, "left", "right"
@@ -60,7 +75,6 @@ disqusShortname = "secretchipmunk"
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
-
 
     # Google Analytics.
     googleAnalytics = "Your Google Analytics tracking code"
@@ -75,11 +89,9 @@ disqusShortname = "secretchipmunk"
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
 
-[blackfriday]
-    angledQuotes = true
-    fractions = false
-    hrefTargetBlank = false
-    latexDashes = true
-    plainIdAnchors = true
-    extensions = []
-    extensionmask = []
+[Params.widgets]
+    search = true # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
+    topics = true

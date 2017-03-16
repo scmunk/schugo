@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.secretchipmunk.com/</loc>
-    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.secretchipmunk.com/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
     <lastmod>2016-10-28T14:24:35-04:00</lastmod>
   </url>
@@ -105,6 +99,59 @@
   <url>
     <loc>http://www.secretchipmunk.com/about/</loc>
     <lastmod>2015-02-26T14:40:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/architect/</loc>
+    <lastmod>2015-03-12T12:21:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/architecture/</loc>
+    <lastmod>2016-09-18T12:21:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/communication/</loc>
+    <lastmod>2015-03-12T12:38:25-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/development/</loc>
+    <lastmod>2015-03-19T14:00:56-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/infosec/</loc>
+    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/post/</loc>
+    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/</loc>
+    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/topic/</loc>
+    <lastmod>2015-03-20T15:18:55-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

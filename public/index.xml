@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/</link>
+    <link>http://www.secretchipmunk.com/index.xml</link>
     <description>Recent content on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
-    <copyright>(c) 2015 Ron Parker</copyright>
+    <copyright>(c) 2017 Ron Parker</copyright>
     <lastBuildDate>Fri, 28 Oct 2016 14:24:35 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -326,15 +326,17 @@
     </item>
     
     <item>
-      <title>Ronald Parker - Resume</title>
+      <title>Resume</title>
       <link>http://www.secretchipmunk.com/resume/</link>
       <pubDate>Thu, 16 Apr 2015 14:40:24 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/resume/</guid>
       <description>
 
+&lt;h2 id=&#34;ronald-parker&#34;&gt;Ronald Parker&lt;/h2&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;The important thing is that you always want to be smart and get things done while being nice to everyone around you.&lt;/p&gt;
+&lt;p&gt;The important thing is that you always want to be smart and get things done. It also helps if you are nice to people too.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
@@ -468,15 +470,13 @@
       <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</guid>
-      <description>
-
-&lt;blockquote&gt;
+      <description>&lt;blockquote&gt;
 &lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.&lt;/p&gt;
+&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.
 
-&lt;p&gt;If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;
+If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;
 
 &lt;p&gt;You architect because you have a particular result in mind that can&amp;rsquo;t easily be achieved without coordination and thought across disciplines. You need a result that requires some systematic arrangement of ideas.&lt;/p&gt;
 
@@ -498,8 +498,7 @@
 
 &lt;p&gt;The important situations we face are deep and wide when it comes to design. You may have a very complete understanding at a high level but the diagram you have drawn may not be implementable. It may be implementable but it may not exhibit the qualities that are required to be successful. The classic mistake is to look across a problem making lots conceptual decisions without real regard to the ramifications.&lt;/p&gt;
 
-&lt;p&gt;Being able to see the relationships and the ramifications in both the deep context and the wide context is good architecture. It is the reason to architect. It is the reason you need an architect.&lt;/p&gt;
-</description>
+&lt;p&gt;Being able to see the relationships and the ramifications in both the deep context and the wide context is good architecture. It is the reason to architect. It is the reason you need an architect.&lt;/p&gt;</description>
     </item>
     
     <item>

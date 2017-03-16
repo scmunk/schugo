@@ -1,71 +1,57 @@
-Ronald Parker
-2002 Belleau Village Ln. 
-Chattanooga, TN 37421 
-(423) 413-5461
-eelpark@gmail.com 
-https://www.linkedin.com/in/scmunk 
-@scmunk
-Summary 
-I am fortunate to be working with both information security and architecture. Both of these areas are 
-horizontal enablers. When an awareness of architecture is combined with information security you have 
-an opportunity to increase your overall level of security assurance. I have delivered mechanisms to 
-support these ideas.
+Ronald Parker2002 Belleau Village Ln.
+Chattanooga, TN 37421
+(423) 413-5461eelpark@gmail.com
+https://www.linkedin.com/in/scmunk
+@scmunkSummary
+I am fortunate to be working with both information security and architecture. Both areas are horizontal enablers. When an awareness of architecture is combined with information security you have an opportunity to increase your overall level of security assurance. I have delivered mechanisms to support these ideas.
 Skills/Accomplishments
-*	Continuous learner that can determine relationships and ramifications of change for problem 
-solving and architecture
-*	Comfortable working independently, with a team, and with remote members; can tailor 
-communications to various audiences whether business-related or IT-related 
-*	Experience and knowledge in security frameworks such as NIST-800-53r4, and secure 
-development practices in an agile environment
-*	Technical experience and knowledge in the Windows and Linux environments, Microsoft 
-development environment, Linux development tools, and general cloud PaaS models 
-*	Created the Open Security Development Lifecycle, community driven SDLC (www.OpenSDL.com)
-Experience 
-9/2008 ? Present	Enterprise Security Infrastructure Architect  
-			Unum, Chattanooga, TN 
-Act as the information security architect for a Fortune 500 company in a regulated environment with 
-high customer compliance demands. 
-*	Worked in a self-directed infrastructure architecture team.
-*	Integrated architecture processes into Kanban-based solution engineering. 
-*	Developed capability models, reference architectures, and design patterns. 
-*	Implemented enterprise identity, entitlement, and access control architectures (IAM) including 
-privileged identity management (PIM/PAM, CyberArk) and multi-factor implementations.
-*	Developed infrastructure security direction for cloud integration and cloud migration projects.
-*	Developed security models for APIs integrating gateway technologies (CA API Gateway, 
-ForgeRock OpenAM). 
-*	Delivered and maintained infrastructure strategies and roadmaps.
-*	Developed a risk management advocacy program to increase overall support and awareness.
-*	Created a Security Development Lifecycle based on the OWASP. 
-*	Participated in a datacenter design including disaster recovery planning. 
-*	Participated in risk assessments for third parties and partners.
-?
-3/2002 - 9/2008	System Consultant III 
+* Continuous learner that can determine relationships and ramifications of change for problem solving and architecture
+* Comfortable working independently, with a team, and with remote members; can tailor communications to various audiences whether business-related or IT-related 
+* Experience in developing capability model based strategies and roadmaps
+* Experience and knowledge in security frameworks such as NIST-800-53r4, and secure development practices in an agile environment under Scrum, and Kanban
+* Technical experience and knowledge in the Windows and Linux environments, Microsoft development environment, Linux development tools, and general cloud PaaS models
+* Technical cloud development and security experience with Azure, and AWS including IAM integration and federation 
+* Created the Open Security Development Lifecycle, community driven SDLC (www.OpenSDL.com)
+Experience
+9/2008 – Present	Enterprise Security Infrastructure Architect 
+			Unum, Chattanooga, TN
+Act as the information security architect for a Fortune 500 company in a regulated environment with high customer compliance demands. 
+* Supported Compliance, IAM, Network Security, and general infrastructure through architecture and engineering support. 
+* Worked in a self-directed infrastructure architecture team.
+* Built a consumable framework for security requirements using patterns, standards, and controls.
+* Integrated architecture processes into Kanban-based solution engineering. 
+* Developed capability models, reference architectures, and design patterns. 
+* Implemented enterprise identity, entitlement, and access control architectures (IAM) including privileged identity management (PIM/PAM, CyberArk) and multi-factor implementations.
+* Developed infrastructure security direction for cloud integration and cloud migration projects.
+* Developed security models for Enterprise APIs integrating gateway technologies (CA API Gateway, ForgeRock OpenAM) using OAuth, SAML, JWT, and OpenIDConnect 
+* Delivered and maintained infrastructure strategies and roadmaps.
+* Developed a risk management advocacy program to increase overall support and awareness.
+* Created a Security Development Lifecycle based on the OWASP. 
+* Participated in a datacenter design including disaster recovery planning. 
+* Participated in risk assessments for third parties and partners.
+3/2002 - 9/2008	System Consultant III
 Served as Technical Architect for the IT Risk Management area. 
-*	Participated on the Enterprise Technical Steering committee. 
-*	Developed and implemented the security model for Enterprise SOA using SAML. 
-*	Selected and implemented an electronic discovery/vaulting system and hard drive encryption. 
-*	Participated in selection and implementation of an Identity and Access Management system.
-10/1995 - 3/2002	System Consultant I/II 
-Supported the Corporate Legal Department and Finance Areas as a consultant and as a developer. 
-*	Installed and maintained the litigation case management and document systems. 
-*	Developed one of the first company websites for legal collaboration. 
-*	Developed and maintained MS SQL reporting and transactional systems.
-Certifications/Memberships 
-(ISC)2 Certified Information Systems Security Professional CISSP #341249 
-ITIL v3 Foundations 
- 
-Recent Training 
-Certified Cloud Security Professional (ISC2) (in-process) 
-Design Thinking Workshop 
-Consulting Skills for the IT Professional 
-Storytelling Workshop 
+* Participated on the Enterprise Technical Steering committee. 
+* Developed and implemented the security model for Enterprise SOA using SAML. 
+* Selected and implemented an electronic discovery/vaulting system and hard drive encryption. 
+* Participated in selection and implementation of an Identity and Access Management system.
+* Engineering support for .NET C#, Java, and PowerShell
+Certifications/Memberships
+(ISC)2 Certified Information Systems Security Professional CISSP #341249
+(ISC)2 Certified Cloud Security Professional CCSP
+ITIL v3 Foundations
+
+Recent Training
+Certified Cloud Security Professional (ISC2)
+Design Thinking Workshop
+Consulting Skills for the IT Professional
+Storytelling Workshop
 EA Essentials Project/Meta-model
-Recent Speaking Engagements 
-Bsides Nashville 2016, Identity and Access Management 
-Bsides Nashville 2015, Agile and Security - Oil and Water? 
+Recent Speaking Engagements
+Bsides Nashville 2016, Identity and Access Management
+Bsides Nashville 2015, Agile and Security - Oil and Water?
 Bsides Asheville 2014, Know When and How to Use Cryptography
-Education 
-Dalton College, Computer Science Transfer, 1984
-Ronald Parker
-eelpark@gmail.com
+Education
+Dalton College, Computer Science Transfer
+Ronald Parkereelpark@gmail.com
 

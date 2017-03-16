@@ -2,10 +2,10 @@
 date = "2015-02-26T14:40:39-05:00"
 draft = false
 title = "About"
-
+menu = "main"
 +++
 
-Secret Chipmunk, otherwise known as Ron Parker, is a Non Reluctant CISSP providing excellent security direction for a Fortune 500 insurance company. This site is a whiteboard, a honing stone and maybe even a garbage disposal for security and risk ideas from an architect's point of view.
+Secret Chipmunk, otherwise known as Ron Parker, is a non-reluctant CISSP, CCSP, diagrammer, and recovering developer who provides excellent security direction for a Fortune 500 insurance company. This site is a whiteboard, a honing stone and maybe even a garbage disposal for security and risk ideas from an architect's point of view.
 
 > All the opinions, views and content expressed on this blog are solely the creation of the blog author and do not necessarily reflect the opinions or views of anyone else. We are all better after reading that. I am sure if I say something stupid enough my employer may still find something else for me to do.
 
