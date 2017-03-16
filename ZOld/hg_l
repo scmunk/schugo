@@ -1,3 +1,0 @@
-#meant to be ran localy from Sites on Mac
-#not to be copied out
-hugo  --theme=hyde-x --buildDrafts  -d /Users/eelpark/Sites --config=configL.toml
