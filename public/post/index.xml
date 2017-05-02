@@ -9,8 +9,59 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2017 Ron Parker</copyright>
-    <lastBuildDate>Fri, 28 Oct 2016 14:24:35 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 20:07:53 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Session Box</title>
+      <link>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</link>
+      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</guid>
+      <description>
+
+&lt;p&gt;I draw a lot of diagrams. With all these diagrams there are an endless number of revisions and refinements created in the process. Some of the changes are necessary while others are definitely not earth-shattering.&lt;/p&gt;
+
+&lt;h2 id=&#34;timeboxing&#34;&gt;Timeboxing&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In time management, timeboxing allocates a fixed time period, called a time box, to each planned activity. It is also used for individual use to address personal tasks in a smaller time frame.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although timeboxing is a great idea it doesn&amp;rsquo;t always work when producing architecture. The architecture thinking process isn&amp;rsquo;t always like brainstorming where you have to limit the flow of ideas. So with traditional timeboxing you might end up with an incomplete idea.&lt;/p&gt;
+
+&lt;h2 id=&#34;session-boxing&#34;&gt;Session Boxing&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you don&amp;rsquo;t need a small increment of time to be forced to produce an item. What you might need is a limited number of times working on the problem instead. You can force yourself to limit the number of thinking sessions to produce the product. This is a different approach than timeboxing. Timeboxing limits the time in a single session and usually means you only spend a single session on a product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Boxing&lt;/strong&gt;, on the other hand, gives you more time but sets a limit on the number of sessions you may spend working.&lt;/p&gt;
+
+&lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
+
+&lt;p&gt;Architecture can be methodical. It can be detailed. It can be spontaneous and inspirational. Most of all architecture ideas can be endless like an avalanche pouring down a mountain&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;By limiting the number of sessions you spend with your ideas you have plenty of time to think through related topics whether it comes about consciously or subconsciously.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-method&#34;&gt;The Method&lt;/h2&gt;
+
+&lt;p&gt;The easiest way is to place a session number on your products. You can count up or count down as long as you have a consistent method. I prefer counting down, so when I get to the zeroth session I have to publish something. The earlier sessions give me the freedom to go out to the edges and explore relationships that I may throw out later.&lt;/p&gt;
+
+&lt;p&gt;The number of sessions you set depends on how often you come back to your product. Be consistent in your limits so you might develop a rhythm in how you think. By setting a limit of five sessions you will begin to organize and prioritize differently. Unlike timeboxing each session should not be a frantic rush to toss boxes and lines on a PowerPoint slide&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;So next time instead of setting a timer try limiting your editing sessions. It ight be a better path for producing a better product with less waste.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Yes, those are lyrics straight from a song
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;PowerPoint is a certified architecture tool
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>The Certified Cloud Security Professional Test</title>
@@ -711,64 +762,6 @@ If you are going for a particular look you had better be thinking about these th
 &lt;p&gt;The most import action for you is to determine your role and make sure you are spending the time necessary to be the best you can be in that role. I would suggest &lt;a href=&#34;http://www.sans.org/&#34;&gt;SANS&lt;/a&gt; or &lt;a href=&#34;https://www.isc2.org/&#34;&gt;(ISC)2&lt;/a&gt; for ways to improve your security stature.&lt;/p&gt;
 
 &lt;p&gt;What have you been called lately?&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Storytelling</title>
-      <link>http://www.secretchipmunk.com/blog/2015/03/12/storytelling/</link>
-      <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/03/12/storytelling/</guid>
-      <description>
-
-&lt;p&gt;Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.&lt;/p&gt;
-
-&lt;p&gt;Does this droning sound like what is driving your security program? Even though these facts are true they may not win the hearts and minds of your security decision makers. Everyone seems to have these facts these days so in a way they are becoming background noise. This can make your job of selling the correct security solution for your business much harder.&lt;/p&gt;
-
-&lt;p&gt;What is a security professional to do when the facts, data and logic don&amp;rsquo;t sway the masses to action?&lt;/p&gt;
-
-&lt;h2 id=&#34;storytelling&#34;&gt;Storytelling&lt;/h2&gt;
-
-&lt;p&gt;The answer is simple. You need to engage your decision makers with a story that conveys the issues, reveals the villains and describes best solution for the business.&lt;/p&gt;
-
-&lt;p&gt;From our friends at Wikipedia &lt;a href=&#34;http://en.wikipedia.org/wiki/Storytelling&#34; title=&#34;Storytelling&#34;&gt;Storytelling&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;is the conveying of events in words, and images, often by improvisation or embellishment.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The story builds a relationship between the cold facts and the real-life context that the decision maker understands. You can embed the facts in the story but they need to be backed up with those embellishments that add relevancy. This doesn&amp;rsquo;t mean you should lie, it just says you should add meaning to the facts.&lt;/p&gt;
-
-&lt;p&gt;Engage your audience by building a story that conveys what matters to them. Give them a reason to care about your facts. Realize that that in order to activate the facts you have to attach some emotion to them otherwise they are just cold, hard facts.&lt;/p&gt;
-
-&lt;h2 id=&#34;next-steps&#34;&gt;Next Steps&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pick a small number of facts&lt;/li&gt;
-&lt;li&gt;Know how your audience is affected by these facts&lt;/li&gt;
-&lt;li&gt;Most importantly know how your customer base is affected&lt;/li&gt;
-&lt;li&gt;Build a story around the root cause of these issues&lt;/li&gt;
-&lt;li&gt;Introduce a solution&lt;/li&gt;
-&lt;li&gt;Quickly mention next steps&lt;/li&gt;
-&lt;li&gt;Use images over any verbiage&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you have lots of supporting information, charts and graphs push them to the end of the presentation. Only pull them out if someone asks a direct question regarding those facts. Use the story to get agreement. Use the facts later on once you start really working through next steps.&lt;/p&gt;
-
-&lt;p&gt;There are lots of story resources out there on the web and I encourage you to utilize those.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://lifehacker.com/5965703/the-science-of-storytelling-why-telling-a-story-is-the-most-powerful-way-to-activate-our-brains&#34; title=&#34;LifeHacker&#34;&gt;LifeHacker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.ted.com/playlists/62/how_to_tell_a_story.html&#34; title=&#34;TED&#34;&gt;TED&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://weblog.tetradian.com/2011/08/07/ea-is-all-about-story/&#34; title=&#34;Architecture Storytelling&#34;&gt;Enterprise Architecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;You may not be able to employee this tactic for each engagement but it might be worth putting the extra storytelling effort in on the important solutions you are trying to sell.&lt;/p&gt;
-
-&lt;p&gt;As a side note this is why so many PowerPoint presentations that were based solely on facts have caused widespread head trauma over the years.&lt;/p&gt;
 </description>
     </item>
     

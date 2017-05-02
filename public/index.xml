@@ -9,8 +9,59 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2017 Ron Parker</copyright>
-    <lastBuildDate>Fri, 28 Oct 2016 14:24:35 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2017 20:07:53 -0400</lastBuildDate>
     <atom:link href="http://www.secretchipmunk.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Session Box</title>
+      <link>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</link>
+      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</guid>
+      <description>
+
+&lt;p&gt;I draw a lot of diagrams. With all these diagrams there are an endless number of revisions and refinements created in the process. Some of the changes are necessary while others are definitely not earth-shattering.&lt;/p&gt;
+
+&lt;h2 id=&#34;timeboxing&#34;&gt;Timeboxing&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In time management, timeboxing allocates a fixed time period, called a time box, to each planned activity. It is also used for individual use to address personal tasks in a smaller time frame.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although timeboxing is a great idea it doesn&amp;rsquo;t always work when producing architecture. The architecture thinking process isn&amp;rsquo;t always like brainstorming where you have to limit the flow of ideas. So with traditional timeboxing you might end up with an incomplete idea.&lt;/p&gt;
+
+&lt;h2 id=&#34;session-boxing&#34;&gt;Session Boxing&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you don&amp;rsquo;t need a small increment of time to be forced to produce an item. What you might need is a limited number of times working on the problem instead. You can force yourself to limit the number of thinking sessions to produce the product. This is a different approach than timeboxing. Timeboxing limits the time in a single session and usually means you only spend a single session on a product.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Session Boxing&lt;/strong&gt;, on the other hand, gives you more time but sets a limit on the number of sessions you may spend working.&lt;/p&gt;
+
+&lt;h2 id=&#34;what&#34;&gt;What?&lt;/h2&gt;
+
+&lt;p&gt;Architecture can be methodical. It can be detailed. It can be spontaneous and inspirational. Most of all architecture ideas can be endless like an avalanche pouring down a mountain&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;By limiting the number of sessions you spend with your ideas you have plenty of time to think through related topics whether it comes about consciously or subconsciously.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-method&#34;&gt;The Method&lt;/h2&gt;
+
+&lt;p&gt;The easiest way is to place a session number on your products. You can count up or count down as long as you have a consistent method. I prefer counting down, so when I get to the zeroth session I have to publish something. The earlier sessions give me the freedom to go out to the edges and explore relationships that I may throw out later.&lt;/p&gt;
+
+&lt;p&gt;The number of sessions you set depends on how often you come back to your product. Be consistent in your limits so you might develop a rhythm in how you think. By setting a limit of five sessions you will begin to organize and prioritize differently. Unlike timeboxing each session should not be a frantic rush to toss boxes and lines on a PowerPoint slide&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;So next time instead of setting a timer try limiting your editing sessions. It ight be a better path for producing a better product with less waste.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Yes, those are lyrics straight from a song
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;PowerPoint is a certified architecture tool
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>The Certified Cloud Security Professional Test</title>
@@ -660,48 +711,6 @@ If you are going for a particular look you had better be thinking about these th
 &lt;h2 id=&#34;next-time&#34;&gt;Next Time&lt;/h2&gt;
 
 &lt;p&gt;In Part II we will look to continue building out our example set of capabilities for a security organization. It would also be a good time to investigate why you can&amp;rsquo;t just reference all the other frameworks out there like ISO 27001, (ISC)2, or even SABSA.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ecstatic Over Static Passwords</title>
-      <link>http://www.secretchipmunk.com/blog/2015/03/12/ecstatic-over-static-passwords/</link>
-      <pubDate>Thu, 12 Mar 2015 12:43:10 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/03/12/ecstatic-over-static-passwords/</guid>
-      <description>
-
-&lt;p&gt;Well maybe not ecstatic but it is pretty exciting that I have been carrying around a way to house a strong static password and didn&amp;rsquo;t even realize it.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/black_single.jpg&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/09/black_single.jpg&#34; alt=&#34;YubiKey&#34; width=&#34;453&#34; height=&#34;400&#34; class=&#34;alignnone size-full wp-image-182&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I have had a &lt;a href=&#34;http://www.yubico.com/&#34;&gt;Yubikey&lt;/a&gt; for over a year now and have used it successfully with &lt;a href=&#34;https://lastpass.com&#34;&gt;LastPass&lt;/a&gt;. A YubiKey is a handy USB or Near Field Communications (NFC) device that can generate a variety of authentication responses. The default is a One Time Password (OTP) that can be verified via a server running the Yubico software. It is an inexpensive way to provide a two-factor authentication method.&lt;/p&gt;
-
-&lt;p&gt;Little did I know, mainly because I don&amp;rsquo;t always read the instructions, that most YubiCo devices have the ability to hold multiple slots or multiple generators. A slot can be configured to generate the Yubico OTP, a Challenge-response, an industry standard OATH response or it can return a static password generated by you. You press the sensor quickly to activate slot 1 or you press it for more than two seconds to activate slot 2.&lt;/p&gt;
-
-&lt;h2 id=&#34;the-revelation&#34;&gt;The Revelation&lt;/h2&gt;
-
-&lt;p&gt;Totally missed the part about a static password.&lt;/p&gt;
-
-&lt;p&gt;Short static passwords are usually a bad thing but strong static passwords have their place. The best way to use this is to store a strong password suffix on the YubiKey and then you supply the prefix. What you end up with is a strong variable password that most people could not or would not take the time to memorize.&lt;/p&gt;
-
-&lt;p&gt;Since the YubiKey allows you to store from 16-64 characters in the static section depending on the model the resulting password could be quite long. The key is configured using the &lt;a href=&#34;http://www.yubico.com/products/services-software/personalization-tools/&#34;&gt;YubiCo Personalization Tool&lt;/a&gt; by selecting the &lt;em&gt;Static Password Option&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you use an 8 character prefix and a 32 character suffix that produces a 40 character password with ease. For example the prefix for your Twitter account may be &amp;lsquo;Blurb2Derp&amp;rsquo; and your static key may be &amp;lsquo;ljI10lakhjH_!@#947 *&amp;amp;ghdN1il1li1&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;To use your new strong password type in your prefix then press the sensor for more than two seconds. A password wonder:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Blurb2DerpljI10lakhjH_!@#947 *&amp;amp;ghdN1il1li1&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It still will be up to you to generate a total password that has the proper number of security bits and level of entropy. The good point is that you can store the static portion of a password that was generated randomly.&lt;/p&gt;
-
-&lt;p&gt;Using this method you could memorize a prefix for each site and use the YubiKey to enter the majority of the password. This would be great for those long &lt;a href=&#34;http://www.truecrypt.org/&#34; title=&#34;TruCrypt&#34;&gt;TruCrypt&lt;/a&gt; passwords that you never can seem to remember. This method may be an issue if you have some sites that disallow special characters or limit your password to 8 characters.&lt;/p&gt;
-
-&lt;h2 id=&#34;ecstatic-static&#34;&gt;Ecstatic Static&lt;/h2&gt;
-
-&lt;p&gt;There are several different models of YubiKeys. YubiCo also provides several other authentication methods along with integrations with several major vendors.&lt;/p&gt;
-
-&lt;p&gt;Time to go change my passwords.&lt;/p&gt;
 </description>
     </item>
     

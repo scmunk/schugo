@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</loc>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.secretchipmunk.com/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
     <lastmod>2016-10-28T14:24:35-04:00</lastmod>
   </url>
@@ -133,13 +138,13 @@
   
   <url>
     <loc>http://www.secretchipmunk.com/post/</loc>
-    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.secretchipmunk.com/</loc>
-    <lastmod>2016-10-28T14:24:35-04:00</lastmod>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   
