@@ -2,14 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/topics/architecture/index.xml</link>
+    <link>http://www.secretchipmunk.com/topics/architecture/</link>
     <description>Recent content in Architecture on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2017 Ron Parker</copyright>
-    <atom:link href="http://www.secretchipmunk.com/topics/architecture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Sep 2016 12:21:29 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.secretchipmunk.com/topics/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Entitlements in a Multi-tenant World</title>
@@ -17,15 +20,9 @@
       <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
-      <description>&lt;p&gt;We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.&lt;/p&gt;
-
-&lt;p&gt;These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/EntitlementsInMTWorld.pdf&#34;&gt;Entitlements in a Multi-tenant World(PDF)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.secretchipmunk.com/docs/EntitlementsInMTWorld.pptx&#34;&gt;Entitlements in a Multi-tenant World(PPTx)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.
+These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.
+ Entitlements in a Multi-tenant World(PDF) Entitlements in a Multi-tenant World(PPTx)  </description>
     </item>
     
     <item>
@@ -34,88 +31,14 @@
       <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;http://www.secretchipmunk.com/images/holygrail.jpg&#34; alt=&#34;Grail&#34; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; What is the secret of the Grail? Who does it serve?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Perceval:&lt;/em&gt; You, my lord.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; Who am I?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Perceval:&lt;/em&gt; You are my lord and king. You are Arthur.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Grail Figure:&lt;/em&gt; Have you found the secret that I have lost?&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Perceval:&lt;/em&gt; Yes. You and the land are one.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Doesn&amp;rsquo;t this sound like a conversation you overheard between several architects standing around the watercooler?&lt;/p&gt;
-
-&lt;p&gt;Do you feel like we have long forgotten the secret of &lt;em&gt;The Architecture&lt;/em&gt;?&lt;/p&gt;
-
-&lt;p&gt;Have our knights been roaming the countryside through famine and plague searching for the Holy Architecture to no avail.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Where is Perceval!&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;arthur&#34;&gt;Arthur&lt;/h2&gt;
-
-&lt;p&gt;I will not reiterate the whole saga of Arthur, his knights, the land, and the elusive Grail. There were many stories of Arthur but a powerful theme was that Arthur and the land were one. Arthur forgot that this was true. Being separated in spirit from the land around him he fell ill and the land fell into disarray. They could not be separated and the health of one depended on the other.&lt;/p&gt;
-
-&lt;p&gt;After years of failed attempts to find the Grail and its secret Perceval had a vision of the long lost secret. Perceval met with Arthur and reunited the secret with the king. Arthur was restored and the land was restored along with him.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;cue the music, blooming trees, and galloping horses&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;what-is-the-secret&#34;&gt;What is the secret?&lt;/h2&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;The Secret of Architecture is that the Business and IT are one.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Or more importantly that you must architect the whole. This isn&amp;rsquo;t a new idea but as we begin to move faster and as we take on new aspects of being agile we can&amp;rsquo;t lose this secret. Let&amp;rsquo;s look at three areas that will help prevent the downfall of the kingdom.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Architecting is about optimization&lt;/li&gt;
-&lt;li&gt;Architecture must be intentional&lt;/li&gt;
-&lt;li&gt;You must architect the whole&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&#34;optimization&#34;&gt;Optimization&lt;/h1&gt;
-
-&lt;p&gt;We recognize architecture because we believe that we can optimize the situation.  It takes skill, experience and cross area knowledge to understand how to realize these optimizations. That is the goal of architecting.&lt;/p&gt;
-
-&lt;h1 id=&#34;intentional&#34;&gt;Intentional&lt;/h1&gt;
-
-&lt;p&gt;Everything has an architecture. The question is was it intentional?&lt;/p&gt;
-
-&lt;p&gt;Without it being intentional you can&amp;rsquo;t expect much from architecting. You can&amp;rsquo;t expect a particular result. With Intentional Architecture you try to guide the overall outcome to align with what is most valued.&lt;/p&gt;
-
-&lt;h1 id=&#34;whole&#34;&gt;Whole&lt;/h1&gt;
-
-&lt;p&gt;No matter what you call yourself or what your area is there can be active architecture. You will have a scope and everything within that scope must be considered but not necessarily acted upon. This is the horizontal nature of architecting and is a primary difference between architecting and engineering.&lt;/p&gt;
-
-&lt;p&gt;Enterprise Architects look across the entire business (or they are supposed to anyway). Technical Architects should have a narrower scope and may not even be architecting at all. They may actually be just doing a really good job of engineering.&lt;/p&gt;
-
-&lt;p&gt;Trouble comes into play when we ignore items that fall within our scope. Setting a smaller scope is ok but do not make the scope large then leave areas to chance.&lt;/p&gt;
-
-&lt;h1 id=&#34;so-go-forth&#34;&gt;So go forth!&lt;/h1&gt;
-
-&lt;p&gt;How do we expect that system optimization will happen when we only consider some of the parts?&lt;/p&gt;
-
-&lt;p&gt;You must architect the whole to have a better chance at obtaining the optimized results that you expect.&lt;/p&gt;
-
-&lt;p&gt;The missing piece to all of this is the how. Do we implement tools and processes to crush the people into submission? Probably not.&lt;/p&gt;
-
-&lt;p&gt;Start with the fact that you are architecting the whole. Start with the fact that you can&amp;rsquo;t architect the business and leave out information technology or any other piece that makes up the business. This shouldn&amp;rsquo;t be a secret but if we treat it like one we will never be successful as architects.&lt;/p&gt;
-
-&lt;p&gt;For next time, let&amp;rsquo;s go figure out how to build agile and reactive architectures for everyone.&lt;/p&gt;
-
-&lt;h1 id=&#34;excalibur&#34;&gt;Excalibur&lt;/h1&gt;
-
-&lt;p&gt;As a side note if you have not seen &lt;a href=&#34;http://www.imdb.com/title/tt0082348/&#34;&gt;Excalibur&lt;/a&gt; please run out and find a copy to view right away. Inspiration is everywhere. You just need to look around.&lt;/p&gt;
-</description>
+      <description>Grail Figure: What is the secret of the Grail? Who does it serve?
+Perceval: You, my lord.
+Grail Figure: Who am I?
+Perceval: You are my lord and king. You are Arthur.
+Grail Figure: Have you found the secret that I have lost?
+Perceval: Yes. You and the land are one.
+ Doesn&amp;rsquo;t this sound like a conversation you overheard between several architects standing around the watercooler?
+Do you feel like we have long forgotten the secret of The Architecture?</description>
     </item>
     
     <item>
@@ -130,29 +53,7 @@
 
 &lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.
 
-If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;
-
-&lt;p&gt;You architect because you have a particular result in mind that can&amp;rsquo;t easily be achieved without coordination and thought across disciplines. You need a result that requires some systematic arrangement of ideas.&lt;/p&gt;
-
-&lt;h2 id=&#34;more-than-siloed-design&#34;&gt;More than siloed design&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2014/11/architectramp.jpg&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2014/11/architectramp.jpg&#34; alt=&#34;architectramp&#34; width=&#34;650&#34; height=&#34;432&#34; class=&#34;alignleft size-full wp-image-358&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Architecting is an every day problem and there are lots of situations that require more than a simple design.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Building in &lt;a href=&#34;http://www.universaldesignstyle.com/bad-design-style-case-26/&#34;&gt;accessibility&lt;/a&gt; without it seeming to be an add-on&lt;/li&gt;
-&lt;li&gt;Bringing about digital transformation and not just implementing a BYOD project&lt;/li&gt;
-&lt;li&gt;Taking advantage of cloud-computing holistically and not just using it as an outsourcing opportunity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;These situations need more than simple design. They need a design that is both deep and wide. This is also the key difference between architecting and engineering. An engineer might be the master of a single domain or even the master of a couple domains. They are the people to go to if you need specific answers around implementation or operations. Architects or the people with the role of an architect have to have a much wider exposure.&lt;/p&gt;
-
-&lt;p&gt;The deep and wide role you actually need is often translated as being composed of both a technologist and a craftsman. The technologist is more academic while the craftsman has the real world experience. The useful and valuable architect has to balance these two based on the current need. Most tend to err on the side of the technologist which perpetuates the &lt;a href=&#34;http://agilemodeling.com/essays/enterpriseModelingAntiPatterns.htm#IvoryTowerArchitecture&#34;&gt;Ivory Tower&lt;/a&gt; problem.&lt;/p&gt;
-
-&lt;p&gt;The important situations we face are deep and wide when it comes to design. You may have a very complete understanding at a high level but the diagram you have drawn may not be implementable. It may be implementable but it may not exhibit the qualities that are required to be successful. The classic mistake is to look across a problem making lots conceptual decisions without real regard to the ramifications.&lt;/p&gt;
-
-&lt;p&gt;Being able to see the relationships and the ramifications in both the deep context and the wide context is good architecture. It is the reason to architect. It is the reason you need an architect.&lt;/p&gt;</description>
+If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -161,44 +62,8 @@ If you are going for a particular look you had better be thinking about these th
       <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
-      <description>
-
-&lt;p&gt;Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title &lt;em&gt;Security Architect&lt;/em&gt; has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?&lt;/p&gt;
-
-&lt;h2 id=&#34;the-roles&#34;&gt;The Roles&lt;/h2&gt;
-
-&lt;p&gt;It might make more sense to work through the main types of roles you might see on a daily basis. This list is by no means comprehensive but it does try to cover the ones that seem to deliver the most amount of confusion.&lt;/p&gt;
-
-&lt;h3 id=&#34;engineer&#34;&gt;Engineer&lt;/h3&gt;
-
-&lt;p&gt;In the security world these are the guys (girls, people) who traditionally have had their hands on the knobs and the switches. They are the ones who set the configurations, they write the rules, and they keep the machinery running. In recent times we have seen the security engineers expand their domain by including more than just firewall or IDS/IPS technologies. Their responsibilities are now including other areas such as the equivalent of information security data mining and data loss management.&lt;/p&gt;
-
-&lt;h3 id=&#34;architect&#34;&gt;Architect&lt;/h3&gt;
-
-&lt;p&gt;This is where the confusion really sets in. An Architect is someone who looks for ways to deliver certain &lt;a href=&#34;http://bit.ly/175q0K9&#34;&gt;Quality Attributes&lt;/a&gt; for an environment. These attributes include things like performance, stability, security, flexibility, integrability, and many other &amp;ldquo;-ilities.&amp;rdquo; There are also different types of Architects so you may have more technical-oriented architects or more business-oriented architects.&lt;/p&gt;
-
-&lt;p&gt;Security Architects are responsible for ensuring that the design of systems and environments meet security and compliance mandates. Depending on the specific flavor they may be working with the overall security strategy, establishing policies and standards, or they may be more specific and only deliver application security architecture.&lt;/p&gt;
-
-&lt;h3 id=&#34;solution-architect&#34;&gt;Solution Architect&lt;/h3&gt;
-
-&lt;p&gt;Most of the time you do not have specific Solution Architects in the security world. Solution Architects are usually more general in nature. They help to deliver the optimal answer by selecting the best standards, technologies, and systems that are available in the current environment. The key is that they don&amp;rsquo;t pick any new technologies or standards but they use what has already been selected for normal use in the enterprise.&lt;/p&gt;
-
-&lt;h3 id=&#34;enterprise-architect&#34;&gt;Enterprise Architect&lt;/h3&gt;
-
-&lt;p&gt;Enterprise Architects are all about optimizing the whole or the business with their primary partners being on the business side. They speak of delivering business value in the most effective way possible so when they present options they gauge them by Risk, Cost and Benefit. Their job is to help set business strategy and then give the best options for making those strategies become reality. In the end the are the trusted partners giving advice on how to move the business forward in the most efficient way possible. They are not the guys you will call in to &amp;ldquo;fix your computer.&amp;rdquo;&lt;/p&gt;
-
-&lt;h2 id=&#34;the-point&#34;&gt;The Point&lt;/h2&gt;
-
-&lt;p&gt;The point to all of this division is that there are many different types of deliverables needed execute an optimized business.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/08/archRolesMatrix3.png&#34;&gt;&lt;img src=&#34;http://www.secretchipmunk.com/wp-content/uploads/2013/08/archRolesMatrix3.png&#34; alt=&#34;Roles Matrix&#34; width=&#34;622&#34; height=&#34;276&#34; class=&#34;alignnone size-full wp-image-154&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Every role has a part to play or a piece to contribute. Architects keep Engineers out of business meetings. Engineers somehow still manage to keep things running in spite bad architecture decisions.&lt;/p&gt;
-
-&lt;p&gt;The most import action for you is to determine your role and make sure you are spending the time necessary to be the best you can be in that role. I would suggest &lt;a href=&#34;http://www.sans.org/&#34;&gt;SANS&lt;/a&gt; or &lt;a href=&#34;https://www.isc2.org/&#34;&gt;(ISC)2&lt;/a&gt; for ways to improve your security stature.&lt;/p&gt;
-
-&lt;p&gt;What have you been called lately?&lt;/p&gt;
-</description>
+      <description>Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title Security Architect has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?
+The Roles It might make more sense to work through the main types of roles you might see on a daily basis.</description>
     </item>
     
   </channel>

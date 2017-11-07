@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.secretchipmunk.com/blog/2017/07/20/ready-set-architect/</loc>
+    <lastmod>2017-07-20T15:18:39-04:00</lastmod>
+  </url>
   
   <url>
     <loc>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</loc>
@@ -138,18 +144,19 @@
   
   <url>
     <loc>http://www.secretchipmunk.com/post/</loc>
-    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+    <lastmod>2017-07-20T15:18:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.secretchipmunk.com/</loc>
-    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+    <lastmod>2017-07-20T15:18:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.secretchipmunk.com/topics/</loc>
+    <lastmod>2015-03-12T12:21:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   

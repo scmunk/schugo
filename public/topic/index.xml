@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/topic/index.xml</link>
+    <link>http://www.secretchipmunk.com/topic/</link>
     <description>Recent content in Topics on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -10,7 +10,9 @@
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2017 Ron Parker</copyright>
     <lastBuildDate>Fri, 20 Mar 2015 15:18:55 -0400</lastBuildDate>
-    <atom:link href="http://www.secretchipmunk.com/topic/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.secretchipmunk.com/topic/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Agile</title>
@@ -27,8 +29,7 @@
       <pubDate>Wed, 11 Mar 2015 14:00:22 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/topic/architecture/</guid>
-      <description>&lt;p&gt;Architecture is here.&lt;/p&gt;
-</description>
+      <description>Architecture is here.</description>
     </item>
     
   </channel>

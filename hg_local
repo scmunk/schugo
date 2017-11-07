@@ -1,4 +1,4 @@
 #meant to be ran locally from Sites on Mac
 #not to be copied out
-#hugo  --theme=hyde-y --buildDrafts  -d /Users/eelpark/Sites --config=configLocal.toml
-hugo  --theme=mainroad --buildDrafts  -d /Library/WebServer/Documents --config=configLocal.toml
+hugo  --theme=mainroad --buildDrafts  -d /Users/eelpark/Sites --config=configLocal.toml
+#hugo  --theme=mainroad --buildDrafts  -d /Library/WebServer/Documents --config=configLocal.toml

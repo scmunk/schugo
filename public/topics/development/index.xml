@@ -2,14 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/topics/development/index.xml</link>
+    <link>http://www.secretchipmunk.com/topics/development/</link>
     <description>Recent content in Development on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2017 Ron Parker</copyright>
-    <atom:link href="http://www.secretchipmunk.com/topics/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2015 14:00:56 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.secretchipmunk.com/topics/development/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Why Go Hugo?</title>
@@ -17,24 +20,8 @@
       <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
       <guid>http://www.secretchipmunk.com/blog/2015/03/19/why-go-hugo/</guid>
-      <description>&lt;p&gt;For years I have worked with WordPress along with its themes, plugins, and vulnerabilities. I even purchased a couple of themes. Yes, WP can make a pretty site but at the end of the day I spent a lot of time working on WP and not working on content. It was time to move on to a different way of publishing.&lt;/p&gt;
-
-&lt;p&gt;There were a several reasons that I moved from a dynamic site to a static site.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Simple text-based content&lt;/li&gt;
-&lt;li&gt;Content that is easily managed/backed-up&lt;/li&gt;
-&lt;li&gt;Site that is free from distractions&lt;/li&gt;
-&lt;li&gt;Minimal hosting requirements&lt;/li&gt;
-&lt;li&gt;Minimal upkeep&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After looking at least a half-a-dozen generators I went with &lt;a href=&#34;http://gohugo.io/&#34; title=&#34;Hugo&#34;&gt;Hugo&lt;/a&gt;. Hugo is a single executable written in Golang that has a rather flexible approach. It seems to be well supported and isn&amp;rsquo;t weighed down with all the problems mentioned above. You can either compile from source or copy a single executable to get started.&lt;/p&gt;
-
-&lt;p&gt;Golang looks interesting but luckily you don&amp;rsquo;t actually have to get into any Go at all unless you are designing a theme or working on the templates.&lt;/p&gt;
-
-&lt;p&gt;Watch and see what happens. Hopefull there will be more content and less tweaking.&lt;/p&gt;
-</description>
+      <description>For years I have worked with WordPress along with its themes, plugins, and vulnerabilities. I even purchased a couple of themes. Yes, WP can make a pretty site but at the end of the day I spent a lot of time working on WP and not working on content. It was time to move on to a different way of publishing.
+There were a several reasons that I moved from a dynamic site to a static site.</description>
     </item>
     
   </channel>
