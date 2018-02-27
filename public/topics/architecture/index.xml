@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Secret Chipmunk</title>
-    <link>http://www.secretchipmunk.com/topics/architecture/</link>
+    <link>http://localhost/~ronparker/topics/architecture/</link>
     <description>Recent content in Architecture on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
-    <copyright>(c) 2017 Ron Parker</copyright>
+    <copyright>(c) 2018 Ron Parker</copyright>
     <lastBuildDate>Sun, 18 Sep 2016 12:21:29 -0500</lastBuildDate>
     
-	<atom:link href="http://www.secretchipmunk.com/topics/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/~ronparker/topics/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Entitlements in a Multi-tenant World</title>
-      <link>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</link>
+      <link>http://localhost/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</link>
       <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
+      <guid>http://localhost/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
       <description>We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.
 These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.
  Entitlements in a Multi-tenant World(PDF) Entitlements in a Multi-tenant World(PPTx)  </description>
@@ -27,10 +27,10 @@ These is the presentation I used for a basic talk on why it is important to unde
     
     <item>
       <title>What is the secret of the Grail?</title>
-      <link>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</link>
+      <link>http://localhost/~ronparker/blog/2015/05/12/what-is-the-secret-of-the-grail/</link>
       <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
+      <guid>http://localhost/~ronparker/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
       <description>Grail Figure: What is the secret of the Grail? Who does it serve?
 Perceval: You, my lord.
 Grail Figure: Who am I?
@@ -43,10 +43,10 @@ Do you feel like we have long forgotten the secret of The Architecture?</descrip
     
     <item>
       <title>Why Architect</title>
-      <link>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</link>
+      <link>http://localhost/~ronparker/blog/2015/03/16/why-architect/</link>
       <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</guid>
+      <guid>http://localhost/~ronparker/blog/2015/03/16/why-architect/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -58,10 +58,10 @@ If you are going for a particular look you had better be thinking about these th
     
     <item>
       <title>Architect from Hole in the Ground</title>
-      <link>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</link>
+      <link>http://localhost/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</link>
       <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
+      <guid>http://localhost/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
       <description>Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title Security Architect has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?
 The Roles It might make more sense to work through the main types of roles you might see on a daily basis.</description>
     </item>

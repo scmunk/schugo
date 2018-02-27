@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en-EN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Certified Cloud Security Professional Test</title>
+<meta name="description" content="Secret Chipmunk thoughts on architecture, security, diagramming, and development">
+<meta name="generator" content="Hugo 0.37" />
+<meta property="og:title" content="The Certified Cloud Security Professional Test" />
+<meta property="og:description" content="What is the Certified Cloud Security Professional (CCSP) certification, what should you study in order to pass, and is it worth it." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost/~ronparker/blog/2016/10/28/the-certified-cloud-security-professional-test/" />
+
+
+
+<meta property="article:published_time" content="2016-10-28T14:24:35-04:00"/>
+
+<meta property="article:modified_time" content="2016-10-28T14:24:35-04:00"/>
+
+<meta property="og:site_name" content="Secret Chipmunk" />
+
+
+
+
+
+
+
+
+
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" type="text/css" media="all" />
+<link rel="stylesheet" href="/~ronparker/css/style.css" type="text/css" media="all" />
+<script type="text/javascript" src="/~ronparker/js/scripts.js"></script>
+<link rel="shortcut icon" href="/~ronparker/favicon.ico">
+
+</head>
+<body class="body body-left-sidebar mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+	<div class="container container-outer">
+		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+			<div class="container container-inner clearfix">
+				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+					<a class="logo__link" href="/~ronparker" title="Secret Chipmunk" rel="home">
+						<h1 class="logo__title">Secret Chipmunk</h1>
+						<h2 class="logo__tagline">Architecture and Security</h2>
+					</a>
+				</div>
+			</div>
+			
+<nav class="menu" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<ul class="menu__list">
+		<li class="menu__item"><a class="menu__link" href="/~ronparker/about/">ABOUT</a></li>
+		<li class="menu__item"><a class="menu__link" href="/~ronparker/resume/">RESUME</a></li>
+	</ul>
+</nav>
+
+		</header>
+		<div class="wrapper clearfix">
+
+<main class="main-content content" role="main" itemprop="mainContentOfPage">
+	<article class="post">
+		<header class="post__header clearfix">
+			<h1 class="post__title">The Certified Cloud Security Professional Test</h1>
+			<p class="post__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="post__meta-date" datetime="2016-10-28T14:24:35">October 28, 2016</time>
+			</p>
+		</header>
+		<div class="post__content clearfix">
+			
+
+<h2 id="first-things-first">First things first</h2>
+
+<p>The most important point, for me anyway, is that I passed the test.</p>
+
+<p>It was helpful for me to hear how other people passed their tests and how they obtained their certifications. I can&rsquo;t guarantee that you will pass the test if you read this but hopefully you will pick up a couple of tips that may help you along the way.</p>
+
+<p><img src="/images/CCSP.png" alt="CCSP" /></p>
+
+<h2 id="what-is-the-ccsp">What is the CCSP</h2>
+
+<p>The (ISC)2 CCSP is a joint effort between the (ISC)2 and the Cloud Security Alliance. They have combined informational forces to offer a certification for cloud security professionals.</p>
+
+<p>The CCSP covers six domains.</p>
+
+<ul>
+<li>Architectural Concepts &amp; Design Requirements</li>
+<li>Cloud Data Security</li>
+<li>Cloud Platform &amp; Infrastructure Security</li>
+<li>Cloud Application Security</li>
+<li>Operations</li>
+<li>Legal &amp; Compliance</li>
+</ul>
+
+<p>These domains may seem similar to those covered under the CISSP and in a way they are. The major difference is that they all concentrate on those aspects that are important for securing a cloud environment. You can download the (ISC)2 pamphlet on the certification <a href="http://cert.isc2.org/ccsp-exam-outline-b/">here</a>.</p>
+
+<p>Since the CCSP is a relatively new certification there isn&rsquo;t a lot of information available for the test. As of this writing there are less than 1,000 professionals who have been certified.</p>
+
+<h2 id="why">Why?</h2>
+
+<p>The first question you always hear is &lsquo;Why is the cloud any different and isn&rsquo;t it just someone else&rsquo;s computer?&rsquo;</p>
+
+<p>There is huge amount of overlap between regular third parties, managed services providers, and cloud service providers. This is what most people are referring to when they say that it is all the same. Even though there are a lot of similarities the differences are significant.</p>
+
+<p>Here are a couple of differences just to name a few:</p>
+
+<ul>
+<li>Multi-tenancy is the norm</li>
+<li>Virtual segmentation and micro-segmentation is a must</li>
+<li>Development utilizes different tools and processes</li>
+<li>Customer behavior has been changed with this environment</li>
+<li>Businesses are &lsquo;all in&rsquo;</li>
+<li>Your security controls have to be able to handle widely distributed situations</li>
+</ul>
+
+<p>The huge rush to the cloud along with the change in behavior are driving reasons we need more security professionals to be familiar with this environment. If we think back we had other such migrations or explosions. We moved from the mainframe to small computers. We moved from monolithic applications to distributed systems. The Internet grew up and now we are moving to it.</p>
+
+<p>The overall behavior of people and businesses are changing. We have to take that into account as security professionals in order to provide the best security advice and the most fitting security controls. It isn&rsquo;t just a change in technology that we have to adjust to moving forward.</p>
+
+<h2 id="passing-the-test">Passing the test</h2>
+
+<p>My development background, architecture background, and work over the years as a CISSP did help with the certification. Experience is almost always a good thing.</p>
+
+<p>The materials came from many different sources. Here were the main ones I used for the test:</p>
+
+<ul>
+<li>The Official CCSP CBK Participant Guide (PDF from online class, see below)</li>
+<li><a href="https://www.amazon.com/Official-ISC-Guide-CCSP-CBK/dp/1119276721">The Official (ISC)2 CCSP CBK 2nd edition, Sybex</a></li>
+<li><a href="https://www.isc2.org/ccsp-training/default.aspx">(ISC)2 CCSP online class</a></li>
+<li><a href="https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/csaguide.v3.0.pdf">Security Guidance for Critical Areas of Focus in Cloud Computing v3.0</a></li>
+<li><a href="https://research.cloudsecurityalliance.org/tci/">CSA Enterprise Architecture</a></li>
+<li>ISO 17788, 17789 Cloud Computing Definitions and Reference Architecture</li>
+<li><a href="https://www.enisa.europa.eu/publications/cloud-security-guide-for-smes">ENISA Cloud Security Guide for SMEs</a></li>
+<li><a href="http://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-30r1.pdf">NIST SP 800-30 Risk Management</a></li>
+<li>Various materials on BCDR including those from the CISSP</li>
+<li>Indirectly NIST 800-53r4, ISO 27001:2103, ISO 27002:2013</li>
+<li><a href="https://collaboration.opengroup.org/jericho/cloud_cube_model_v1.0.pdf">The Cloud Cube Model</a></li>
+</ul>
+
+<h3 id="studying">Studying</h3>
+
+<p>The CBK should be the main source of any test so I spent a considerable amount of time reading the Sybex CBK book plus I took the online class. The class consisted of 28 hours of video, an older CBK PDF, some flashcards, and study questions. The most positive aspect of the online class was that it was worth 40 CPEs for a CISSP.</p>
+
+<p>The Sybex CBK and the class also had study questions but the ones in the book were identical to those online. I didn&rsquo;t use the older CBK Participant Guide. It had several group study questions but other than that it didn&rsquo;t offer very much.</p>
+
+<p>Near the end of my three month study time I began to really look at the Cloud Security Alliance materials. To my surprise they were much more detailed, were practically in the same order, and shared the same graphics. I felt like I should have put a lot more emphasis on the CSA materials.</p>
+
+<p>If I had to approach this again I would use an outline similar to this:</p>
+
+<ul>
+<li>Read the Sybex CBK to get an idea of the domains</li>
+<li>Lightly read the CSA materials</li>
+<li>Read the miscellaneous materials
+
+<ul>
+<li>Definitions</li>
+<li>Risk Management</li>
+<li>Business Continuity</li>
+<li>Basic cloud infrastructure</li>
+<li>Basic cloud security controls (TLS, CASB, IPSec, PKI, encryption)</li>
+<li>Cloud Certifications and Sec/Privacy regs (SOC 1/2/3, EU, PCI DSS)</li>
+<li>Development life cycles</li>
+<li>Testing methods for applications, system, networks, clouds</li>
+<li>Understand accountability and responsibility when it comes to data, privacy, controls, and the law</li>
+</ul></li>
+<li>Browse the Sybex CBK again</li>
+<li>Study the CSA materials</li>
+</ul>
+
+<p>Hold all of that in your head and run to take the test.</p>
+
+<p>This is a very broad test. It boils down to how we should do security architecture in the cloud. It you don&rsquo;t have any experience with cloud deployment, cloud contracts, cloud integration, or cloud security controls this test may be very hard for you.</p>
+
+<h2 id="opinion">Opinion</h2>
+
+<h3 id="official-materials">Official Materials</h3>
+
+<p>There are some issues with the test as advertised and the materials provided. The online class should be more than someone reading what is available in a book. The questions in the CBK and the questions for the class should not match word-for-word. I would expect the class to offer more insight and a greater depth or breadth of information.</p>
+
+<p>A Sybex study guide is due out in April of 2017. It will be interesting to see if it is more applicable than the previous versions of the CBKs. Either way you will need to greatly supplement the official Sybex CBK in order to get a good understanding of cloud security.</p>
+
+<h3 id="cloud-approach">Cloud Approach</h3>
+
+<p>The cloud approach we use today is not as black-and-white as it is described in many of the books. It isn&rsquo;t just IaaS, or just PaaS, or just SaaS. These lines are blurring and changing quickly. Most large cloud service providers do provide all these services and some that aren&rsquo;t easily classified.</p>
+
+<p>The test makes the mistake of being too rigid and uses context that are not clear. We need to be more concerned with the process being executed and the correct security control that needs to be applied than we do trying to make the situation fit into one of the service model boxes.</p>
+
+<p>It is convenient to use the service labels but reality isn&rsquo;t quite playing out that way.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>I do think this certification is useful in today&rsquo;s environment. You might have a lot of exposure to a specific cloud aspect but the certification ensures that you will be aware of all the aspects of cloud computing which is needed in order to properly apply risk management and security.</p>
+
+<p>If you have any questions or comments leave them here or drop me a note. You can always reach me at <a href="http://twitter.com/scmunk">@scmunk</a> or <a href="mailtto:scmunk@secretchipmunk.com">scmunk@secretchipmunk.com</a>.</p>
+
+		</div>
+		
+
+	</article>
+	
+	
+<nav class="post-nav row clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<div class="post-nav__item post-nav__item--prev col-1-2">
+		<a class="post-nav__link" href="/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/" rel="prev"><span class="post-nav__caption">«Previous</span><p class="post-nav__post-title">Entitlements in a Multi-tenant World</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next col-1-2">
+		<a class="post-nav__link" href="/~ronparker/blog/2017/05/01/session-box/" rel="next"><span class="post-nav__caption">Next»</span><p class="post-nav__post-title">Session Box</p></a>
+	</div>
+</nav>
+
+	
+<div class="comments">
+	<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "secretchipmunk" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+</main>
+
+<aside class="sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+	
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="//google.com/search">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="http://localhost/~ronparker" />
+	</form>
+</div>
+	
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2017/07/20/ready-set-architect/">Ready, Set, Architect!</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2017/05/01/session-box/">Session Box</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2016/10/28/the-certified-cloud-security-professional-test/">The Certified Cloud Security Professional Test</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/">Entitlements in a Multi-tenant World</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2016/04/17/b-sides-nashville-2016-presentation/">B-Sides Nashville 2016 Presentation</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2016/02/24/b-sides-nashville-2016/">B-Sides Nashville 2016</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2015/12/07/iam-complicated/">IAM complicated</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2015/12/07/what-is-iam/">What is IAM?</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2015/06/16/why-lastpass-math-matters/">Why LastPass Math Matters</a></li>
+			<li class="widget__item"><a class="widget__link" href="/~ronparker/blog/2015/05/12/what-is-the-secret-of-the-grail/">What is the secret of the Grail?</a></li>
+		</ul>
+	</div>
+</div>
+
+	
+	
+
+	
+</aside>
+
+	</div>
+		<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+			<div class="container container-inner">
+				<p class="footer__copyright">&copy; 2018 Secret Chipmunk. <span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad theme</a>.</span></p>
+			</div>
+		</footer>
+	</div>
+
+<script>
+	var navigation = responsiveNav(".menu", {
+		navClass: "menu--collapse",
+	});
+</script>
+</body>
+</html>

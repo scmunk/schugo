@@ -1,6 +1,6 @@
 #Hugo Config file
 #Internet version
-#2015-11-29
+#2018-02-27
 
 
 # hostname (and path) to the root eg. http://spf13.com/
@@ -10,7 +10,7 @@ Baseurl = "http://127.0.0.1/"
 title = "Secret Chipmunk"
 
 # Copyright
-copyright = "(c) 2017 Ron Parker"
+copyright = "(c) 2018 Ron Parker"
 
 # Language
 languageCode = "en-EN"
