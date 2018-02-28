@@ -1,5 +1,5 @@
 +++
-topics = ["Architect"]
+tags = ["Architect"]
 date = "2015-03-12T12:21:36-04:00"
 description = "Sometimes it is nice to see the order of things. The idea isn't new but there are some nice tools out there for producing sequence diagrams."
 keywords = ["sequence", "diagram", "architecture", "design", "engineering", "software", "development"]

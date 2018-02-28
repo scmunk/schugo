@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2015-03-12T12:47:21-04:00"
 description = "How do we describe the actions we really need to take in security? How do we build a common dialog so we can all understand the work we are doing?"
 keywords = ["security", "controls", "framework", "NIST", "ISO"]

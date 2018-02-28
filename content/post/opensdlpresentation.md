@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2015-04-25T15:00:45-04:00"
 description = "Here is a quick presentation on introducing security into the development process for an agile environment."
 keywords = ["SDLC", "SDL", "Security", "lifecycle", "agile", "kanban", "pull model"]

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architect on Secret Chipmunk</title>
+    <link>http://www.secretchipmunk.com/tags/architect/</link>
+    <description>Recent content in Architect on Secret Chipmunk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
+    <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
+    <copyright>(c) 2018 Ron Parker</copyright>
+    <lastBuildDate>Thu, 12 Mar 2015 12:21:36 -0400</lastBuildDate>
+    
+	<atom:link href="http://www.secretchipmunk.com/tags/architect/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Order of Things</title>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</link>
+      <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/order-of-things/</guid>
+      <description>Sequence Diagrams I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.
+There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram.</description>
+    </item>
+    
+  </channel>
+</rss>

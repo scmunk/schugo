@@ -2,80 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Secret Chipmunk</title>
-    <link>http://localhost:1313/~ronparker/topics/</link>
+    <link>http://www.secretchipmunk.com/topics/</link>
     <description>Recent content in Topics on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2018 Ron Parker</copyright>
-    <lastBuildDate>Mon, 01 May 2017 20:07:53 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/~ronparker/topics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.secretchipmunk.com/topics/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>A</title>
-      <link>http://localhost:1313/~ronparker/topics/a/</link>
-      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architect</title>
-      <link>http://localhost:1313/~ronparker/topics/architect/</link>
-      <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/architect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Architecture</title>
-      <link>http://localhost:1313/~ronparker/topics/architecture/</link>
-      <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>B</title>
-      <link>http://localhost:1313/~ronparker/topics/b/</link>
-      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Communication</title>
-      <link>http://localhost:1313/~ronparker/topics/communication/</link>
-      <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://localhost:1313/~ronparker/topics/development/</link>
-      <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Infosec</title>
-      <link>http://localhost:1313/~ronparker/topics/infosec/</link>
-      <pubDate>Fri, 28 Oct 2016 14:24:35 -0400</pubDate>
-      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/topics/infosec/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

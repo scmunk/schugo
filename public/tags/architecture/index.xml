@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Secret Chipmunk</title>
-    <link>http://localhost:1313/~ronparker/tags/architecture/</link>
+    <link>http://www.secretchipmunk.com/tags/architecture/</link>
     <description>Recent content in Architecture on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -11,46 +11,77 @@
     <copyright>(c) 2018 Ron Parker</copyright>
     <lastBuildDate>Thu, 20 Jul 2017 15:18:39 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/~ronparker/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.secretchipmunk.com/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ready, Set, Architect!</title>
-      <link>http://localhost:1313/~ronparker/blog/2017/07/20/ready-set-architect/</link>
+      <link>http://www.secretchipmunk.com/blog/2017/07/20/ready-set-architect/</link>
       <pubDate>Thu, 20 Jul 2017 15:18:39 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/blog/2017/07/20/ready-set-architect/</guid>
+      <guid>http://www.secretchipmunk.com/blog/2017/07/20/ready-set-architect/</guid>
       <description>A Quick Talk This is a quick tour through why we need to architect, a couple of the frameworks, and finally several helpful tools.
 It started out as a 5-minute lightning talk but turn more into an 8-minute flashflood. I want to thank the @chadevs for giving me the time to come and speak to the great group there. There was a good crowd that filled up the room. If you haven&amp;rsquo;t attended a Chattanooga Developers, ChaDevs, Lunch Meeting then check them out on Meetup.</description>
     </item>
     
     <item>
       <title>Session Box</title>
-      <link>http://localhost:1313/~ronparker/blog/2017/05/01/session-box/</link>
+      <link>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</link>
       <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/blog/2017/05/01/session-box/</guid>
+      <guid>http://www.secretchipmunk.com/blog/2017/05/01/session-box/</guid>
       <description>I draw a lot of diagrams. With all these diagrams there are an endless number of revisions and refinements created in the process. Some of the changes are necessary while others are definitely not earth-shattering.
 Timeboxing  In time management, timeboxing allocates a fixed time period, called a time box, to each planned activity. It is also used for individual use to address personal tasks in a smaller time frame.</description>
     </item>
     
     <item>
       <title>Entitlements in a Multi-tenant World</title>
-      <link>http://localhost:1313/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</link>
+      <link>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</link>
       <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
+      <guid>http://www.secretchipmunk.com/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</guid>
       <description>We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.
 These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.
  Entitlements in a Multi-tenant World(PDF) Entitlements in a Multi-tenant World(PPTx)  </description>
     </item>
     
     <item>
+      <title>What is the secret of the Grail?</title>
+      <link>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</link>
+      <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/05/12/what-is-the-secret-of-the-grail/</guid>
+      <description>Grail Figure: What is the secret of the Grail? Who does it serve?
+Perceval: You, my lord.
+Grail Figure: Who am I?
+Perceval: You are my lord and king. You are Arthur.
+Grail Figure: Have you found the secret that I have lost?
+Perceval: Yes. You and the land are one.
+ Doesn&amp;rsquo;t this sound like a conversation you overheard between several architects standing around the watercooler?
+Do you feel like we have long forgotten the secret of The Architecture?</description>
+    </item>
+    
+    <item>
+      <title>Why Architect</title>
+      <link>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</link>
+      <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/16/why-architect/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.
+
+If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Architect from Hole in the Ground</title>
-      <link>http://localhost:1313/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</link>
+      <link>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</link>
       <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost:1313/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
+      <guid>http://www.secretchipmunk.com/blog/2015/03/12/architect-from-hole-in-the-ground/</guid>
       <description>Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title Security Architect has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?
 The Roles It might make more sense to work through the main types of roles you might see on a daily basis.</description>
     </item>

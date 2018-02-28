@@ -1,5 +1,5 @@
 +++
-topics = ["Architecture"]
+tags = ["Architecture"]
 date = "2015-03-16T15:09:38-04:00"
 description = "Why should we architect and why do we need an architect?"
 keywords = ["architecture","architect", "purposeful", "engineering", "design"]

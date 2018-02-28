@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2015-03-20T15:00:45-04:00"
 description = "If you need a repeatable process that helps raise your over all level of security assurance you may need a development life-cycle."
 keywords = ["sdl", "sdlc", "software", "development", "life-cycle", "process", "security", "infosec", "FLOSS"]

@@ -54,7 +54,7 @@ disqusShortname = "secretchipmunk"
     leftsidebar = true # Move sidebar to the left side if true
     authorbox = false
     post_navigation = true
-    
+
     # hyde theme
     #brand = "Secret Chipmunk"
     #topline = "Enterprise Architecture and Security"
@@ -62,7 +62,7 @@ disqusShortname = "secretchipmunk"
 
     # You can use markdown here.
     brand = "Secret Chipmunk"
-    
+
 
     # Sidebar position
     # false, true, "left", "right"
@@ -95,3 +95,8 @@ disqusShortname = "secretchipmunk"
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     topics = true
+
+[[menu.main]]
+	url = "/topic/"
+	name = "Reference"
+	identifier = "reference"

@@ -1,5 +1,5 @@
 +++
-topics = ["Development"]
+tags = ["Development"]
 date = "2015-03-19T14:00:56-04:00"
 description = "Why Go Hugo?"
 keywords = ["go", "golang", "hugo"]

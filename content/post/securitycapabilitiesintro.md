@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2015-03-12T12:45:30-04:00"
 description = "Security Capabilities"
 keywords = ["security", "infosec", "capabilities", "function", "service"]
