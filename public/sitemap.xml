@@ -3,181 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2017/07/20/ready-set-architect/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2017/07/20/ready-set-architect/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2017/05/01/session-box/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2017/05/01/session-box/</loc>
     <lastmod>2017-05-01T20:07:53-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
     <lastmod>2016-10-28T14:24:35-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</loc>
     <lastmod>2016-09-18T12:21:29-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2016/04/17/b-sides-nashville-2016-presentation/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2016/04/17/b-sides-nashville-2016-presentation/</loc>
     <lastmod>2016-04-17T11:24:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2016/02/24/b-sides-nashville-2016/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2016/02/24/b-sides-nashville-2016/</loc>
     <lastmod>2016-02-24T11:24:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/12/07/iam-complicated/</loc>
-    <lastmod>2015-12-07T20:21:29-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~ronparker/blog/2015/12/07/what-is-iam/</loc>
-    <lastmod>2015-12-07T20:21:29-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~ronparker/blog/2015/06/16/why-lastpass-math-matters/</loc>
-    <lastmod>2015-06-16T13:13:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost/~ronparker/blog/2015/05/12/what-is-the-secret-of-the-grail/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/05/12/what-is-the-secret-of-the-grail/</loc>
     <lastmod>2015-05-12T10:09:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/04/25/opensdl-presentation/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/04/25/opensdl-presentation/</loc>
     <lastmod>2015-04-25T15:00:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/resume/</loc>
+    <loc>http://localhost:1313/~ronparker/resume/</loc>
     <lastmod>2015-04-16T14:40:24-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/04/14/b-sides-nashville-2015/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/04/14/b-sides-nashville-2015/</loc>
     <lastmod>2015-04-14T11:24:54-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topic/agile/</loc>
+    <loc>http://localhost:1313/~ronparker/topic/agile/</loc>
     <lastmod>2015-03-20T15:18:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/20/open-security-development-lifecycle/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/20/open-security-development-lifecycle/</loc>
     <lastmod>2015-03-20T15:00:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/19/why-go-hugo/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/19/why-go-hugo/</loc>
     <lastmod>2015-03-19T14:00:56-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/16/why-architect/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/16/why-architect/</loc>
     <lastmod>2015-03-16T15:09:38-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/control-by-control/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/control-by-control/</loc>
     <lastmod>2015-03-12T12:47:21-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/security-capabilities/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/security-capabilities/</loc>
     <lastmod>2015-03-12T12:45:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/ecstatic-over-static-passwords/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/ecstatic-over-static-passwords/</loc>
     <lastmod>2015-03-12T12:43:10-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/architect-from-hole-in-the-ground/</loc>
     <lastmod>2015-03-12T12:41:06-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/storytelling/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/storytelling/</loc>
     <lastmod>2015-03-12T12:38:25-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/blog/2015/03/12/order-of-things/</loc>
+    <loc>http://localhost:1313/~ronparker/blog/2015/03/12/order-of-things/</loc>
     <lastmod>2015-03-12T12:21:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topic/architecture/</loc>
+    <loc>http://localhost:1313/~ronparker/topic/architecture/</loc>
     <lastmod>2015-03-11T14:00:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/about/</loc>
+    <loc>http://localhost:1313/~ronparker/about/</loc>
     <lastmod>2015-02-26T14:40:39-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/architect/</loc>
+    <loc>http://localhost:1313/~ronparker/topics/a/</loc>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/topics/architect/</loc>
     <lastmod>2015-03-12T12:21:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/architecture/</loc>
-    <lastmod>2016-09-18T12:21:29-05:00</lastmod>
+    <loc>http://localhost:1313/~ronparker/topics/architecture/</loc>
+    <lastmod>2015-05-12T10:09:38-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/communication/</loc>
+    <loc>http://localhost:1313/~ronparker/tags/architecture/</loc>
+    <lastmod>2017-07-20T15:18:39-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/topics/b/</loc>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/topics/communication/</loc>
     <lastmod>2015-03-12T12:38:25-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/development/</loc>
+    <loc>http://localhost:1313/~ronparker/topics/development/</loc>
     <lastmod>2015-03-19T14:00:56-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/infosec/</loc>
+    <loc>http://localhost:1313/~ronparker/topics/infosec/</loc>
+    <lastmod>2015-04-25T15:00:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/tags/infosec/</loc>
     <lastmod>2016-10-28T14:24:35-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/post/</loc>
+    <loc>http://localhost:1313/~ronparker/post/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/</loc>
+    <loc>http://localhost:1313/~ronparker/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topic/</loc>
+    <loc>http://localhost:1313/~ronparker/tags/</loc>
+    <lastmod>2017-07-20T15:18:39-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/tags/thinking/</loc>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/~ronparker/topic/</loc>
     <lastmod>2015-03-20T15:18:55-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/~ronparker/topics/</loc>
-    <lastmod>2015-03-12T12:21:36-04:00</lastmod>
+    <loc>http://localhost:1313/~ronparker/topics/</loc>
+    <lastmod>2017-05-01T20:07:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -35,6 +35,7 @@ disqusShortname = "secretchipmunk"
 
 [taxonomies]
     topic = "topics"
+    tag = "tags"
 
 [author]
     name = "Ron Parker"

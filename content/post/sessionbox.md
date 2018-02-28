@@ -3,6 +3,7 @@ categories: []
 date: 2017-05-01T20:07:53-04:00
 description: "Have you tried timeboxing to work through a problem? Setting time limits to force yourself to produce a result is a great idea but could there be a different way to set your time limit?"
 tags: ["Architecture","Thinking"]
+topics: ["A", "B"]
 thumbnail: ""
 title: "Session Box"
 ---

@@ -1,5 +1,5 @@
 +++
-topics = ["Architecture"]
+tags = ["Architecture"]
 date = "2015-03-12T12:41:06-04:00"
 description = "There are many different roles that deal with architecture. There are also several types of architects."
 keywords = ["architecture", "role", "engineering", "solution"]

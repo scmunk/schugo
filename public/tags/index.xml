@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Secret Chipmunk</title>
+    <link>http://localhost:1313/~ronparker/tags/</link>
+    <description>Recent content in Tags on Secret Chipmunk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
+    <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
+    <copyright>(c) 2018 Ron Parker</copyright>
+    <lastBuildDate>Thu, 20 Jul 2017 15:18:39 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/~ronparker/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture</title>
+      <link>http://localhost:1313/~ronparker/tags/architecture/</link>
+      <pubDate>Thu, 20 Jul 2017 15:18:39 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://localhost:1313/~ronparker/tags/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thinking</title>
+      <link>http://localhost:1313/~ronparker/tags/thinking/</link>
+      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://localhost:1313/~ronparker/tags/thinking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

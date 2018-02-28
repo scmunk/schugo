@@ -4,7 +4,7 @@ date = "2016-10-28T14:24:35-04:00"
 description = "What is the Certified Cloud Security Professional (CCSP) certification, what should you study in order to pass, and is it worth it."
 keywords = ["ISC", "CCSP", "Security", "Cloud", "Certification", "Test"]
 title = "The Certified Cloud Security Professional Test"
-topics = ["Infosec"]
+tags = ["Infosec"]
 +++
 ## First things first
 

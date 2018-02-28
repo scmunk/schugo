@@ -1,6 +1,6 @@
 
 +++
-topics = ["InfoSec", "Architecture"]
+tags = ["InfoSec", "Architecture"]
 date = "2016-09-18T12:21:29-05:00"
 description = "Entitlements are a foundational aspect of access control. They are more complex in a multi-tenant world."
 keywords = ["IAM","identity","access","management","entitlements","multi-tenancy","infosec"]

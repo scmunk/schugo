@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Secret Chipmunk</title>
-    <link>http://localhost/~ronparker/topic/</link>
+    <link>http://localhost:1313/~ronparker/topic/</link>
     <description>Recent content in Topics on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -11,24 +11,24 @@
     <copyright>(c) 2018 Ron Parker</copyright>
     <lastBuildDate>Fri, 20 Mar 2015 15:18:55 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost/~ronparker/topic/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/~ronparker/topic/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Agile</title>
-      <link>http://localhost/~ronparker/topic/agile/</link>
+      <link>http://localhost:1313/~ronparker/topic/agile/</link>
       <pubDate>Fri, 20 Mar 2015 15:18:55 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost/~ronparker/topic/agile/</guid>
+      <guid>http://localhost:1313/~ronparker/topic/agile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>http://localhost/~ronparker/topic/architecture/</link>
+      <link>http://localhost:1313/~ronparker/topic/architecture/</link>
       <pubDate>Wed, 11 Mar 2015 14:00:22 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost/~ronparker/topic/architecture/</guid>
+      <guid>http://localhost:1313/~ronparker/topic/architecture/</guid>
       <description>Architecture is here.</description>
     </item>
     

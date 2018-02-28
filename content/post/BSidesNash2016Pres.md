@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2016-04-17T11:24:54-04:00"
 description = "Identity and Access Management at B-Sides Nashville 2016. Find out why IAM is at the heart of access control."
 keywords = ["conference","information security", "nashville", "bsidesnash", "IAM", "identity", "access", "management", "bsides", "security", "federation", "Secret Chipmunk", "scmunk"]

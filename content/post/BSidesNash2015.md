@@ -1,5 +1,5 @@
 +++
-topics = ["Infosec"]
+tags = ["Infosec"]
 date = "2015-04-14T11:24:54-04:00"
 description = "Talking Agile and Security at B-Sides Nashville"
 keywords = ["conference","information security", "nashville", "bsidesnash"]

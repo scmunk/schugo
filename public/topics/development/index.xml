@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Secret Chipmunk</title>
-    <link>http://localhost/~ronparker/topics/development/</link>
+    <link>http://localhost:1313/~ronparker/topics/development/</link>
     <description>Recent content in Development on Secret Chipmunk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
@@ -11,15 +11,15 @@
     <copyright>(c) 2018 Ron Parker</copyright>
     <lastBuildDate>Thu, 19 Mar 2015 14:00:56 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost/~ronparker/topics/development/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/~ronparker/topics/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Why Go Hugo?</title>
-      <link>http://localhost/~ronparker/blog/2015/03/19/why-go-hugo/</link>
+      <link>http://localhost:1313/~ronparker/blog/2015/03/19/why-go-hugo/</link>
       <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://localhost/~ronparker/blog/2015/03/19/why-go-hugo/</guid>
+      <guid>http://localhost:1313/~ronparker/blog/2015/03/19/why-go-hugo/</guid>
       <description>For years I have worked with WordPress along with its themes, plugins, and vulnerabilities. I even purchased a couple of themes. Yes, WP can make a pretty site but at the end of the day I spent a lot of time working on WP and not working on content. It was time to move on to a different way of publishing.
 There were a several reasons that I moved from a dynamic site to a static site.</description>
     </item>
