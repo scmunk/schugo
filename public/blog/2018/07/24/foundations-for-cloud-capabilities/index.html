@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en-EN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Foundations for Cloud Capabilities</title>
+<meta name="description" content="Secret Chipmunk thoughts on architecture, security, diagramming, and development">
+<meta name="generator" content="Hugo 0.38.2" />
+<meta property="og:title" content="Foundations for Cloud Capabilities" />
+<meta property="og:description" content="Before you can take full advantage of the services offered from a provider you may need to understand and implement foundational support." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.secretchipmunk.com/blog/2018/07/24/foundations-for-cloud-capabilities/" />
+
+
+
+<meta property="article:published_time" content="2018-07-24T12:45:30-04:00"/>
+
+<meta property="article:modified_time" content="2018-07-24T12:45:30-04:00"/>
+
+<meta property="og:site_name" content="Secret Chipmunk" />
+
+
+
+
+
+
+
+
+
+
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700" type="text/css" media="all" />
+<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
+<script type="text/javascript" src="/js/scripts.js"></script>
+<link rel="shortcut icon" href="/favicon.ico">
+
+</head>
+<body class="body body-left-sidebar mobile" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+	<div class="container container-outer">
+		<header class="header" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+			<div class="container container-inner clearfix">
+				<div class="logo" role="banner" itemscope="itemscope" itemtype="http://schema.org/Brand">
+					<a class="logo__link" href="/" title="Secret Chipmunk" rel="home">
+						<h1 class="logo__title">Secret Chipmunk</h1>
+						<h2 class="logo__tagline">Architecture and Security</h2>
+					</a>
+				</div>
+			</div>
+			
+<nav class="menu" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<ul class="menu__list">
+		<li class="menu__item"><a class="menu__link" href="/about/">ABOUT</a></li>
+		<li class="menu__item"><a class="menu__link" href="/models/">MODELS</a></li>
+		<li class="menu__item"><a class="menu__link" href="/resume/">RESUME</a></li>
+	</ul>
+</nav>
+
+		</header>
+		<div class="wrapper clearfix">
+
+<main class="main-content content" role="main" itemprop="mainContentOfPage">
+	<article class="post">
+		<header class="post__header clearfix">
+			<h1 class="post__title">Foundations for Cloud Capabilities</h1>
+			<p class="post__meta meta">
+				<svg class="icon icon-time" height="14" viewBox="0 0 16 16" width="14" xmlns="http://www.w3.org/2000/svg"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+				<time class="post__meta-date" datetime="2018-07-24T12:45:30">July 24, 2018</time>
+			</p>
+		</header>
+		<div class="post__content clearfix">
+			
+
+<p><img src="/images/basiccloudcaps.png" alt="Cloud Capabilities" /></p>
+
+<h2 id="a-survey">A Survey</h2>
+
+<p>If you missed it, read the post on <a href="/blog/2018/07/22/cloud-capabilities/">Cloud Capabilities</a> first. We will be building on that as we expand our design.</p>
+
+<p>This is a pretty long and involved topic so will be broken into a couple of posts. The first post or two will describe all the foundational elements that may be needed. Then we will move into more architectural direction and artifacts to use in the process.</p>
+
+<h2 id="glue-paperclips-and-tape">Glue, paperclips, and tape</h2>
+
+<p>Cloud parts are great. Individually they are quite remarkable, but the true work often is trying to get more than one cloud part to work together successfully in your environment. In order to get ahead of these issues there are certain things you can be thinking about and implementing that will get you ahead. These areas have to be understood, and brought to bear in order to have a viable solution when assembling a solution from cloud parts.</p>
+
+<ul>
+<li>Governance</li>
+<li>Environments</li>
+<li>Request and Provisioning</li>
+<li>Backup and Recovery</li>
+<li>Disaster Recovery</li>
+<li>Cost Management</li>
+<li>Identity and Access Management</li>
+<li>Data Security/Privacy</li>
+<li>Connectivity</li>
+<li>Integration</li>
+<li>Monitoring</li>
+<li>Operations</li>
+</ul>
+
+<p>The degree to how you approach each of these areas really depends on the size and complexity of your organization. If you are from a small shop where all the decisions can be made by a single person or made in the same room it greatly simplifies the work. It is also true that these foundational areas are also important for non-cloud, on-premises, or on-ground solutions. Sometimes it just implies different ownership while other times you still have to understand and implement these areas yourself.</p>
+
+<p>All of these foundational areas contribute to the cost and the complexity of using cloud parts. You must understand the full-cost of a delivered service when all the necessary foundational areas have been included. This is much like a car sticker price. The price on the window is never what you pay at the end and there are always more costs for operations and maintenance.</p>
+
+<p>By looking at each area to get an understanding what it adds to the environment we can see how capability mapping and other architectural approaches can help us be more successful.</p>
+
+<h3 id="governance">Governance</h3>
+
+<p>Per The Open Group, Cloud Governance is</p>
+
+<blockquote>
+<p>Is a view of IT governance focused on accountability, defining decision rights and balancing benefit or value, risk, and resources in an environment embracing cloud computing.</p>
+</blockquote>
+
+<p>You organization will determine the level of governance needed based on what is deemed important. The governing group may not actually create the rules or processes but they are there to make sure that those directions are adhered to. A governance group can also help eliminate delay or swirl by providing that guidance.</p>
+
+<p>Governance is necessary but if done incorrectly can become a hindrance or a barrier to cloud entry. It is very important that you set the scope and determine the attributes that your governance body is governing. Here are some of topics governance can help guide:</p>
+
+<ul>
+<li>Approved Service Providers</li>
+<li>Cost control</li>
+<li>Avoidance of duplicated services</li>
+<li>Security vetting</li>
+<li>Lifecycle definition and adherence</li>
+</ul>
+
+<h3 id="environments">Environments</h3>
+
+<p>Environments are areas of operation that have their own set of rules, processes, and policies. Environments are usually used for logical or physical separation between production and pre-production, development tracks, testing tracks, or any other group that needs isolation or boundaries. Sometimes an environment is there to provide a boundary for security, for compliance, or even to provide different operational characteristics.</p>
+
+<p>Most organizations have to recognize and represent environments whether those are totally on-premises, wholly, or partially implemented with cloud services. The most common type of environment is used to separate production data from pre-production. It gives you the ability to test, upgrade, or develop without hindering you operational production systems.</p>
+
+<p>Cloud implementations do not remove this need even though they may give you more options. You may be able to take advantage of micro-segmentation using virtual private clouds, or pre-isolated PaaS offerings. Even if you move to a functional-driven server-less solution you will still need to think about your needs for environmental definition and implementation.</p>
+
+<p>Once again you look at your capabilities or you technologies supporting your capabilities to determine how environments are defined with them. This is especially important if a single environment spans deployment locations and types. You might have a development environment that is partially implemented using cloud services. It is very hard to apply an environment direction to a large existing deployment. This is why an environmental strategy is a foundational piece.</p>
+
+<h3 id="backup-and-recovery">Backup and Recovery</h3>
+
+<p>Backup and recovery is the everyday operation of making copies, whether logical or physical, of your data and your state so at a later time you can restore the system back to a particular state. Backups can be kept locally for faster recovery but with increased risk or they can be kept remote where the risk is lower but the restore times are increased.</p>
+
+<p>Each cloud capability has a different requirement for when and how backup can be made. It is important to understand the recovery times, the granularity of the request, the cost, and the links associated with the disaster recovery process.</p>
+
+<p>Even though cloud services usually provide some form of backup and recovery you need to think about your specific scenarios for recovery. One new scenario is that of restoring after a RansonWare attack. A RansomWare attack may have encrypted or destroyed critical business data over a short or a long period of time. The longer the period the more likely that the corrupted data has been stored in backups or been copied to alternate sites. It is critical that you have a means to perform a recovery from a clean and disconnected source because your business may depend upon it.</p>
+
+<p>Another factor in Backup and Recovery is cost. A cloud service provider may charge you for backing up or moving your data offsite or it may charge you for the recovery process. Some providers have APIs to both extract and restore data so you may be charged by the API call.</p>
+
+<p>You need to understand the Backup and Recovery processes and costs for each capability.</p>
+
+<h3 id="disaster-recovery">Disaster Recovery</h3>
+
+<p>Disaster Recovery is the technical side of you business continuity and resilience. It is how you will bring all the technology based services back to an operational level even if it means switching providers or radically changing the way the service is implemented.</p>
+
+<p>Many cloud service providers have ways of performing regional failover or base level replication. What you have to understand is what does it take to make this happen, does it cover all of your circumstances, and how much does it costs to utilized these resilient services. You can&rsquo;t just depend on the provider to support your business and technical processes without issue.</p>
+
+<p>You need to understand the capabilities you are utilizing and then determine what the disaster recovery plan is for each of those capabilities even if it is deemed that you will do nothing. The location of your capabilities becomes more important because orchestrating a recovery plan across locations is even more complex.</p>
+
+<p>The first option is to design your systems with recovery in mind. The second option is to be properly prepared.</p>
+
+<h3 id="requests-and-provisioning">Requests and Provisioning</h3>
+
+<p>All cloud service providers have one or more ways to request and create their services. Many are based on self-service and are driven by a credit card. They may be exposed through a dashboard or the CSP may provide a command line interface or API to help in automation.</p>
+
+<p>You need to consider how integrate these requests with your internal processes. You may have a service request system that can front end the processes. If you are not as automated you may have to rely on the provisioning systems that the CSP provides.</p>
+
+<p>Either way how you request, provision, and notify the requestor of their service has to be taken into consideration otherwise you may end up with disparate request processes.</p>
+
+<h3 id="cost-management">Cost Management</h3>
+
+<p>How are you tracking the actual service costs and their operational support costs? You may get a monthly bill from your CSP but is it consolidated across CSPs and does it include supporting service costs?</p>
+
+<p>You may also want to set limits on spending if possible. Sometimes it is much harder to control costs when all those costs are coming from your production environment.</p>
+
+<p>A part of cost management is also transferring costs from  existing processes to a potentially more managed cloud service.</p>
+
+<h2 id="continued">Continued</h2>
+
+<p>We are half way through the list of foundational areas. Next time we will finish our list and move on to applying some architecture.</p>
+
+<p>If you have any questions or comments please drop me a note at scmunk@secretchipmunk.com or <a href="https://twitter.com/scmunk">@scmunk</a></p>
+
+		</div>
+		
+<div class="post__tags tags clearfix">
+	<svg class="icon icon-tag" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="m4.73135 3.3795002q0-.5597-.39604-.9557-.39604-.3961-.95577-.3961-.55974 0-.95578.3961-.39604.396-.39604.9557 0 .5598.39604.9558.39604.3961.95578.3961.55973 0 .95577-.3961.39604-.396.39604-.9558zm11.26865 6.0832q0 .5596998-.39076.9504998l-5.18548 5.196q-.41188.3908-.9610504.3908-.55974 0-.9505-.3908l-7.5511496-7.5616998q-.40132-.3907-.68119-1.0666-.27987-.6759-.27987-1.2357v-4.3934q0-.54920004.40132-.95050004.40132-.4013.9505-.4013h4.39339q.55974 0 1.23565.2799.67591.2798 1.07723.6812l7.55115 7.54060004q.39076.4118.39076.961z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link" href="/tags/architecture/" rel="tag">Architecture</a></li>
+		<li class="tags__item"><a class="tags__link" href="/tags/cloud/" rel="tag">Cloud</a></li>
+	</ul>
+</div>
+
+	</article>
+	
+	
+<nav class="post-nav row clearfix" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+	<div class="post-nav__item post-nav__item--prev col-1-2">
+		<a class="post-nav__link" href="/blog/2018/07/22/cloud-capabilities/" rel="prev"><span class="post-nav__caption">«Previous</span><p class="post-nav__post-title">Cloud Capabilities</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next col-1-2">
+		<a class="post-nav__link" href="/blog/2018/08/12/foundations-for-cloud-capabilities---continued/" rel="next"><span class="post-nav__caption">Next»</span><p class="post-nav__post-title">Foundations for Cloud Capabilities - Continued</p></a>
+	</div>
+</nav>
+
+	
+<div class="comments">
+	<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "secretchipmunk" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+</main>
+
+<aside class="sidebar" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+	
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="//google.com/search">
+		<label>
+			<span class="screen-reader-text">Search for:</span>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="http://www.secretchipmunk.com/" />
+	</form>
+</div>
+	
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/09/05/modeling-information-security/">Modeling Information Security</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/08/23/security-capabilities-all-the-way-down/">Security Capabilities All The Way Down</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/08/18/quality-wardley-maps/">Quality Wardley Maps</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/08/12/foundations-for-cloud-capabilities---continued/">Foundations for Cloud Capabilities - Continued</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/07/24/foundations-for-cloud-capabilities/">Foundations for Cloud Capabilities</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/07/22/cloud-capabilities/">Cloud Capabilities</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2018/02/28/security-bsides-chattanooga-2018/">Security BSides Chattanooga 2018</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2017/07/20/ready-set-architect/">Ready, Set, Architect!</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2017/05/01/session-box/">Session Box</a></li>
+			<li class="widget__item"><a class="widget__link" href="/blog/2016/10/28/the-certified-cloud-security-professional-test/">The Certified Cloud Security Professional Test</a></li>
+		</ul>
+	</div>
+</div>
+
+	
+	
+
+	
+</aside>
+
+	</div>
+		<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+			<div class="container container-inner">
+				<p class="footer__copyright">&copy; 2018 Secret Chipmunk. <span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad theme</a>.</span></p>
+			</div>
+		</footer>
+	</div>
+
+<script>
+	var navigation = responsiveNav(".menu", {
+		navClass: "menu--collapse",
+	});
+</script>
+</body>
+</html>

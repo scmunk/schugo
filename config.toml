@@ -4,7 +4,9 @@
 
 
 # hostname (and path) to the root eg. http://spf13.com/
+#Baseurl = "http://127.0.0.1/"
 Baseurl = "http://www.secretchipmunk.com/"
+
 
 # Site title
 title = "Secret Chipmunk"
@@ -36,7 +38,6 @@ disqusShortname = "secretchipmunk"
 
 [taxonomies]
     topic = "topics"
-    tag = "tags"
 
 [author]
     name = "Ron Parker"
@@ -55,7 +56,7 @@ disqusShortname = "secretchipmunk"
     leftsidebar = true # Move sidebar to the left side if true
     authorbox = false
     post_navigation = true
-
+    
     # hyde theme
     #brand = "Secret Chipmunk"
     #topline = "Enterprise Architecture and Security"
@@ -63,7 +64,7 @@ disqusShortname = "secretchipmunk"
 
     # You can use markdown here.
     brand = "Secret Chipmunk"
-
+    
 
     # Sidebar position
     # false, true, "left", "right"
@@ -96,8 +97,3 @@ disqusShortname = "secretchipmunk"
     categories = true # Enable "Categories" widget
     tags = true # Enable "Tags" widget
     topics = true
-
-[[menu.main]]
-    	url = "/topic/"
-    	name = "Reference"
-    	identifier = "reference"

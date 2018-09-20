@@ -9,10 +9,72 @@
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
     <copyright>(c) 2018 Ron Parker</copyright>
-    <lastBuildDate>Wed, 28 Feb 2018 14:24:35 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 12:45:30 -0400</lastBuildDate>
     
 	<atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Modeling Information Security</title>
+      <link>http://www.secretchipmunk.com/blog/2018/09/05/modeling-information-security/</link>
+      <pubDate>Wed, 05 Sep 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/09/05/modeling-information-security/</guid>
+      <description>There is a new menu option dedicated to modeling called Models.
+The current model is in the Archi format and is easily downloadable. It covers all the capabilities we have discussed up to this point. As we move forward we will add more to this model and build out other artifacts that support our architecture vision. We may even get adventurous and include a PowerPoint or two.
+Up Next More architecture of course!</description>
+    </item>
+    
+    <item>
+      <title>Security Capabilities All The Way Down</title>
+      <link>http://www.secretchipmunk.com/blog/2018/08/23/security-capabilities-all-the-way-down/</link>
+      <pubDate>Thu, 23 Aug 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/08/23/security-capabilities-all-the-way-down/</guid>
+      <description>All the Way Down We continue our series on using capabilities to our advantage in creating design and architecture. We will cover how we can model information security all the way down. This section, like the section on Cloud Capabilities, begins with the layout of those abilities.
+We also have to remember that capabilities are the highest level or the highest description we will be using. The actual behaviors and implementations will be much more detailed.</description>
+    </item>
+    
+    <item>
+      <title>Quality Wardley Maps</title>
+      <link>http://www.secretchipmunk.com/blog/2018/08/18/quality-wardley-maps/</link>
+      <pubDate>Sat, 18 Aug 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/08/18/quality-wardley-maps/</guid>
+      <description>Mapping If you are not familiar with Simon Wardley and his world of mapping you need to first jump over to his blog-book on mapping. It is a detailed set of pages that are well worth your time to read through and practice.
+Quality Attributes Quality Attributes (QAs) are those non-functional traits that we try to describe and require when designing processes, systems, and software. They describe a quality of the thing in question.</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cloud Capabilities - Continued</title>
+      <link>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities---continued/</link>
+      <pubDate>Sun, 12 Aug 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities---continued/</guid>
+      <description>If you missed it, read the first post on Foundations for Cloud Capabilities. We will be building on that as we expand our design.
+Foundational Areas We covered these foundational areas in the first post. We will finish out our list so we can begin looking at architecture mapping processes.
+ Governance Environments Request and Provisioning Backup and Recovery Disaster Recovery Cost Management  We will finish the descriptions for the rest of the list.</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cloud Capabilities</title>
+      <link>http://www.secretchipmunk.com/blog/2018/07/24/foundations-for-cloud-capabilities/</link>
+      <pubDate>Tue, 24 Jul 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/07/24/foundations-for-cloud-capabilities/</guid>
+      <description>A Survey If you missed it, read the post on Cloud Capabilities first. We will be building on that as we expand our design.
+This is a pretty long and involved topic so will be broken into a couple of posts. The first post or two will describe all the foundational elements that may be needed. Then we will move into more architectural direction and artifacts to use in the process.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Capabilities</title>
+      <link>http://www.secretchipmunk.com/blog/2018/07/22/cloud-capabilities/</link>
+      <pubDate>Sun, 22 Jul 2018 12:45:30 -0400</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2018/07/22/cloud-capabilities/</guid>
+      <description>Cloud Service Provider Capabilities What do we have the ability to do? Or even better, what do we want to be able to do?
+It sounds like an easy question and it is asked all the time for all domains. As we do any type of design it always helps to have definitions and groupings of your abilities. This allows you to compare, explain changes, and explain gaps in a consistent manner.</description>
+    </item>
     
     <item>
       <title>Security BSides Chattanooga 2018</title>
