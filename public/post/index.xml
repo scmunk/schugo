@@ -8,11 +8,22 @@
     <language>en-EN</language>
     <managingEditor>scmunk@secretchipmunk.com (Ron Parker)</managingEditor>
     <webMaster>scmunk@secretchipmunk.com (Ron Parker)</webMaster>
-    <copyright>(c) 2018 Ron Parker</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 12:45:30 -0400</lastBuildDate>
+    <copyright>(c) 2019 Ron Parker</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.secretchipmunk.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AWS Certification</title>
+      <link>http://www.secretchipmunk.com/blog/2019/06/18/aws-certification/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      <author>scmunk@secretchipmunk.com (Ron Parker)</author>
+      <guid>http://www.secretchipmunk.com/blog/2019/06/18/aws-certification/</guid>
+      <description>Certification Path Amazon has several paths for certification that target different job roles. Having an architecture and a security background I decided to move towards the full AWS Solution Architect first then pursue a security specialty later on if it seemed valuable. The first place to start is an overview for the learning paths
+After looking at the prerequisites my certification path looks like this:
+ Cloud Practitioner -&amp;gt; Solution Architect-Associate -&amp;gt; Solution architecture</description>
+    </item>
     
     <item>
       <title>Modeling Information Security</title>
@@ -47,10 +58,10 @@ Quality Attributes Quality Attributes (QAs) are those non-functional traits that
     
     <item>
       <title>Foundations for Cloud Capabilities - Continued</title>
-      <link>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities---continued/</link>
+      <link>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities-continued/</link>
       <pubDate>Sun, 12 Aug 2018 12:45:30 -0400</pubDate>
       <author>scmunk@secretchipmunk.com (Ron Parker)</author>
-      <guid>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities---continued/</guid>
+      <guid>http://www.secretchipmunk.com/blog/2018/08/12/foundations-for-cloud-capabilities-continued/</guid>
       <description>If you missed it, read the first post on Foundations for Cloud Capabilities. We will be building on that as we expand our design.
 Foundational Areas We covered these foundational areas in the first post. We will finish out our list so we can begin looking at architecture mapping processes.
  Governance Environments Request and Provisioning Backup and Recovery Disaster Recovery Cost Management  We will finish the descriptions for the rest of the list.</description>
@@ -220,9 +231,7 @@ There were a several reasons that I moved from a dynamic site to a static site.<
 &lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.
-
-If you are going for a particular look you had better be thinking about these things a little bit up front and not just letting each and every service implement their part of the yard without some larger vision.&lt;/p&gt;</description>
+&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.&lt;/p&gt;</description>
     </item>
     
     <item>

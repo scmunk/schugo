@@ -12,7 +12,7 @@ Baseurl = "http://www.secretchipmunk.com/"
 title = "Secret Chipmunk"
 
 # Copyright
-copyright = "(c) 2018 Ron Parker"
+copyright = "(c) 2019 Ron Parker"
 
 # Language
 languageCode = "en-EN"
@@ -56,7 +56,7 @@ disqusShortname = "secretchipmunk"
     leftsidebar = true # Move sidebar to the left side if true
     authorbox = false
     post_navigation = true
-    
+
     # hyde theme
     #brand = "Secret Chipmunk"
     #topline = "Enterprise Architecture and Security"
@@ -64,7 +64,7 @@ disqusShortname = "secretchipmunk"
 
     # You can use markdown here.
     brand = "Secret Chipmunk"
-    
+
 
     # Sidebar position
     # false, true, "left", "right"
