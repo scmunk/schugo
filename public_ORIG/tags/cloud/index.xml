@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud on Secret Chipmunk</title>
+    <link>/tags/cloud/</link>
+    <description>Recent content in Cloud on Secret Chipmunk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ron Parker</copyright>
+    <lastBuildDate>Sun, 12 Aug 2018 12:45:30 -0400</lastBuildDate><atom:link href="/tags/cloud/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foundations for Cloud Capabilities - Continued</title>
+      <link>/post/foundationsforcloudcap2/</link>
+      <pubDate>Sun, 12 Aug 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/foundationsforcloudcap2/</guid>
+      <description>If you missed it, read the first post on Foundations for Cloud Capabilities. We will be building on that as we expand our design.
+Foundational Areas We covered these foundational areas in the first post. We will finish out our list so we can begin looking at architecture mapping processes.
+ Governance Environments Request and Provisioning Backup and Recovery Disaster Recovery Cost Management  We will finish the descriptions for the rest of the list.</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cloud Capabilities</title>
+      <link>/post/foundationsforcloudcap/</link>
+      <pubDate>Tue, 24 Jul 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/foundationsforcloudcap/</guid>
+      <description>A Survey If you missed it, read the post on Cloud Capabilities first. We will be building on that as we expand our design.
+This is a pretty long and involved topic so will be broken into a couple of posts. The first post or two will describe all the foundational elements that may be needed. Then we will move into more architectural direction and artifacts to use in the process.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Capabilities</title>
+      <link>/post/cloudcapabilities/</link>
+      <pubDate>Sun, 22 Jul 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/cloudcapabilities/</guid>
+      <description>Cloud Service Provider Capabilities What do we have the ability to do? Or even better, what do we want to be able to do?
+It sounds like an easy question and it is asked all the time for all domains. As we do any type of design it always helps to have definitions and groupings of your abilities. This allows you to compare, explain changes, and explain gaps in a consistent manner.</description>
+    </item>
+    
+  </channel>
+</rss>

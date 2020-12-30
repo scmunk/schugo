@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Foundations for Cloud Capabilities - Continued - Secret Chipmunk</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="This is part two of understanding foundations for cloud capabilities. Before you can take full advantage of the services offered from a provider you may need to understand and implement foundational support.">
+	<meta property="og:title" content="Foundations for Cloud Capabilities - Continued" />
+<meta property="og:description" content="This is part two of understanding foundations for cloud capabilities. Before you can take full advantage of the services offered from a provider you may need to understand and implement foundational support." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/foundationsforcloudcap2/" />
+<meta property="article:published_time" content="2018-08-12T12:45:30-04:00" />
+<meta property="article:modified_time" content="2018-08-12T12:45:30-04:00" />
+
+	<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Foundations for Cloud Capabilities - Continued"/>
+<meta name="twitter:description" content="This is part two of understanding foundations for cloud capabilities. Before you can take full advantage of the services offered from a provider you may need to understand and implement foundational support."/>
+
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container">
+		<div class="logo">
+			<a class="logo__link" href="/" title="Secret Chipmunk" rel="home">
+				<div class="logo__title">Secret Chipmunk</div>
+				<div class="logo__tagline">Architecture and Security</div>
+			</a>
+		</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/models/">
+				
+				<span class="menu__text">Models</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/resume/">
+				
+				<span class="menu__text">Resume</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Foundations for Cloud Capabilities - Continued</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg>
+	<time class="meta__text" datetime="2018-08-12T12:45:30">2018-08-12</time>
+</div>
+</div>
+		</header>
+<div class="post__toc toc">
+	<div class="toc__title">Page content</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#foundational-areas">Foundational Areas</a>
+      <ul>
+        <li><a href="#identity-and-access-management">Identity and Access Management</a></li>
+        <li><a href="#data-securityprivacy">Data Security/Privacy</a></li>
+        <li><a href="#connectivity">Connectivity</a></li>
+        <li><a href="#integration">Integration</a></li>
+        <li><a href="#monitoring">Monitoring</a></li>
+        <li><a href="#operations">Operations</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+	</div>
+</div>
+<div class="content post__content clearfix">
+			<p><img src="/images/basiccloudcaps.png" alt="Cloud Capabilities">
+If you missed it, read the first post on <a href="/blog/2018/07/24/foundations-for-cloud-capabilities/">Foundations for Cloud Capabilities</a>. We will be building on that as we expand our design.</p>
+<h2 id="foundational-areas">Foundational Areas</h2>
+<p>We covered these foundational areas in the first post. We will finish out our list so we can begin looking at architecture mapping processes.</p>
+<ul>
+<li>Governance</li>
+<li>Environments</li>
+<li>Request and Provisioning</li>
+<li>Backup and Recovery</li>
+<li>Disaster Recovery</li>
+<li>Cost Management</li>
+</ul>
+<p>We will finish the descriptions for the rest of the list.</p>
+<ul>
+<li>Identity and Access Management</li>
+<li>Data Security/Privacy</li>
+<li>Connectivity</li>
+<li>Integration</li>
+<li>Monitoring</li>
+<li>Operations</li>
+</ul>
+<h3 id="identity-and-access-management">Identity and Access Management</h3>
+<p>Most service providers have an access control or security model already in place for their services. These ecosystems normally consist of an account or identity repository, authentication methods, and some way to define and assign permissions. When you are working with a small scale or low numbers of entities, access control may not even be an issue.</p>
+<p>The complexity comes in when you must integrate your enterprise identity and access management processes and technologies with the service provider&rsquo;s. You may need to consider directory synchronization, federation, provisioning and deprovisioning permissions to those identities, while not loosing your ability to provide attestation.</p>
+<p>Knowing how you will extend your IAM into one or more cloud services before you set up a large number of one-off access control decisions will prevent you from potentially having to reimplement later on.</p>
+<h3 id="data-securityprivacy">Data Security/Privacy</h3>
+<p>Even if you are not a regulated entity you will need to consider data security and privacy. The most common considerations are how the information is protected in transit and where it is stored. There are many other security controls that may have to be put into place if you are following a Least Privileged approach. Data security and privacy also affect your backup and recovery process too.</p>
+<p>The most important point is that you can use cloud service or third-parties to help you secure this data but you can&rsquo;t outsource your accountability for the data security and privacy.</p>
+<p>This is a broad topic and covers at least the following:</p>
+<ul>
+<li>Laws and regulations that apply</li>
+<li>Data classification</li>
+<li>Protection for each data classification</li>
+<li>Data at rest technologies
+<ul>
+<li>File</li>
+<li>Container and database</li>
+<li>Field, data element</li>
+<li>Hardware layer</li>
+</ul>
+</li>
+<li>Message level or transport level encryption</li>
+</ul>
+<p>Your accountability extends to these external service providers.</p>
+<h3 id="connectivity">Connectivity</h3>
+<p>If you were to move everything to a single service provider you might not have to be concerned with connectivity or data movement but I am pretty sure that will not be the case.</p>
+<p>General connectivity can be provided through a public internet connection but most businesses need something more dedicated. Dedicated connections can be based on Layer 3/4 communications, MPLS, VPNs, and mixtures of these technologies. Cloud service providers also have offerings that help bind together regions or the various locales in the mix. Azure has <a href="https://azure.microsoft.com/en-us/services/expressroute/">Express Route</a> and AWS has <a href="https://aws.amazon.com/directconnect/">Direct Connect</a>.</p>
+<p>It is also possible to not only just connect more efficiently but you may also have the ability to extend your network by actually routing your on-premises packets up to the cloud service provider. This is especially helpful if you are building an extended infrastructure.</p>
+<p>Some examples of actions that require some type of connectivity include the following:</p>
+<ul>
+<li>Preproduction environments, development</li>
+<li>Deployment</li>
+<li>Off premises or &ldquo;off network&rdquo; connectivity, how to apply controls, homeworkers</li>
+<li>Large data movement, cost may vary whether data is being imported or exported</li>
+<li>Backup and Recovery</li>
+<li>Disaster Recovery</li>
+<li>Cloud to cloud movement</li>
+<li>Mobile scenarios</li>
+</ul>
+<p>Besides the issues of just connecting you still have to be able to apply the correct security controls to any of the solutions that are put into place.</p>
+<h3 id="integration">Integration</h3>
+<p>Once you have a new process in place you usually have to make it useful by integrating it with the larger picture. Most integrations can be thought of as data. What information, or events will need to be move moved from place to place, how will they be captured, how will they be stored, and how will they be acted upon?</p>
+<p>By developing patterns you will be able to define the behavior you need then you can apply the structure as necessary.</p>
+<p>What you want to avoid in a cloud situation is not having those ideas or plans available and performing all of your integrations as one-offs. This will not only become expensive but it will immediately create legacy situations where migrating becomes a larger burden than it should be.</p>
+<h3 id="monitoring">Monitoring</h3>
+<p>Logging and monitoring are necessary functions for many areas. Normal operational efficiency may be obvious but it is also necessary for performance tuning, security, costing, and just overall health.</p>
+<p>As you plan out your expansions you also need to determine how logging information will be collected and consolidated for all you existing and new needs. Do you monitoring systems need the data to be consolidated? Are they even driven? Does you cloud service have standard ways to share logging information? Can they respond to your events.</p>
+<p>As you become more distributed in your actions you need to develop a model that will allow your monitoring to still be logically or physically centralized.</p>
+<h3 id="operations">Operations</h3>
+<p>Even though you may no longer be concerned with datacenter operations you will still have to contend with making sure your services and systems are available. They also have to be geared for automation, tuned, scaled, and backed up.</p>
+<p>This may take a different skill set than you have now or it may require tools that help bridge technology differences. If you are not prepared for operating and administering your cloud environment or even you hybrid environment you will be spending more time than necessary in this space.</p>
+<p>What you can&rsquo;t do is approach the situation thinking that cloud services are the same operationally as legacy environments. There is a much greater opportunity to build a DevOps culture, to automate your infrastructure, and to reduce your overall support costs if it is approached correctly.</p>
+<h1 id="foundations">Foundations</h1>
+<p>This concludes the list of foundations you may need to consider. We didn&rsquo;t delve into the details but hopefully this brought about some more awareness.</p>
+<h1 id="up-next">Up Next</h1>
+<p>Now that we have listed some of the foundational areas for cloud support we can see how to start with capability mapping to understand our environment a little better. In the next post we will begin with the effects of location.</p>
+<p>If you would like to discuss these foundations in more detail, or if have other questions or comments please drop me a note at <a href="mailto:scmunk@secretchipmunk.com">scmunk@secretchipmunk.com</a> or <a href="https://twitter.com/scmunk">@scmunk</a>.</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link btn" href="/tags/architecture/" rel="tag">Architecture</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/cloud/" rel="tag">Cloud</a></li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Ron Parker</span>
+	</div>
+</div>
+
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/post/foundationsforcloudcap/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Foundations for Cloud Capabilities</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/post/mappingattributes/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Quality Wardley Maps</p></a>
+	</div>
+</nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "secretchipmunk" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2020 (c) 2020 Ron Parker.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script></body>
+</html>

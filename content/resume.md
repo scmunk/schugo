@@ -21,5 +21,6 @@ I am fortunate to be working with both information security and architecture. Bo
 * [Resume - TXT](/docs/RonaldParker_Resume_t.txt)
 
 ## Certifications
-* [AWS Certified Cloud Practitioner Certificate](/docs/AWSCertifiedCloudPractitionercertificate.pdf)
+* [AWS Certified Solutions Architect Professional Certificate](/docs/AWSCertifiedSolutionsArchitectProfessionalCertificate.pdf)
 * [AWS Certified Solutions Architect Associate Certificate](/docs/AWSCertifiedSolutionsArchitectAssociateCertificate.pdf)
+* [AWS Certified Cloud Practitioner Certificate](/docs/AWSCertifiedCloudPractitionercertificate.pdf)

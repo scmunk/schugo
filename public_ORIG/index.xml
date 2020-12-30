@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secret Chipmunk</title>
+    <link>/</link>
+    <description>Recent content on Secret Chipmunk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2021 Ron Parker</copyright>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Solution Architect Professional (SAP)</title>
+      <link>/post/awssolutionarchitectprof/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/awssolutionarchitectprof/</guid>
+      <description>On Flying Time It has been a busy year. A lot of time was spent actually working with AWS and a good many of their offerings. So much time that the whole year flew by and I almost didn&amp;rsquo;t have the time to take the certification I had been working on for so long.
+Another issue was that test centers were still not open in my area so the testing had to be proctored.</description>
+    </item>
+    
+    <item>
+      <title>AWS Certification</title>
+      <link>/post/awscertification/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/awscertification/</guid>
+      <description>Certification Path Amazon has several paths for certification that target different job roles. Having an architecture and a security background I decided to move towards the full AWS Solution Architect first then pursue a security specialty later on if it seemed valuable. The first place to start is an overview for the learning paths
+After looking at the prerequisites my certification path looks like this:
+ Cloud Practitioner -&amp;gt; Solution Architect-Associate -&amp;gt; Solution architecture</description>
+    </item>
+    
+    <item>
+      <title>Modeling Information Security</title>
+      <link>/post/infosecmodel/</link>
+      <pubDate>Wed, 05 Sep 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/infosecmodel/</guid>
+      <description>There is a new menu option dedicated to modeling called Models.
+The current model is in the Archi format and is easily downloadable. It covers all the capabilities we have discussed up to this point. As we move forward we will add more to this model and build out other artifacts that support our architecture vision. We may even get adventurous and include a PowerPoint or two.
+Up Next More architecture of course!</description>
+    </item>
+    
+    <item>
+      <title>Models</title>
+      <link>/models/</link>
+      <pubDate>Sat, 01 Sep 2018 14:40:39 -0500</pubDate>
+      
+      <guid>/models/</guid>
+      <description>Download InfoSec Version 1.0 in the Archi Format
+SHA256 Checksum: f4b2208ac530256b26d218d58f58fcf0980bdcbf8a17ee9d837f61450c4ebc2f
+This model is &amp;ldquo;Roughly Right.&amp;rdquo; It is meant to provide a foundational set of elements. You may need additional elements for your environment or the elements presented here may have a different meaning.
+Archimate and Archi Archimate is an Open Group modeling standard or specification. The full specification is online and you may also find printed materials if necessary.</description>
+    </item>
+    
+    <item>
+      <title>Security Capabilities All The Way Down</title>
+      <link>/post/capabilitiesallthewaydown/</link>
+      <pubDate>Thu, 23 Aug 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/capabilitiesallthewaydown/</guid>
+      <description>All the Way Down We continue our series on using capabilities to our advantage in creating design and architecture. We will cover how we can model information security all the way down. This section, like the section on Cloud Capabilities, begins with the layout of those abilities.
+We also have to remember that capabilities are the highest level or the highest description we will be using. The actual behaviors and implementations will be much more detailed.</description>
+    </item>
+    
+    <item>
+      <title>Quality Wardley Maps</title>
+      <link>/post/mappingattributes/</link>
+      <pubDate>Sat, 18 Aug 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/mappingattributes/</guid>
+      <description>Mapping If you are not familiar with Simon Wardley and his world of mapping you need to first jump over to his blog-book on mapping. It is a detailed set of pages that are well worth your time to read through and practice.
+Quality Attributes Quality Attributes (QAs) are those non-functional traits that we try to describe and require when designing processes, systems, and software. They describe a quality of the thing in question.</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cloud Capabilities - Continued</title>
+      <link>/post/foundationsforcloudcap2/</link>
+      <pubDate>Sun, 12 Aug 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/foundationsforcloudcap2/</guid>
+      <description>If you missed it, read the first post on Foundations for Cloud Capabilities. We will be building on that as we expand our design.
+Foundational Areas We covered these foundational areas in the first post. We will finish out our list so we can begin looking at architecture mapping processes.
+ Governance Environments Request and Provisioning Backup and Recovery Disaster Recovery Cost Management  We will finish the descriptions for the rest of the list.</description>
+    </item>
+    
+    <item>
+      <title>Foundations for Cloud Capabilities</title>
+      <link>/post/foundationsforcloudcap/</link>
+      <pubDate>Tue, 24 Jul 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/foundationsforcloudcap/</guid>
+      <description>A Survey If you missed it, read the post on Cloud Capabilities first. We will be building on that as we expand our design.
+This is a pretty long and involved topic so will be broken into a couple of posts. The first post or two will describe all the foundational elements that may be needed. Then we will move into more architectural direction and artifacts to use in the process.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Capabilities</title>
+      <link>/post/cloudcapabilities/</link>
+      <pubDate>Sun, 22 Jul 2018 12:45:30 -0400</pubDate>
+      
+      <guid>/post/cloudcapabilities/</guid>
+      <description>Cloud Service Provider Capabilities What do we have the ability to do? Or even better, what do we want to be able to do?
+It sounds like an easy question and it is asked all the time for all domains. As we do any type of design it always helps to have definitions and groupings of your abilities. This allows you to compare, explain changes, and explain gaps in a consistent manner.</description>
+    </item>
+    
+    <item>
+      <title>Security BSides Chattanooga 2018</title>
+      <link>/post/bsidescha2018/</link>
+      <pubDate>Wed, 28 Feb 2018 14:24:35 -0400</pubDate>
+      
+      <guid>/post/bsidescha2018/</guid>
+      <description>Security BSides You probably already know about Security BSides and how they came about. If not jump on over to BSides to get the scoop.
+There are many BSides events around the Chattanooga area. We have them in Knoxville, Nashville, Asheville, Atlanta, and Huntsville just to name the ones that come to mind. Chattanooga is a growing tech community and has many large and small businesses that have security concerns.</description>
+    </item>
+    
+    <item>
+      <title>Reference PlaceHolder</title>
+      <link>/topic/placeholder/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/topic/placeholder/</guid>
+      <description>This page has been intentionally left blank.</description>
+    </item>
+    
+    <item>
+      <title>Ready, Set, Architect!</title>
+      <link>/post/readysetarchitect/</link>
+      <pubDate>Thu, 20 Jul 2017 15:18:39 -0400</pubDate>
+      
+      <guid>/post/readysetarchitect/</guid>
+      <description>A Quick Talk This is a quick tour through why we need to architect, a couple of the frameworks, and finally several helpful tools.
+It started out as a 5-minute lightning talk but turn more into an 8-minute flashflood. I want to thank the @chadevs for giving me the time to come and speak to the great group there. There was a good crowd that filled up the room. If you haven&amp;rsquo;t attended a Chattanooga Developers, ChaDevs, Lunch Meeting then check them out on Meetup.</description>
+    </item>
+    
+    <item>
+      <title>Session Box</title>
+      <link>/post/sessionbox/</link>
+      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
+      
+      <guid>/post/sessionbox/</guid>
+      <description>I draw a lot of diagrams. With all these diagrams there are an endless number of revisions and refinements created in the process. Some of the changes are necessary while others are definitely not earth-shattering.
+Timeboxing  In time management, timeboxing allocates a fixed time period, called a time box, to each planned activity. It is also used for individual use to address personal tasks in a smaller time frame.</description>
+    </item>
+    
+    <item>
+      <title>The Certified Cloud Security Professional Test</title>
+      <link>/post/ccsp/</link>
+      <pubDate>Fri, 28 Oct 2016 14:24:35 -0400</pubDate>
+      
+      <guid>/post/ccsp/</guid>
+      <description>First things first The most important point, for me anyway, is that I passed the test.
+It was helpful for me to hear how other people passed their tests and how they obtained their certifications. I can&amp;rsquo;t guarantee that you will pass the test if you read this but hopefully you will pick up a couple of tips that may help you along the way.
+What is the CCSP The (ISC)2 CCSP is a joint effort between the (ISC)2 and the Cloud Security Alliance.</description>
+    </item>
+    
+    <item>
+      <title>Entitlements in a Multi-tenant World</title>
+      <link>/post/entitlementsmt/</link>
+      <pubDate>Sun, 18 Sep 2016 12:21:29 -0500</pubDate>
+      
+      <guid>/post/entitlementsmt/</guid>
+      <description>We are in a super-shared, and super-scaled world where rights are no longer concentrated in one place. Your rights and permissions are living everywhere in the neighborhood. They have left home.
+These is the presentation I used for a basic talk on why it is important to understnad how entitlements work these day. It was meant for presenting but you may get somehting out of it.
+ Entitlements in a Multi-tenant World(PDF) Entitlements in a Multi-tenant World(PPTx)  </description>
+    </item>
+    
+    <item>
+      <title>B-Sides Nashville 2016 Presentation</title>
+      <link>/post/bsidesnash2016pres/</link>
+      <pubDate>Sun, 17 Apr 2016 11:24:54 -0400</pubDate>
+      
+      <guid>/post/bsidesnash2016pres/</guid>
+      <description>IAM Complicated: Why you need to know about Identity and Access Management
+B-Sides Nashville 2016 was a great event. Here are the links for the presentation.
+  The IAM Complicated Recording thanks to Iron Geek.
+  IAM Complicated Presentation(PPTX)
+  IAM Complicated Presentation(PDF)
+  </description>
+    </item>
+    
+    <item>
+      <title>B-Sides Nashville 2016</title>
+      <link>/post/going2bsidesnash2016/</link>
+      <pubDate>Wed, 24 Feb 2016 11:24:54 -0400</pubDate>
+      
+      <guid>/post/going2bsidesnash2016/</guid>
+      <description>I have been given the opportunity to speak at B-Sides Nashville 2016. This year&amp;rsquo;s topic will be all about identity access and management.
+IAM Complicated: Why you need to know about Identity and Access Management
+ Do you know where identities are born? How can you tell what an identify can and can&amp;rsquo;t do? What do you do when you realize your refrigerator has an identity of its own? If your IPS blocks your refrigerator you may lose access to your pizza.</description>
+    </item>
+    
+    <item>
+      <title>What is the secret of the Grail?</title>
+      <link>/post/secretofthegrail/</link>
+      <pubDate>Tue, 12 May 2015 10:09:38 -0400</pubDate>
+      
+      <guid>/post/secretofthegrail/</guid>
+      <description>Grail Figure: What is the secret of the Grail? Who does it serve?
+Perceval: You, my lord.
+Grail Figure: Who am I?
+Perceval: You are my lord and king. You are Arthur.
+Grail Figure: Have you found the secret that I have lost?
+Perceval: Yes. You and the land are one.
+ Doesn&amp;rsquo;t this sound like a conversation you overheard between several architects standing around the watercooler?
+Do you feel like we have long forgotten the secret of The Architecture?</description>
+    </item>
+    
+    <item>
+      <title>OpenSDL Presentation</title>
+      <link>/post/opensdlpresentation/</link>
+      <pubDate>Sat, 25 Apr 2015 15:00:45 -0400</pubDate>
+      
+      <guid>/post/opensdlpresentation/</guid>
+      <description>Here is the condensed version of how to mix security into agile development.
+Agile and Security. (PDF)
+Concept Platform A basic framework for the concept has been built around a Wiki and the OpenSAMM. This framework should be good enough to grow the idea and determine if it will add security value. The current version is here:
+Http://www.OpenSDL.com</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Thu, 16 Apr 2015 14:40:24 -0400</pubDate>
+      
+      <guid>/resume/</guid>
+      <description>Ronald Parker  The important thing is that you always want to be smart and get things done. It also helps if you are nice to people too.
+ Summary I am fortunate to be working with both information security and architecture. Both of these areas are horizontal enablers. When an awareness of architecture is combined with information security you have an opportunity to increase your overall level of security assurance.</description>
+    </item>
+    
+    <item>
+      <title>B-Sides Nashville 2015</title>
+      <link>/post/bsidesnash2015/</link>
+      <pubDate>Tue, 14 Apr 2015 11:24:54 -0400</pubDate>
+      
+      <guid>/post/bsidesnash2015/</guid>
+      <description>I got the opportunity to be at B-Sides in Nashville over the weekend. It was a great opportunity to mingle and meet people who had an interest in information security. One of the best parts was a great mix of old professionals and quite a few new people who were interesting in seeing what security is all about. It was a good time and I appreciate all the effort it took to make it happen.</description>
+    </item>
+    
+    <item>
+      <title>Open Security Development Lifecycle</title>
+      <link>/post/opensdl/</link>
+      <pubDate>Fri, 20 Mar 2015 15:00:45 -0400</pubDate>
+      
+      <guid>/post/opensdl/</guid>
+      <description>We need a no-frills and roughly-right life-cycle to raise our level of software Security Assurance. Right now there are several security life-cycles both in the wild and available through vendors. None of those attend to the full spectrum of security and risk needs. Most are heavily centered around software testing but the security umbrella is much larger than that.
+Maybe more importantly development and delivery methodologies have changed drastically over the last couple of years.</description>
+    </item>
+    
+    <item>
+      <title>Why Go Hugo?</title>
+      <link>/post/whyhugo/</link>
+      <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
+      
+      <guid>/post/whyhugo/</guid>
+      <description>For years I have worked with WordPress along with its themes, plugins, and vulnerabilities. I even purchased a couple of themes. Yes, WP can make a pretty site but at the end of the day I spent a lot of time working on WP and not working on content. It was time to move on to a different way of publishing.
+There were a several reasons that I moved from a dynamic site to a static site.</description>
+    </item>
+    
+    <item>
+      <title>Why Architect</title>
+      <link>/post/whyarchitect/</link>
+      <pubDate>Mon, 16 Mar 2015 15:09:38 -0400</pubDate>
+      
+      <guid>/post/whyarchitect/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;ar chi tect: (v) design and make&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Think about landscaping your front yard. It is a lot more than just the sod or a couple of bushes. The overall look of your front yard comes from the color of your house, the looks of your house, the sidewalk, the driveway, the trees, and the shrubbery. It matters all the way down to how your grass has been mowed.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Control by Control</title>
+      <link>/post/towercontrolbycontrol/</link>
+      <pubDate>Thu, 12 Mar 2015 12:47:21 -0400</pubDate>
+      
+      <guid>/post/towercontrolbycontrol/</guid>
+      <description>You don&amp;rsquo;t read the glossary because no one reads that but how often do you jump straight to the end of a document to read an appendix?
+Be truthful.
+Well maybe you don&amp;rsquo;t but sometimes you really should.
+Building the Tower Information Security controls have been a hot topic lately. Actually the discussion has been more around the lack of controls or how poorly the controls were implemented. In the InfoSec industry there are lots of definitions for these controls.</description>
+    </item>
+    
+    <item>
+      <title>Security Capabilities</title>
+      <link>/post/securitycapabilitiesintro/</link>
+      <pubDate>Thu, 12 Mar 2015 12:45:30 -0400</pubDate>
+      
+      <guid>/post/securitycapabilitiesintro/</guid>
+      <description>Being Capable We talk a lot in security world. Most of the time we seem to talk about all the possibilities when we need to talk more about what we can actually do.
+What are we capable of doing? We do we need to be capable of doing?
+Being Capable with Capabilities When we want to talk with our partners, whether those partners are business-related, very technical or just your managers, you need some consistent way to describe what security does.</description>
+    </item>
+    
+    <item>
+      <title>Ecstatic Over Static Passwords</title>
+      <link>/post/ecstaticpasswords/</link>
+      <pubDate>Thu, 12 Mar 2015 12:43:10 -0400</pubDate>
+      
+      <guid>/post/ecstaticpasswords/</guid>
+      <description>Well maybe not ecstatic but it is pretty exciting that I have been carrying around a way to house a strong static password and didn&amp;rsquo;t even realize it.
+
+I have had a Yubikey for over a year now and have used it successfully with LastPass. A YubiKey is a handy USB or Near Field Communications (NFC) device that can generate a variety of authentication responses. The default is a One Time Password (OTP) that can be verified via a server running the Yubico software.</description>
+    </item>
+    
+    <item>
+      <title>Architect from Hole in the Ground</title>
+      <link>/post/architectfromhole/</link>
+      <pubDate>Thu, 12 Mar 2015 12:41:06 -0400</pubDate>
+      
+      <guid>/post/architectfromhole/</guid>
+      <description>Well maybe that is a little extreme but sometimes titles do seem to get twisted up especially in our title-laden world. My title Security Architect has the word Architect in it but how closely related is that to an Enterprise Architect? Are we second-cousins three times removed or are we just not related at all?
+The Roles It might make more sense to work through the main types of roles you might see on a daily basis.</description>
+    </item>
+    
+    <item>
+      <title>Storytelling</title>
+      <link>/post/storytelling/</link>
+      <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
+      
+      <guid>/post/storytelling/</guid>
+      <description>Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.
+Does this droning sound like what is driving your security program? Even though these facts are true they may not win the hearts and minds of your security decision makers. Everyone seems to have these facts these days so in a way they are becoming background noise.</description>
+    </item>
+    
+    <item>
+      <title>Order of Things</title>
+      <link>/post/orderofthings/</link>
+      <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
+      
+      <guid>/post/orderofthings/</guid>
+      <description>Sequence Diagrams I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.
+There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 26 Feb 2015 14:40:39 -0500</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Secret Chipmunk, otherwise known as Ron Parker, is a non-reluctant CISSP, CCSP, diagrammer, AWS Solution Architect-Associate, and recovering developer who provides excellent security direction for a Fortune 500 insurance company. This site is a whiteboard, a honing stone and maybe even a garbage disposal for security and risk ideas from an architect&amp;rsquo;s point of view.
+ All the opinions, views and content expressed on this blog are solely the creation of the blog author and do not necessarily reflect the opinions or views of anyone else.</description>
+    </item>
+    
+  </channel>
+</rss>
