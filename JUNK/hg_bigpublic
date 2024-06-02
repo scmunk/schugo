@@ -1,3 +1,0 @@
-#meant to be ran locally from Sites on Big Mac
-#not to be copied out
-hugo  --theme=mainroad --buildDrafts  -d public --config=configBigLocal.toml

@@ -1,3 +1,0 @@
-#meant to be ran locally from /srv/www for DO Linux
-#not to be copied out
-hugo  --theme=hyde-y --buildDrafts  -d /srv/www --config=configSC.toml

@@ -2,83 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Secret Chipmunk</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Secret Chipmunk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ron Parker</copyright>
-    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architecture</title>
-      <link>/tags/architecture/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/architecture/</guid>
+      <link>//localhost:1313/tags/architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/architecture/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>InfoSec</title>
-      <link>/tags/infosec/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/infosec/</guid>
+      <title>Infosec</title>
+      <link>//localhost:1313/tags/infosec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/infosec/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mapping</title>
-      <link>/tags/mapping/</link>
-      <pubDate>Sat, 18 Aug 2018 12:45:30 -0400</pubDate>
-      
-      <guid>/tags/mapping/</guid>
+      <link>//localhost:1313/tags/mapping/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/mapping/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cloud</title>
-      <link>/tags/cloud/</link>
-      <pubDate>Sun, 12 Aug 2018 12:45:30 -0400</pubDate>
-      
-      <guid>/tags/cloud/</guid>
+      <link>//localhost:1313/tags/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/cloud/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Thinking</title>
-      <link>/tags/thinking/</link>
-      <pubDate>Mon, 01 May 2017 20:07:53 -0400</pubDate>
-      
-      <guid>/tags/thinking/</guid>
+      <link>//localhost:1313/tags/thinking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/thinking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Development</title>
-      <link>/tags/development/</link>
-      <pubDate>Thu, 19 Mar 2015 14:00:56 -0400</pubDate>
-      
-      <guid>/tags/development/</guid>
+      <link>//localhost:1313/tags/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/development/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Communication</title>
-      <link>/tags/communication/</link>
-      <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
-      
-      <guid>/tags/communication/</guid>
+      <link>//localhost:1313/tags/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/communication/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Architect</title>
-      <link>/tags/architect/</link>
-      <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
-      
-      <guid>/tags/architect/</guid>
+      <link>//localhost:1313/tags/architect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/architect/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

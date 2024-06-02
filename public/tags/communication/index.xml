@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Communication on Secret Chipmunk</title>
-    <link>/tags/communication/</link>
+    <link>//localhost:1313/tags/communication/</link>
     <description>Recent content in Communication on Secret Chipmunk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ron Parker</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 12:38:25 -0400</lastBuildDate><atom:link href="/tags/communication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Mar 2015 12:38:25 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/communication/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Storytelling</title>
-      <link>/blog/2015/03/12/storytelling/</link>
+      <link>//localhost:1313/blog/2015/03/12/storytelling/</link>
       <pubDate>Thu, 12 Mar 2015 12:38:25 -0400</pubDate>
-      
-      <guid>/blog/2015/03/12/storytelling/</guid>
-      <description>Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.
-Does this droning sound like what is driving your security program? Even though these facts are true they may not win the hearts and minds of your security decision makers. Everyone seems to have these facts these days so in a way they are becoming background noise.</description>
+      <guid>//localhost:1313/blog/2015/03/12/storytelling/</guid>
+      <description>Data breaches cost over $150 per record. An identity is stolen every 3 seconds. DDoS attacks are up over 43% this year alone. Some random statement on how poor most passwords are these days.&#xA;Does this droning sound like what is driving your security program? Even though these facts are true they may not win the hearts and minds of your security decision makers. Everyone seems to have these facts these days so in a way they are becoming background noise.</description>
     </item>
-    
   </channel>
 </rss>

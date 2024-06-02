@@ -2,21 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architect on Secret Chipmunk</title>
-    <link>/tags/architect/</link>
+    <link>//localhost:1313/tags/architect/</link>
     <description>Recent content in Architect on Secret Chipmunk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ron Parker</copyright>
-    <lastBuildDate>Thu, 12 Mar 2015 12:21:36 -0400</lastBuildDate><atom:link href="/tags/architect/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Mar 2015 12:21:36 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/architect/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Order of Things</title>
-      <link>/blog/2015/03/12/order-of-things/</link>
+      <link>//localhost:1313/blog/2015/03/12/order-of-things/</link>
       <pubDate>Thu, 12 Mar 2015 12:21:36 -0400</pubDate>
-      
-      <guid>/blog/2015/03/12/order-of-things/</guid>
-      <description>Sequence Diagrams I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.
-There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram.</description>
+      <guid>//localhost:1313/blog/2015/03/12/order-of-things/</guid>
+      <description>Sequence Diagrams I am not a huge fan of traditional UML diagrams for long term documentation. Most diagrams are quickly rendered old and useless. There are times though when you need to convey the sequence of operations between several entities. It is hard to beat the Sequence Diagram for those situations.&#xA;There are plenty of tools that let you build some very sophisticated Sequence Diagrams. I try to avoid spending more time building a Sequence Diagram than it would take to write the code behind the diagram.</description>
     </item>
-    
   </channel>
 </rss>

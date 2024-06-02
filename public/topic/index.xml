@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on Secret Chipmunk</title>
-    <link>/topic/</link>
+    <link>//localhost:1313/topic/</link>
     <description>Recent content in Topics on Secret Chipmunk</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>(c) 2021 Ron Parker</copyright>
-    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate><atom:link href="/topic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/topic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reference PlaceHolder</title>
-      <link>/topic/placeholder/</link>
+      <link>//localhost:1313/topic/placeholder/</link>
       <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/topic/placeholder/</guid>
+      <guid>//localhost:1313/topic/placeholder/</guid>
       <description>This page has been intentionally left blank.</description>
     </item>
-    
   </channel>
 </rss>

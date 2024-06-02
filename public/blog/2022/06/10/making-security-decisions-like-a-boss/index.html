@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Making Security Decisions Like a Boss - Secret Chipmunk</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="Making security decisions like a boss.">
+		<meta property="og:url" content="//localhost:1313/blog/2022/06/10/making-security-decisions-like-a-boss/">
+  <meta property="og:site_name" content="Secret Chipmunk">
+  <meta property="og:title" content="Making Security Decisions Like a Boss">
+  <meta property="og:description" content="Making security decisions like a boss.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2022-06-10T00:00:00+00:00">
+    <meta property="article:modified_time" content="2022-06-10T00:00:00+00:00">
+    <meta property="article:tag" content="Architecture">
+    <meta property="article:tag" content="Infosec">
+
+		
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Making Security Decisions Like a Boss">
+  <meta name="twitter:description" content="Making security decisions like a boss.">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/custom.css">
+
+	<link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo">
+		<a class="logo__link" href="/" title="Secret Chipmunk" rel="home">
+			<div class="logo__item logo__text">
+					<div class="logo__title">Secret Chipmunk</div>
+					<div class="logo__tagline">Architecture and Security</div>
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/about/">
+				
+				<span class="menu__text">About</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/models/">
+				
+				<span class="menu__text">Models</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/resume/">
+				
+				<span class="menu__text">Resume</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Making Security Decisions Like a Boss</h1>
+			<div class="post__meta meta">
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0a14 14 0 1 1 0 28 1 1 0 0 1 0-28m0 3a3 3 0 1 0 0 22 3 3 0 0 0 0-22m1 4h-2v8.4l6.8 4.4L22 18l-6-3.8z"/></svg><time class="meta__text" datetime="2022-06-10T00:00:00Z">2022-06-10</time></div></div>
+		</header>
+		
+<div class="post__toc toc">
+	<div class="toc__title">Page content</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#how-do-we-make-good-security-decisions">How do we make good security decisions?</a></li>
+        <li><a href="#resources">Resources</a></li>
+        <li><a href="#summary">Summary</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<h3 id="how-do-we-make-good-security-decisions">How do we make good security decisions?</h3>
+<!-- raw HTML omitted -->
+<p>aaaaaa</p>
+<p><img src="/images/boss/bosssimplecapability.png" alt="Simple Capability Model"></p>
+<p><img src="/images/boss/bosscapabilityexample.png" alt="Capability Example"></p>
+<p><img src="/images/boss/bossinfosechigh.png" alt="High Level"></p>
+<p><img src="/images/boss/bossinfoseccapability.png" alt="Capability Example"></p>
+<p>It has been a busy year. A lot of time was spent actually working with AWS and a good many of their offerings. So much time that the whole year flew by and I almost didn&rsquo;t have the time to take the <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/">certification</a> I had been working on for so long.</p>
+<p>Another issue was that test centers were still not open in my area so the testing had to be proctored. Once you actually begin the test you will quickly forget you are being proctored. You won&rsquo;t have any time to worry about people half-way around the world staring at you as you take your test.</p>
+<p>Jumping to the end of the story, I passed and it was a hard test.</p>
+<h4 id="important-areas-for-the-sap">Important Areas for the SAP</h4>
+<p>The associate level certification concentrated on the core services and where they might be used. The professional level deals more with architecture and more complex engineering issues. A lot of the situations are those that you would encounter in a large enterprise.</p>
+<p>This should be no surprise because these are the same areas that the <a href="https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&amp;wa-lens-whitepapers.sort-order=desc">AWS Well Architected Framework</a> concentrate on.</p>
+<ul>
+<li>Connecting VPCs/sub-netting using VPNs, Direct Connect with some
+BGP thrown in for good measure</li>
+<li>All types of gateways including Transit, API, plus public and private endpoints</li>
+<li>Network optimization</li>
+<li>Adjusting cost based on service types, and purchase options</li>
+<li>Migration scenarios for databases and file systems with varying parameters of time and money</li>
+<li>Backup, recovery, and disaster recovery scenarios with some specifying RTO/RPO requirements</li>
+<li>Choosing the correct database service for the job paying special attention to availability and fail-over options</li>
+<li>General asynchronous solution patterns and how SQS, SMS, Kinesis, and Kafka might fit in</li>
+<li>Data analysis methods depending on what type of data and where it sits; knowing when to use specific analytical data stores and when to leave the data in place</li>
+<li>Organizational and account options along with how to apply the different policy types</li>
+<li>Cost reporting options</li>
+</ul>
+<p>I can definitely emphasize hands-on work before you take this test. You may pass by taking a Bootcamp Cram Session but it will be doubtful that your certification will be applicable in the real world.</p>
+<h3 id="resources">Resources</h3>
+<p>There are a couple of books and several classes you can use as resources. Here are three main areas that I used.</p>
+<ul>
+<li><a href="https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS%20Certified%20Solutions%20Architect-Professional_Exam%20Guide.pdf">AWS SAP Exam Guide</a>, don&rsquo;t let if fool you, there are a lot of AWS reference materials</li>
+<li><a href="https://learn.cantrill.io/">Training by Adrian Cantrill</a>, He has some great material and I can&rsquo;t recommend this enough</li>
+<li>Hands On Keyboard - use the console, use the command line, write scripts, create things and connect things</li>
+</ul>
+<h3 id="summary">Summary</h3>
+<p>No doubt this was the most difficult exam I have studied for or taken. It has definitely helped me make better decisions along with just knowing more options.</p>
+<p>If you have any questions drop me a note <a href="https://twitter.com/scmunk">@scmunk</a></p>
+<p>Good luck!</p>
+
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M4 0h8s2 0 4 2l15 15s2 2 0 4L21 31s-2 2-4 0L2 16s-2-2-2-4V3s0-3 4-3m3 10a3 3 0 0 0 0-6 3 3 0 0 0 0 6"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/architecture/" rel="tag">Architecture</a>
+		</li>
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/infosec/" rel="tag">InfoSec</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<div class="authorbox__header">
+		<span class="authorbox__name">About Ron Parker</span>
+	</div>
+</div>
+
+
+
+			</div>
+			
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2024 (c) 2020 Ron Parker.
+			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/custom.js"></script></body>
+</html>

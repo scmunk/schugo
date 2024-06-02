@@ -1,230 +1,143 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/tags/architecture/</loc>
+    <loc>//localhost:1313/tags/architecture/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/infosec/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2022/06/10/making-security-decisions-like-a-boss/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/blog/2020/12/30/aws-solution-architect-professional-sap/</loc>
     <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2020/12/30/aws-solution-architect-professional-sap/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/infosec/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2019/06/18/aws-certification/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2019/06/18/aws-certification/</loc>
     <lastmod>2019-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/09/05/modeling-information-security/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/09/05/modeling-information-security/</loc>
     <lastmod>2018-09-05T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/models/</loc>
+  </url><url>
+    <loc>//localhost:1313/models/</loc>
     <lastmod>2018-09-01T14:40:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/08/23/security-capabilities-all-the-way-down/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/08/23/security-capabilities-all-the-way-down/</loc>
     <lastmod>2018-08-23T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/mapping/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/mapping/</loc>
     <lastmod>2018-08-18T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/08/18/quality-wardley-maps/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/08/18/quality-wardley-maps/</loc>
     <lastmod>2018-08-18T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/cloud/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/cloud/</loc>
     <lastmod>2018-08-12T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/08/12/foundations-for-cloud-capabilities-continued/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/08/12/foundations-for-cloud-capabilities-continued/</loc>
     <lastmod>2018-08-12T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/07/24/foundations-for-cloud-capabilities/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/07/24/foundations-for-cloud-capabilities/</loc>
     <lastmod>2018-07-24T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/07/22/cloud-capabilities/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/07/22/cloud-capabilities/</loc>
     <lastmod>2018-07-22T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2018/02/28/security-bsides-chattanooga-2018/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2018/02/28/security-bsides-chattanooga-2018/</loc>
     <lastmod>2018-02-28T14:24:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/topic/placeholder/</loc>
+  </url><url>
+    <loc>//localhost:1313/topic/placeholder/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/topic/</loc>
+  </url><url>
+    <loc>//localhost:1313/topic/</loc>
     <lastmod>2018-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/architecture/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/architecture/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/07/20/ready-set-architect/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2017/07/20/ready-set-architect/</loc>
     <lastmod>2017-07-20T15:18:39-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2017/05/01/session-box/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2017/05/01/session-box/</loc>
     <lastmod>2017-05-01T20:07:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/thinking/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/thinking/</loc>
     <lastmod>2017-05-01T20:07:53-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2016/10/28/the-certified-cloud-security-professional-test/</loc>
     <lastmod>2016-10-28T14:24:35-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2016/09/18/entitlements-in-a-multi-tenant-world/</loc>
     <lastmod>2016-09-18T12:21:29-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/04/17/b-sides-nashville-2016-presentation/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2016/04/17/b-sides-nashville-2016-presentation/</loc>
     <lastmod>2016-04-17T11:24:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2016/02/24/b-sides-nashville-2016/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2016/02/24/b-sides-nashville-2016/</loc>
     <lastmod>2016-02-24T11:24:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/05/12/what-is-the-secret-of-the-grail/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/05/12/what-is-the-secret-of-the-grail/</loc>
     <lastmod>2015-05-12T10:09:38-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/04/25/opensdl-presentation/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/04/25/opensdl-presentation/</loc>
     <lastmod>2015-04-25T15:00:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/resume/</loc>
+  </url><url>
+    <loc>//localhost:1313/resume/</loc>
     <lastmod>2015-04-16T14:40:24-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/04/14/b-sides-nashville-2015/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/04/14/b-sides-nashville-2015/</loc>
     <lastmod>2015-04-14T11:24:54-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/20/open-security-development-lifecycle/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/20/open-security-development-lifecycle/</loc>
     <lastmod>2015-03-20T15:00:45-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/development/</loc>
     <lastmod>2015-03-19T14:00:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/19/why-go-hugo/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/19/why-go-hugo/</loc>
     <lastmod>2015-03-19T14:00:56-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/16/why-architect/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/16/why-architect/</loc>
     <lastmod>2015-03-16T15:09:38-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/control-by-control/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/control-by-control/</loc>
     <lastmod>2015-03-12T12:47:21-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/security-capabilities/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/security-capabilities/</loc>
     <lastmod>2015-03-12T12:45:30-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/ecstatic-over-static-passwords/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/ecstatic-over-static-passwords/</loc>
     <lastmod>2015-03-12T12:43:10-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/architect-from-hole-in-the-ground/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/architect-from-hole-in-the-ground/</loc>
     <lastmod>2015-03-12T12:41:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/communication/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/communication/</loc>
     <lastmod>2015-03-12T12:38:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/storytelling/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/storytelling/</loc>
     <lastmod>2015-03-12T12:38:25-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/architect/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/architect/</loc>
     <lastmod>2015-03-12T12:21:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/2015/03/12/order-of-things/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/2015/03/12/order-of-things/</loc>
     <lastmod>2015-03-12T12:21:36-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
     <lastmod>2015-02-26T14:40:39-05:00</lastmod>
   </url>
-  
 </urlset>
